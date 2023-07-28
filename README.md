@@ -43,5 +43,5 @@ Big Build Mode ---> 大型构建模式（待定）
 ## 协助开发
 
  1. 复刻(Fork)此项目
- 2. 在复刻项目中修改 *Structura.py* *lookups\material_list_names.json*源码
+ 2. 在复刻项目中修改 `Structura.py` `\lookups\material_list_names.json` 源码
  3. 提交拉取请求(Pull Request)
