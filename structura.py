@@ -14,7 +14,7 @@ def browseStruct():
 def browseIcon():
     #browse for a structure file.
     icon_var.set(filedialog.askopenfilename(filetypes=(
-        ("PNG", "*.png *.PNG"), )))
+        ("图标文件", "*.png *.PNG"), )))
 def box_checked():
     if check_var.get()==0:
         modle_name_entry.grid_forget()
@@ -101,9 +101,9 @@ def add_model():
         model_name_var.set(os.path.basename(FileGUI.get()))
     if len(FileGUI.get()) == 0:
         valid=False
-        messagebox.showinfo("错误", "你需要选择一个结构文件！")
+        messagebox.showinfo("错误", "未选择结构文件")
     if model_name_var.get() in list(models.keys()):
-        messagebox.showinfo("错误", "标签必须唯一")
+        messagebox.showinfo("错误", "名称不唯一")
         valid=False
 
     if valid:
@@ -129,15 +129,15 @@ def runFromGui():
     stop = False
     if os.path.isfile("{}.mcpack".format(packName.get())):
         stop = True
-        messagebox.showinfo("错误", "包已存在或包名称为空")
+        messagebox.showinfo("错误", "包已存在或包名为空")
         ## could be fixed if temp files were used.
     if check_var.get()==0:
         if len(FileGUI.get()) == 0:
             stop = True
-            messagebox.showinfo("错误", "未选择结构文件！")
+            messagebox.showinfo("错误", "未选择结构文件")
     if len(packName.get()) == 0:
         stop = True
-        messagebox.showinfo("错误", "包名不能为空！")
+        messagebox.showinfo("错误", "未命名")
     else:
         if len(list(models.keys()))==0 and check_var.get():
             stop = True
@@ -200,14 +200,14 @@ sliderVar.set(20)
 listbox=Listbox(root)
 file_entry = Entry(root, textvariable=FileGUI)
 packName_entry = Entry(root, textvariable=packName)
-modle_name_lb = Label(root, text="命名牌")
+modle_name_lb = Label(root, text="盔甲架名")
 modle_name_entry = Entry(root, textvariable=model_name_var)
 cord_lb = Label(root, text="偏移量")
 cord_lb_big = Label(root, text="角落")
 x_entry = Entry(root, textvariable=xvar, width=5)
 y_entry = Entry(root, textvariable=yvar, width=5)
 z_entry = Entry(root, textvariable=zvar, width=5)
-icon_lb = Label(root, text="图标")
+icon_lb = Label(root, text="图标文件")
 icon_entry = Entry(root, textvariable=icon_var)
 IconButton = Button(root, text="选择", command=browseIcon)
 file_lb = Label(root, text="结构文件")
@@ -217,10 +217,10 @@ if debug:
 packButton = Button(root, text="选择", command=browseStruct)
 advanced_check = Checkbutton(root, text="高级", variable=check_var, onvalue=1, offvalue=0, command=box_checked)
 export_check = Checkbutton(root, text="生成材料列表", variable=export_list, onvalue=1, offvalue=0)
-big_build_check = Checkbutton(root, text="大型构建模式", variable=big_build, onvalue=1, offvalue=0, command=box_checked )
+big_build_check = Checkbutton(root, text="大型模型模式", variable=big_build, onvalue=1, offvalue=0, command=box_checked )
 
 deleteButton = Button(root, text="删除模型", command=delete_model)
-saveButton = Button(root, text="制作投影包", command=runFromGui)
+saveButton = Button(root, text="开始", command=runFromGui)
 modelButton = Button(root, text="添加模型", command=add_model)
 transparency_lb = Label(root, text="透明度")
 transparency_entry = Scale(root,variable=sliderVar, length=200, from_=0, to=100,tickinterval=10,orient=HORIZONTAL)
