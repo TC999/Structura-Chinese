@@ -1,5 +1,5 @@
 # Structura-Chinese
-Structura汉化版，直接修改源码显示文字，[原版地址](https://github.com/RavinMaddHatter/Structura)，[汉化版下载地址]
+Structura汉化版，直接修改源码显示文字，[原版地址](https://github.com/RavinMaddHatter/Structura)，[汉化版下载地址](https://github.com/TC999/Structura-Chinese/releases/latest)
 
 ## 翻译文本(Translation)：
 
