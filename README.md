@@ -3,7 +3,7 @@ Structura汉化版，直接修改源码显示文字，[原版地址](https://git
 
 ## 效果展示
 
-<img width="203" alt="Screenshot" src="[https://github.com/TC999/Structura-Chinese/assets/88823709/6a778b4c-a7a6-4f14-bc73-929270d07bcf](https://github.com/TC999/Structura-Chinese/blob/main/Screenshot.PNG)">
+<img width="203" alt="Screenshot" src="https://github.com/TC999/Structura-Chinese/blob/main/Screenshot.PNG">
 
 
 ## 翻译文本(Translation)：
