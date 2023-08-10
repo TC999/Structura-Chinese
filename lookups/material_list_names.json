@@ -1,1781 +1,1781 @@
 {
 	"minecraft:raw_iron_block": {
-		"default": "´ÖÌú¿é"
+		"default": "ç²—é“å—"
 	},
 	"minecraft:raw_copper_block": {
-		"default": "´ÖÍ­¿é"
+		"default": "ç²—é“œå—"
 	},
 	"minecraft:raw_gold_block": {
-		"default": "´Ö½ğ¿é"
+		"default": "ç²—é‡‘å—"
 	},
 	"minecraft:diamond_block": {
-		"default": "×êÊ¯¿é"
+		"default": "é’»çŸ³å—"
 	},
 	"minecraft:emerald_block": {
-		"default": "ÂÌ±¦Ê¯¿é"
+		"default": "ç»¿å®çŸ³å—"
 	},
 	"minecraft:lapis_block": {
-		"default": "Çà½ğÊ¯¿é"
+		"default": "é’é‡‘çŸ³å—"
 	},
 	"minecraft:redstone_block": {
-		"default": "ºìÊ¯¿é"
+		"default": "çº¢çŸ³å—"
 	},
 	"minecraft:coal_block": {
-		"default": "ÃºÌ¿¿é"
+		"default": "ç…¤ç‚­å—"
 	},
 	"minecraft:netherite_block": {
-		"default": "ÏÂ½çºÏ½ğ¿é"
+		"default": "ä¸‹ç•Œåˆé‡‘å—"
 	},
 	"minecraft:barrier": {
-		"default": "ÆÁÕÏ"
+		"default": "å±éšœ"
 	},
 	"minecraft:piston_arm_collision": {
-		"default": "»îÈû±Û"
+		"default": "æ´»å¡è‡‚"
 	},
 	"minecraft:sticky_piston_arm_collision": {
-		"default": "ğ¤ĞÔ»îÈû±Û"
+		"default": "é»æ€§æ´»å¡è‡‚"
 	},
 	"minecraft:iron_ore": {
-		"default": "Ìú¿óÊ¯"
+		"default": "é“çŸ¿çŸ³"
 	},
 	"minecraft:copper_ore": {
-		"default": "Í­¿óÊ¯"
+		"default": "é“œçŸ¿çŸ³"
 	},
 	"minecraft:gold_ore": {
-		"default": "½ğ¿óÊ¯"
+		"default": "é‡‘çŸ¿çŸ³"
 	},
 	"minecraft:diamond_ore": {
-		"default": "×êÊ¯¿óÊ¯"
+		"default": "é’»çŸ³çŸ¿çŸ³"
 	},
 	"minecraft:emerald_ore": {
-		"default": "ÂÌ±¦Ê¯¿óÊ¯"
+		"default": "ç»¿å®çŸ³çŸ¿çŸ³"
 	},
 	"minecraft:lapis_ore": {
-		"default": "Çà½ğÊ¯¿óÊ¯"
+		"default": "é’é‡‘çŸ³çŸ¿çŸ³"
 	},
 	"minecraft:redstone_ore": {
-		"default": "ºìÊ¯¿óÊ¯"
+		"default": "çº¢çŸ³çŸ¿çŸ³"
 	},
 	"minecraft:coal_ore": {
-		"default": "Ãº¿óÊ¯"
+		"default": "ç…¤çŸ¿çŸ³"
 	},
 	"minecraft:quartz_ore": {
-		"default": "ÏÂ½çÊ¯Ó¢¿óÊ¯"
+		"default": "ä¸‹ç•ŒçŸ³è‹±çŸ¿çŸ³"
 	},
 	"minecraft:golden_rail": {
-		"default": "¶¯Á¦Ìú¹ì"
+		"default": "åŠ¨åŠ›é“è½¨"
 	},
 	"minecraft:activator_rail": {
-		"default": "¼¤»îÌú¹ì"
+		"default": "æ¿€æ´»é“è½¨"
 	},
 	"minecraft:detector_rail": {
-		"default": "Ì½²âÌú¹ì"
+		"default": "æ¢æµ‹é“è½¨"
 	},
 	"minecraft:rail": {
-		"default": "Ìú¹ì"
+		"default": "é“è½¨"
 	},
 	"minecraft:tripwire_hook": {
-		"default": "°íÏß¹³"
+		"default": "ç»Šçº¿é’©"
 	},
 	"minecraft:dropper": {
-		"default": "Í¶ÖÀÆ÷"
+		"default": "æŠ•æ·å™¨"
 	},
 	"minecraft:dispenser": {
-		"default": "·¢ÉäÆ÷"
+		"default": "å‘å°„å™¨"
 	},
 	"minecraft:piston": {
-		"default": "»îÈû"
+		"default": "æ´»å¡"
 	},
 	"minecraft:sticky_piston": {
-		"default": "ğ¤ĞÔ»îÈû"
+		"default": "é»æ€§æ´»å¡"
 	},
 	"minecraft:respawn_anchor": {
-		"default": "ÖØÉúÃª"
+		"default": "é‡ç”Ÿé”š"
 	},
 	"minecraft:deepslate_iron_ore": {
-		"default": "Éî²ãÌú¿óÊ¯"
+		"default": "æ·±å±‚é“çŸ¿çŸ³"
 	},
 	"minecraft:deepslate_copper_ore": {
-		"default": "Éî²ãÍ­¿óÊ¯"
+		"default": "æ·±å±‚é“œçŸ¿çŸ³"
 	},
 	"minecraft:nether_gold_ore": {
-		"default": "ÏÂ½ç½ğ¿óÊ¯"
+		"default": "ä¸‹ç•Œé‡‘çŸ¿çŸ³"
 	},
 	"minecraft:deepslate_diamond_ore": {
-		"default": "Éî²ã×êÊ¯¿óÊ¯"
+		"default": "æ·±å±‚é’»çŸ³çŸ¿çŸ³"
 	},
 	"minecraft:deepslate_emerald_ore": {
-		"default": "Éî²ãÂÌ±¦Ê¯¿óÊ¯"
+		"default": "æ·±å±‚ç»¿å®çŸ³çŸ¿çŸ³"
 	},
 	"minecraft:deepslate_lapis_ore": {
-		"default": "Éî²ãÇà½ğÊ¯¿óÊ¯"
+		"default": "æ·±å±‚é’é‡‘çŸ³çŸ¿çŸ³"
 	},
 	"minecraft:deepslate_redstone_ore": {
-		"default": "Éî²ãºìÊ¯¿óÊ¯"
+		"default": "æ·±å±‚çº¢çŸ³çŸ¿çŸ³"
 	},
 	"minecraft:deepslate_coal_ore": {
-		"default": "Éî²ãÃº¿óÊ¯"
+		"default": "æ·±å±‚ç…¤çŸ¿çŸ³"
 	},
 	"minecraft:ancient_debris": {
-		"default": "Ô¶¹Å²Ğº¡"
+		"default": "è¿œå¤æ®‹éª¸"
 	},
 	"minecraft:lightning_rod": {
-		"default": "±ÜÀ×Õë"
+		"default": "é¿é›·é’ˆ"
 	},
 	"minecraft:deepslate_gold_ore": {
-		"default": "Éî²ã½ğ¿óÊ¯"
+		"default": "æ·±å±‚é‡‘çŸ¿çŸ³"
 	},
 	"minecraft:trip_wire": {
-		"default": "Ïß"
+		"default": "çº¿"
 	},
 	"minecraft:hopper": {
-		"default": "Â©¶·"
+		"default": "æ¼æ–—"
 	},
 	"minecraft:gilded_blackstone": {
-		"default": "Ïâ½ğºÚÊ¯"
+		"default": "é•¶é‡‘é»‘çŸ³"
 	},
 	"minecraft:daylight_detector": {
-		"default": "Ñô¹âÌ½²âÆ÷"
+		"default": "é˜³å…‰æ¢æµ‹å™¨"
 	},
 	"minecraft:polished_blackstone_button": {
-		"default": "Ä¥ÖÆºÚÊ¯°´Å¥"
+		"default": "ç£¨åˆ¶é»‘çŸ³æŒ‰é’®"
 	},
 	"minecraft:gold_block": {
-		"default": "½ğ¿é"
+		"default": "é‡‘å—"
 	},
 	"minecraft:redstone_torch": {
-		"default": "ºìÊ¯»ğ°Ñ"
+		"default": "çº¢çŸ³ç«æŠŠ"
 	},
 	"minecraft:light_weighted_pressure_plate": {
-		"default": "ÇáÖÊ²âÖØÑ¹Á¦°å"
+		"default": "è½»è´¨æµ‹é‡å‹åŠ›æ¿"
 	},
 	"minecraft:daylight_detector_inverted": {
-		"default": "Ñô¹âÌ½²âÆ÷"
+		"default": "é˜³å…‰æ¢æµ‹å™¨"
 	},
 	"minecraft:powered_repeater": {
-		"default": "ºìÊ¯ÖĞ¼ÌÆ÷"
+		"default": "çº¢çŸ³ä¸­ç»§å™¨"
 	},
 	"minecraft:iron_trapdoor": {
-		"default": "Ìú»î°åÃÅ"
+		"default": "é“æ´»æ¿é—¨"
 	},
 	"minecraft:polished_blackstone_pressure_plate": {
-		"default": "Ä¥ÖÆºÚÊ¯Ñ¹Á¦°å"
+		"default": "ç£¨åˆ¶é»‘çŸ³å‹åŠ›æ¿"
 	},
 	"minecraft:stone_button": {
-		"default": "Ê¯Í·°´Å¥"
+		"default": "çŸ³å¤´æŒ‰é’®"
 	},
 	"minecraft:observer": {
-		"default": "Õì²âÆ÷"
+		"default": "ä¾¦æµ‹å™¨"
 	},
 	"minecraft:unpowered_repeater": {
-		"default": "ºìÊ¯ÖĞ¼ÌÆ÷"
+		"default": "çº¢çŸ³ä¸­ç»§å™¨"
 	},
 	"minecraft:stone_pressure_plate": {
-		"default": "Ê¯Í·Ñ¹Á¦°å"
+		"default": "çŸ³å¤´å‹åŠ›æ¿"
 	},
 	"minecraft:sculk_sensor": {
-		"default": "ÓÄÄä¸Ğ²âÌå"
+		"default": "å¹½åŒ¿æ„Ÿæµ‹ä½“"
 	},
 	"minecraft:unlit_redstone_torch": {
-		"default": "ºìÊ¯»ğ°Ñ"
+		"default": "çº¢çŸ³ç«æŠŠ"
 	},
 	"minecraft:iron_bars": {
-		"default": "ÌúÀ¸¸Ë"
+		"default": "é“æ æ†"
 	},
 	"minecraft:target": {
-		"default": "±ê°Ğ"
+		"default": "æ ‡é¶"
 	},
 	"minecraft:tnt": {
 		"default": "TNT"
 	},
 	"minecraft:heavy_weighted_pressure_plate": {
-		"default": "ÖØÖÊ²âÖØÑ¹Á¦°å"
+		"default": "é‡è´¨æµ‹é‡å‹åŠ›æ¿"
 	},
 	"minecraft:lever": {
-		"default": "À­¸Ë"
+		"default": "æ‹‰æ†"
 	},
 	"minecraft:lit_redstone_lamp": {
-		"default": "ºìÊ¯µÆ"
+		"default": "çº¢çŸ³ç¯"
 	},
 	"minecraft:redstone_lamp": {
-		"default": "ºìÊ¯µÆ"
+		"default": "çº¢çŸ³ç¯"
 	},
 	"minecraft:iron_block": {
-		"default": "Ìú¿é"
+		"default": "é“å—"
 	},
 	"minecraft:unpowered_comparator": {
-		"default": "ºìÊ¯±È½ÏÆ÷"
+		"default": "çº¢çŸ³æ¯”è¾ƒå™¨"
 	},
 	"minecraft:powered_comparator": {
-		"default": "ºìÊ¯±È½ÏÆ÷"
+		"default": "çº¢çŸ³æ¯”è¾ƒå™¨"
 	},
 	"minecraft:lectern": {
-		"default": "½²Ì¨"
+		"default": "è®²å°"
 	},
 	"minecraft:smoker": {
-		"default": "ÑÌÑ¬Â¯"
+		"default": "çƒŸç†ç‚‰"
 	},
 	"minecraft:blast_furnace": {
-		"default": "¸ßÂ¯"
+		"default": "é«˜ç‚‰"
 	},
 	"minecraft:furnace": {
-		"default": "ÈÛÂ¯"
+		"default": "ç†”ç‚‰"
 	},
 	"minecraft:bee_nest": {
-		"default": "·ä³²"
+		"default": "èœ‚å·¢"
 	},
 	"minecraft:beehive": {
-		"default": "·äÏä"
+		"default": "èœ‚ç®±"
 	},
 	"minecraft:smithing_table": {
-		"default": "¶ÍÔìÌ¨"
+		"default": "é”»é€ å°"
 	},
 	"minecraft:fletching_table": {
-		"default": "ÖÆ¼ıÌ¨"
+		"default": "åˆ¶ç®­å°"
 	},
 	"minecraft:crafting_table": {
-		"default": "¹¤×÷Ì¨"
+		"default": "å·¥ä½œå°"
 	},
 	"minecraft:cartography_table": {
-		"default": "ÖÆÍ¼Ì¨"
+		"default": "åˆ¶å›¾å°"
 	},
 	"minecraft:slime": {
-		"default": "ğ¤Òº¿é"
+		"default": "é»æ¶²å—"
 	},
 	"minecraft:honey_block": {
-		"default": "·äÃÛ¿é"
+		"default": "èœ‚èœœå—"
 	},
 	"minecraft:honeycomb_block": {
-		"default": "ÃÛÆ¢¿é"
+		"default": "èœœè„¾å—"
 	},
 	"minecraft:loom": {
-		"default": "Ö¯²¼»ú"
+		"default": "ç»‡å¸ƒæœº"
 	},
 	"minecraft:flower_pot": {
-		"default": "»¨Åè"
+		"default": "èŠ±ç›†"
 	},
 	"minecraft:stonecutter_block": {
-		"default": "ÇĞÊ¯»ú"
+		"default": "åˆ‡çŸ³æœº"
 	},
 	"minecraft:ender_chest": {
-		"default": "Ä©Ó°Ïä"
+		"default": "æœ«å½±ç®±"
 	},
 	"minecraft:trapped_chest": {
-		"default": "ÏİÚåÏä"
+		"default": "é™·é˜±ç®±"
 	},
 	"minecraft:chest": {
-		"default": "Ïä×Ó"
+		"default": "ç®±å­"
 	},
 	"minecraft:conduit": {
-		"default": "³±Ó¿ºËĞÄ"
+		"default": "æ½®æ¶Œæ ¸å¿ƒ"
 	},
 	"minecraft:beacon": {
-		"default": "ĞÅ±ê"
+		"default": "ä¿¡æ ‡"
 	},
 	"minecraft:jukebox": {
-		"default": "³ªÆ¬»ú"
+		"default": "å”±ç‰‡æœº"
 	},
 	"minecraft:noteblock": {
-		"default": "Òô·ûºĞ"
+		"default": "éŸ³ç¬¦ç›’"
 	},
 	"minecraft:bookshelf": {
-		"default": "Êé¼Ü"
+		"default": "ä¹¦æ¶"
 	},
 	"minecraft:composter": {
-		"default": "¶Ñ·ÊÍ°"
+		"default": "å †è‚¥æ¡¶"
 	},
 	"minecraft:cauldron": {
-		"default": "Á¶Ò©¹ø"
+		"default": "ç‚¼è¯é”…"
 	},
 	"minecraft:enchanting_table": {
-		"default": "¸½Ä§Ì¨"
+		"default": "é™„é­”å°"
 	},
 	"minecraft:hay_block": {
-		"default": "¸É²İÀ¦"
+		"default": "å¹²è‰æ†"
 	},
 	"minecraft:glow_frame": {
-		"default": "Ó«¹âÎïÆ·Õ¹Ê¾¿ò"
+		"default": "è§å…‰ç‰©å“å±•ç¤ºæ¡†"
 	},
 	"minecraft:frame": {
-		"default": "ÎïÆ·Õ¹Ê¾¿ò"
+		"default": "ç‰©å“å±•ç¤ºæ¡†"
 	},
 	"minecraft:bone_block": {
-		"default": "¹Ç¿é"
+		"default": "éª¨å—"
 	},
 	"minecraft:bell": {
-		"default": "ÖÓ"
+		"default": "é’Ÿ"
 	},
 	"minecraft:anvil": {
-		"default": "ÌúÕè"
+		"default": "é“ç §"
 	},
 	"minecraft:grass": {
-		"default": "²İ·½¿é"
+		"default": "è‰æ–¹å—"
 	},
 	"minecraft:soul_campfire": {
-		"default": "Áé»êÓª»ğ"
+		"default": "çµé­‚è¥ç«"
 	},
 	"minecraft:glowstone": {
-		"default": "Ó«Ê¯"
+		"default": "è§çŸ³"
 	},
 	"minecraft:shroomlight": {
-		"default": "¾ú¹âÌå"
+		"default": "èŒå…‰ä½“"
 	},
 	"minecraft:sea_lantern": {
-		"default": "º£¾§µÆ"
+		"default": "æµ·æ™¶ç¯"
 	},
 	"minecraft:chain": {
-		"default": "ËøÁ´"
+		"default": "é”é“¾"
 	},
 	"minecraft:end_rod": {
-		"default": "Ä©µØÖò"
+		"default": "æœ«åœ°çƒ›"
 	},
 	"minecraft:campfire": {
-		"default": "Óª»ğ"
+		"default": "è¥ç«"
 	},
 	"minecraft:ochre_froglight": {
-		"default": "ô÷»ÆÍÜÃ÷µÆ"
+		"default": "èµ­é»„è›™æ˜ç¯"
 	},
 	"minecraft:verdant_froglight": {
-		"default": "Çà´äÍÜÃ÷µÆ"
+		"default": "é’ç¿ è›™æ˜ç¯"
 	},
 	"minecraft:pearlescent_froglight": {
-		"default": "Öé¹âÍÜÃ÷µÆ"
+		"default": "ç å…‰è›™æ˜ç¯"
 	},
 	"minecraft:lodestone": {
-		"default": "´ÅÊ¯"
+		"default": "ç£çŸ³"
 	},
 	"minecraft:carpet": {
-		"color": "ºÚÉ«µØÌº",
-		"black": "ºÚÉ«µØÌº",
-		"red": "ºìÉ«µØÌº",
-		"green": "ÂÌÉ«µØÌº",
-		"brown": "×ØÉ«µØÌº",
-		"blue": "À¶É«µØÌº",
-		"purple": "×ÏÉ«µØÌº",
-		"cyan": "ÇàÉ«µØÌº",
-		"silver": "»ÒÉ«µØÌº",
-		"pink": "·ÛºìÉ«µØÌº",
-		"lime": "»ÆÂÌÉ«µØÌº",
-		"yellow": "»ÆÉ«µØÌº",
-		"light_blue": "µ­À¶É«µØÌº",
-		"magenta": "Æ·ºìÉ«µØÌº",
-		"orange": "³ÈÉ«µØÌº",
-		"white": "°×É«µØÌº"
+		"color": "é»‘è‰²åœ°æ¯¯",
+		"black": "é»‘è‰²åœ°æ¯¯",
+		"red": "çº¢è‰²åœ°æ¯¯",
+		"green": "ç»¿è‰²åœ°æ¯¯",
+		"brown": "æ£•è‰²åœ°æ¯¯",
+		"blue": "è“è‰²åœ°æ¯¯",
+		"purple": "ç´«è‰²åœ°æ¯¯",
+		"cyan": "é’è‰²åœ°æ¯¯",
+		"silver": "ç°è‰²åœ°æ¯¯",
+		"pink": "ç²‰çº¢è‰²åœ°æ¯¯",
+		"lime": "é»„ç»¿è‰²åœ°æ¯¯",
+		"yellow": "é»„è‰²åœ°æ¯¯",
+		"light_blue": "æ·¡è“è‰²åœ°æ¯¯",
+		"magenta": "å“çº¢è‰²åœ°æ¯¯",
+		"orange": "æ©™è‰²åœ°æ¯¯",
+		"white": "ç™½è‰²åœ°æ¯¯"
 	},
 	"minecraft:black_wool": {
-		"default": "ºÚÉ«ÑòÃ«"
+		"default": "é»‘è‰²ç¾Šæ¯›"
 	},
 	"minecraft:red_wool": {
-		"default": "ºìÉ«ÑòÃ«"
+		"default": "çº¢è‰²ç¾Šæ¯›"
 	},
 	"minecraft:green_wool": {
-		"default": "ÂÌÉ«ÑòÃ«"
+		"default": "ç»¿è‰²ç¾Šæ¯›"
 	},
 	"minecraft:brown_wool": {
-		"default": "×ØÉ«ÑòÃ«"
+		"default": "æ£•è‰²ç¾Šæ¯›"
 	},
 	"minecraft:blue_wool": {
-		"default": "À¶É«ÑòÃ«"
+		"default": "è“è‰²ç¾Šæ¯›"
 	},
 	"minecraft:purple_wool": {
-		"default": "×ÏÉ«ÑòÃ«"
+		"default": "ç´«è‰²ç¾Šæ¯›"
 	},
 	"minecraft:cyan_wool": {
-		"default": "ÇàÉ«ÑòÃ«"
+		"default": "é’è‰²ç¾Šæ¯›"
 	},
 	"minecraft:light_gray_wool": {
-		"default": "µ­»ÒÉ«ÑòÃ«"
+		"default": "æ·¡ç°è‰²ç¾Šæ¯›"
 	},
 	"minecraft:gray_wool": {
-		"default": "»ÒÉ«ÑòÃ«"
+		"default": "ç°è‰²ç¾Šæ¯›"
 	},
 	"minecraft:pink_wool": {
-		"default": "·ÛºìÉ«ÑòÃ«"
+		"default": "ç²‰çº¢è‰²ç¾Šæ¯›"
 	},
 	"minecraft:lime_wool": {
-		"default": "»ÆÂÌÉ«ÑòÃ«"
+		"default": "é»„ç»¿è‰²ç¾Šæ¯›"
 	},
 	"minecraft:yellow_wool": {
-		"default": "»ÆÉ«ÑòÃ«"
+		"default": "é»„è‰²ç¾Šæ¯›"
 	},
 	"minecraft:light_blue_wool": {
-		"default": "µ­À¶É«ÑòÃ«"
+		"default": "æ·¡è“è‰²ç¾Šæ¯›"
 	},
 	"minecraft:magenta_wool": {
-		"default": "Æ·ºìÉ«ÑòÃ«"
+		"default": "å“çº¢è‰²ç¾Šæ¯›"
 	},
 	"minecraft:orange_wool": {
-		"default": "³ÈÉ«ÑòÃ«"
+		"default": "æ©™è‰²ç¾Šæ¯›"
 	},
 	"minecraft:white_wool": {
-		"default": "°×É«ÑòÃ«"
+		"default": "ç™½è‰²ç¾Šæ¯›"
 	},
 	"minecraft:barrel": {
-		"default": "Ä¾Í°"
+		"default": "æœ¨æ¡¶"
 	},
 	"minecraft:concrete": {
-		"black": "ºÚÉ«»ìÄıÍÁ",
-		"red": "ºìÉ«»ìÄıÍÁ",
-		"green": "ÂÌÉ«»ìÄıÍÁ",
-		"brown": "×ØÉ«»ìÄıÍÁ",
-		"blue": "À¶É«»ìÄıÍÁ",
-		"purple": "×ÏÉ«»ìÄıÍÁ",
-		"cyan": "ÇàÉ«»ìÄıÍÁ",
-		"silver": "Ç³»ÒÉ«»ìÄıÍÁ",
-		"gray": "»ÒÉ«»ìÄıÍÁ",
-		"pink": "·ÛºìÉ«»ìÄıÍÁ",
-		"lime": "»ÆÂÌÉ«»ìÄıÍÁ",
-		"yellow": "»ÆÉ«»ìÄıÍÁ",
-		"light_blue": "À¶É«»ìÄıÍÁ",
-		"magenta": "Æ·ºìÉ«»ìÄıÍÁ",
-		"orange": "³ÈÉ«»ìÄıÍÁ",
-		"white": "°×É«»ìÄıÍÁ"
+		"black": "é»‘è‰²æ··å‡åœŸ",
+		"red": "çº¢è‰²æ··å‡åœŸ",
+		"green": "ç»¿è‰²æ··å‡åœŸ",
+		"brown": "æ£•è‰²æ··å‡åœŸ",
+		"blue": "è“è‰²æ··å‡åœŸ",
+		"purple": "ç´«è‰²æ··å‡åœŸ",
+		"cyan": "é’è‰²æ··å‡åœŸ",
+		"silver": "æµ…ç°è‰²æ··å‡åœŸ",
+		"gray": "ç°è‰²æ··å‡åœŸ",
+		"pink": "ç²‰çº¢è‰²æ··å‡åœŸ",
+		"lime": "é»„ç»¿è‰²æ··å‡åœŸ",
+		"yellow": "é»„è‰²æ··å‡åœŸ",
+		"light_blue": "è“è‰²æ··å‡åœŸ",
+		"magenta": "å“çº¢è‰²æ··å‡åœŸ",
+		"orange": "æ©™è‰²æ··å‡åœŸ",
+		"white": "ç™½è‰²æ··å‡åœŸ"
 	},
 	"minecraft:concrete_powder": {
-		"black": "ºÚÉ«»ìÄıÍÁ·ÛÄ©",
-		"red": "ºìÉ«»ìÄıÍÁ·ÛÄ©",
-		"green": "ÂÌÉ«»ìÄıÍÁ·ÛÄ©",
-		"brown": "×ØÉ«»ìÄıÍÁ·ÛÄ©",
-		"blue": "À¶É«»ìÄıÍÁ·ÛÄ©",
-		"purple": "×ÏÉ«»ìÄıÍÁ·ÛÄ©",
-		"cyan": "ÇàÉ«»ìÄıÍÁ·ÛÄ©",
-		"silver": "Ç³»ÒÉ«»ìÄıÍÁ·ÛÄ©",
-		"gray": "»ÒÉ«»ìÄıÍÁ·ÛÄ©",
-		"pink": "·ÛºìÉ«»ìÄıÍÁ·ÛÄ©",
-		"lime": "»ÆÂÌÉ«»ìÄıÍÁ·ÛÄ©",
-		"yellow": "»ÆÉ«»ìÄıÍÁ·ÛÄ©",
-		"light_blue": "À¶É«»ìÄıÍÁ·ÛÄ©",
-		"magenta": "Æ·ºìÉ«»ìÄıÍÁ·ÛÄ©",
-		"orange": "³ÈÉ«»ìÄıÍÁ·ÛÄ©",
-		"white": "°×É«»ìÄıÍÁ·ÛÄ©"
+		"black": "é»‘è‰²æ··å‡åœŸç²‰æœ«",
+		"red": "çº¢è‰²æ··å‡åœŸç²‰æœ«",
+		"green": "ç»¿è‰²æ··å‡åœŸç²‰æœ«",
+		"brown": "æ£•è‰²æ··å‡åœŸç²‰æœ«",
+		"blue": "è“è‰²æ··å‡åœŸç²‰æœ«",
+		"purple": "ç´«è‰²æ··å‡åœŸç²‰æœ«",
+		"cyan": "é’è‰²æ··å‡åœŸç²‰æœ«",
+		"silver": "æµ…ç°è‰²æ··å‡åœŸç²‰æœ«",
+		"gray": "ç°è‰²æ··å‡åœŸç²‰æœ«",
+		"pink": "ç²‰çº¢è‰²æ··å‡åœŸç²‰æœ«",
+		"lime": "é»„ç»¿è‰²æ··å‡åœŸç²‰æœ«",
+		"yellow": "é»„è‰²æ··å‡åœŸç²‰æœ«",
+		"light_blue": "è“è‰²æ··å‡åœŸç²‰æœ«",
+		"magenta": "å“çº¢è‰²æ··å‡åœŸç²‰æœ«",
+		"orange": "æ©™è‰²æ··å‡åœŸç²‰æœ«",
+		"white": "ç™½è‰²æ··å‡åœŸç²‰æœ«"
 	},
 	"minecraft:cocoa": {
-		"default": "¿É¿É¹û"
+		"default": "å¯å¯æœ"
 	},
 	"minecraft:stained_hardened_clay": {
-		"black": "ºÚÉ«ÌÕÍß",
-		"red": "ºìÉ«ÌÕÍß",
-		"green": "ÂÌÉ«ÌÕÍß",
-		"brown": "×ØÉ«ÌÕÍß",
-		"blue": "À¶É«ÌÕÍß",
-		"purple": "×ÏÉ«ÌÕÍß",
-		"cyan": "ÇàÉ«ÌÕÍß",
-		"silver": "Ç³»ÒÉ«ÌÕÍß",
-		"gray": "»ÒÉ«ÌÕÍß",
-		"pink": "·ÛºìÉ«ÌÕÍß",
-		"lime": "»ÆÂÌÉ«ÌÕÍß",
-		"yellow": "»ÆÉ«ÌÕÍß",
-		"light_blue": "µ­À¶É«ÌÕÍß",
-		"magenta": "Æ·ºìÉ«ÌÕÍß",
-		"orange": "³ÈÉ«ÌÕÍß",
-		"white": "°×É«ÌÕÍß"
+		"black": "é»‘è‰²é™¶ç“¦",
+		"red": "çº¢è‰²é™¶ç“¦",
+		"green": "ç»¿è‰²é™¶ç“¦",
+		"brown": "æ£•è‰²é™¶ç“¦",
+		"blue": "è“è‰²é™¶ç“¦",
+		"purple": "ç´«è‰²é™¶ç“¦",
+		"cyan": "é’è‰²é™¶ç“¦",
+		"silver": "æµ…ç°è‰²é™¶ç“¦",
+		"gray": "ç°è‰²é™¶ç“¦",
+		"pink": "ç²‰çº¢è‰²é™¶ç“¦",
+		"lime": "é»„ç»¿è‰²é™¶ç“¦",
+		"yellow": "é»„è‰²é™¶ç“¦",
+		"light_blue": "æ·¡è“è‰²é™¶ç“¦",
+		"magenta": "å“çº¢è‰²é™¶ç“¦",
+		"orange": "æ©™è‰²é™¶ç“¦",
+		"white": "ç™½è‰²é™¶ç“¦"
 	},
 	"minecraft:jungle_log": {
-		"default": "´ÔÁÖÔ­Ä¾"
+		"default": "ä¸›æ—åŸæœ¨"
 	},
 	"minecraft:black_glazed_terracotta": {
-		"default": "ºÚÉ«´øÓÔÌÕÍß"
+		"default": "é»‘è‰²å¸¦é‡‰é™¶ç“¦"
 	},
 	"minecraft:gray_glazed_terracotta": {
-		"default": "ºìÉ«´øÓÔÌÕÍß"
+		"default": "çº¢è‰²å¸¦é‡‰é™¶ç“¦"
 	},
 	"minecraft:silver_glazed_terracotta": {
-		"default": "Ç³»ÒÉ«´øÓÔÌÕÍß"
+		"default": "æµ…ç°è‰²å¸¦é‡‰é™¶ç“¦"
 	},
 	"minecraft:white_glazed_terracotta": {
-		"default": "°×É«´øÓÔÌÕÍß"
+		"default": "ç™½è‰²å¸¦é‡‰é™¶ç“¦"
 	},
 	"minecraft:yellow_glazed_terracotta": {
-		"default": "»ÆÉ«´øÓÔÌÕÍß"
+		"default": "é»„è‰²å¸¦é‡‰é™¶ç“¦"
 	},
 	"minecraft:orange_glazed_terracotta": {
-		"default": "³ÈÉ«´øÓÔÌÕÍß"
+		"default": "æ©™è‰²å¸¦é‡‰é™¶ç“¦"
 	},
 	"minecraft:red_glazed_terracotta": {
-		"default": "ºìÉ«´øÓÔÌÕÍß"
+		"default": "çº¢è‰²å¸¦é‡‰é™¶ç“¦"
 	},
 	"minecraft:brown_glazed_terracotta": {
-		"default": "×ØÉ«´øÓÔÌÕÍß"
+		"default": "æ£•è‰²å¸¦é‡‰é™¶ç“¦"
 	},
 	"minecraft:cake": {
-		"default": "µ°¸â"
+		"default": "è›‹ç³•"
 	},
 	"minecraft:light_blue_glazed_terracotta": {
-		"default": "À¶É«´øÓÔÌÕÍß"
+		"default": "è“è‰²å¸¦é‡‰é™¶ç“¦"
 	},
 	"minecraft:cyan_glazed_terracotta": {
-		"default": "ÇàÉ«´øÓÔÌÕÍß"
+		"default": "é’è‰²å¸¦é‡‰é™¶ç“¦"
 	},
 	"minecraft:green_glazed_terracotta": {
-		"default": "ÂÌÉ«´øÓÔÌÕÍß"
+		"default": "ç»¿è‰²å¸¦é‡‰é™¶ç“¦"
 	},
 	"minecraft:lime_glazed_terracotta": {
-		"default": "»ÆÂÌÉ«´øÓÔÌÕÍß"
+		"default": "é»„ç»¿è‰²å¸¦é‡‰é™¶ç“¦"
 	},
 	"minecraft:pink_glazed_terracotta": {
-		"default": "·ÛºìÉ«´øÓÔÌÕÍß"
+		"default": "ç²‰çº¢è‰²å¸¦é‡‰é™¶ç“¦"
 	},
 	"minecraft:magenta_glazed_terracotta": {
-		"default": "Æ·ºìÉ«´øÓÔÌÕÍß"
+		"default": "å“çº¢è‰²å¸¦é‡‰é™¶ç“¦"
 	},
 	"minecraft:purple_glazed_terracotta": {
-		"default": "×ÏÉ«´øÓÔÌÕÍß"
+		"default": "ç´«è‰²å¸¦é‡‰é™¶ç“¦"
 	},
 	"minecraft:blue_glazed_terracotta": {
-		"default": "À¶É«´øÓÔÌÕÍß"
+		"default": "è“è‰²å¸¦é‡‰é™¶ç“¦"
 	},
 	"minecraft:skull": {
-		"default": "ÉúÎïÍ·Â­"
+		"default": "ç”Ÿç‰©å¤´é¢…"
 	},
 	"minecraft:turtle_egg": {
-		"default": "º£¹êµ°"
+		"default": "æµ·é¾Ÿè›‹"
 	},
 	"minecraft:bed": {
-		"default": "´²"
+		"default": "åºŠ"
 	},
 	"minecraft:soul_torch": {
-		"default": "Áé»ê»ğ°Ñ"
+		"default": "çµé­‚ç«æŠŠ"
 	},
 	"minecraft:torch": {
-		"default": "»ğ°Ñ"
+		"default": "ç«æŠŠ"
 	},
 	"minecraft:soul_lantern": {
-		"default": "Áé»êµÆÁı"
+		"default": "çµé­‚ç¯ç¬¼"
 	},
 	"minecraft:lantern": {
-		"default": "µÆÁı"
+		"default": "ç¯ç¬¼"
 	},
 	"minecraft:sea_pickle": {
-		"default": "º£Åİ²Ë"
+		"default": "æµ·æ³¡èœ"
 	},
 	"minecraft:white_candle": {
-		"default": "°×É«À¯Öò"
+		"default": "ç™½è‰²èœ¡çƒ›"
 	},
 	"minecraft:candle": {
-		"default": "À¯Öò"
+		"default": "èœ¡çƒ›"
 	},
 	"minecraft:magenta_candle": {
-		"default": "Æ·ºìÉ«À¯Öò"
+		"default": "å“çº¢è‰²èœ¡çƒ›"
 	},
 	"minecraft:orange_candle": {
-		"default": "³ÈÉ«À¯Öò"
+		"default": "æ©™è‰²èœ¡çƒ›"
 	},
 	"minecraft:light_blue_candle": {
-		"default": "µ­À¶É«À¯Öò"
+		"default": "æ·¡è“è‰²èœ¡çƒ›"
 	},
 	"minecraft:yellow_candle": {
-		"default": "»ÆÉ«À¯Öò"
+		"default": "é»„è‰²èœ¡çƒ›"
 	},
 	"minecraft:pink_candle": {
-		"default": "·ÛºìÉ«À¯Öò"
+		"default": "ç²‰çº¢è‰²èœ¡çƒ›"
 	},
 	"minecraft:lime_candle": {
-		"default": "»ÆÂÌÉ«À¯Öò"
+		"default": "é»„ç»¿è‰²èœ¡çƒ›"
 	},
 	"minecraft:gray_candle": {
-		"default": "»ÒÉ«À¯Öò"
+		"default": "ç°è‰²èœ¡çƒ›"
 	},
 	"minecraft:light_gray_candle": {
-		"default": "µ­»ÒÉ«À¯Öò"
+		"default": "æ·¡ç°è‰²èœ¡çƒ›"
 	},
 	"minecraft:purple_candle": {
-		"default": "×ÏÉ«À¯Öò"
+		"default": "ç´«è‰²èœ¡çƒ›"
 	},
 	"minecraft:cyan_candle": {
-		"default": "ÇàÉ«À¯Öò"
+		"default": "é’è‰²èœ¡çƒ›"
 	},
 	"minecraft:green_candle": {
-		"default": "ÂÌÉ«À¯Öò"
+		"default": "ç»¿è‰²èœ¡çƒ›"
 	},
 	"minecraft:brown_candle": {
-		"default": "×ØÉ«À¯Öò"
+		"default": "æ£•è‰²èœ¡çƒ›"
 	},
 	"minecraft:red_candle": {
-		"default": "ºìÉ«À¯Öò"
+		"default": "çº¢è‰²èœ¡çƒ›"
 	},
 	"minecraft:black_candle": {
-		"default": "ºÚÉ«À¯Öò"
+		"default": "é»‘è‰²èœ¡çƒ›"
 	},
 	"minecraft:shulker_box": {
-		"white": "°×É«Ç±Ó°ºĞ",
-		"gray": "»ÒÉ«Ç±Ó°ºĞ",
-		"silver": "µ­»ÒÉ«Ç±Ó°ºĞ",
-		"green": "ÂÌÉ«Ç±Ó°ºĞ",
-		"black": "ºÚÉ«Ç±Ó°ºĞ",
-		"cyan": "ÇàÉ«Ç±Ó°ºĞ",
-		"brown": "×ØÉ«Ç±Ó°ºĞ",
-		"light_blue": "µ­À¶É«Ç±Ó°ºĞ",
-		"red": "ºìÉ«Ç±Ó°ºĞ",
-		"blue": "À¶É«Ç±Ó°ºĞ",
-		"orange": "³ÈÉ«Ç±Ó°ºĞ",
-		"purple": "×ÏÉ«Ç±Ó°ºĞ",
-		"lime": "»ÆÂÌÉ«Ç±Ó°ºĞ",
-		"pink": "·ÛºìÉ«Ç±Ó°ºĞ",
-		"magenta": "Æ·ºìÉ«Ç±Ó°ºĞ",
-		"default": "Ç±Ó°ºĞ"
+		"white": "ç™½è‰²æ½œå½±ç›’",
+		"gray": "ç°è‰²æ½œå½±ç›’",
+		"silver": "æ·¡ç°è‰²æ½œå½±ç›’",
+		"green": "ç»¿è‰²æ½œå½±ç›’",
+		"black": "é»‘è‰²æ½œå½±ç›’",
+		"cyan": "é’è‰²æ½œå½±ç›’",
+		"brown": "æ£•è‰²æ½œå½±ç›’",
+		"light_blue": "æ·¡è“è‰²æ½œå½±ç›’",
+		"red": "çº¢è‰²æ½œå½±ç›’",
+		"blue": "è“è‰²æ½œå½±ç›’",
+		"orange": "æ©™è‰²æ½œå½±ç›’",
+		"purple": "ç´«è‰²æ½œå½±ç›’",
+		"lime": "é»„ç»¿è‰²æ½œå½±ç›’",
+		"pink": "ç²‰çº¢è‰²æ½œå½±ç›’",
+		"magenta": "å“çº¢è‰²æ½œå½±ç›’",
+		"default": "æ½œå½±ç›’"
 	},
 	"minecraft:undyed_shulker_box": {
-		"default": "Ç±Ó°ºĞ"
+		"default": "æ½œå½±ç›’"
 	},
 	"minecraft:coral_fan_hang": {
-		"default": "Éºº÷ÉÈ"
+		"default": "çŠç‘šæ‰‡"
 	},
 	"minecraft:coral_fan_dead": {
-		"default": "Ê§»îµÄÉºº÷ÉÈ"
+		"default": "å¤±æ´»çš„çŠç‘šæ‰‡"
 	},
 	"minecraft:coral": {
-		"default": "Éºº÷"
+		"default": "çŠç‘š"
 	},
 	"minecraft:coral_fan": {
-		"default": "Éºº÷ÉÈ"
+		"default": "çŠç‘šæ‰‡"
 	},
 	"minecraft:coral_block": {
-		"default": "Éºº÷¿é"
+		"default": "çŠç‘šå—"
 	},
 	"minecraft:coral_fan_hang2": {
-		"default": "Éºº÷ÉÈ"
+		"default": "çŠç‘šæ‰‡"
 	},
 	"minecraft:coral_fan_hang3": {
-		"default": "Éºº÷ÉÈ"
+		"default": "çŠç‘šæ‰‡"
 	},
 	"minecraft:water": {
-		"default": "Ë®"
+		"default": "æ°´"
 	},
 	"minecraft:seagrass": {
-		"default": "º£²İ"
+		"default": "æµ·è‰"
 	},
 	"minecraft:kelp": {
-		"default": "º£´ø"
+		"default": "æµ·å¸¦"
 	},
 	"minecraft:warped_trapdoor": {
-		"default": "¹îÒìÄ¾»î°åÃÅ"
+		"default": "è¯¡å¼‚æœ¨æ´»æ¿é—¨"
 	},
 	"minecraft:warped_button": {
-		"default": "¹îÒìÄ¾°´Å¥"
+		"default": "è¯¡å¼‚æœ¨æŒ‰é’®"
 	},
 	"minecraft:warped_standing_sign": {
-		"default": "¹îÒìÄ¾¸æÊ¾ÅÆ"
+		"default": "è¯¡å¼‚æœ¨å‘Šç¤ºç‰Œ"
 	},
 	"minecraft:nether_sprouts": {
-		"default": "ÏÂ½çÃç"
+		"default": "ä¸‹ç•Œè‹—"
 	},
 	"minecraft:warped_stem": {
-		"default": "¹îÒì¾ú±ú"
+		"default": "è¯¡å¼‚èŒæŸ„"
 	},
 	"minecraft:stripped_warped_stem": {
-		"default": "È¥Æ¤¹îÒì¾ú±ú"
+		"default": "å»çš®è¯¡å¼‚èŒæŸ„"
 	},
 	"minecraft:warped_stairs": {
-		"default": "¹îÒìÄ¾Â¥Ìİ"
+		"default": "è¯¡å¼‚æœ¨æ¥¼æ¢¯"
 	},
 	"minecraft:warped_fence_gate": {
-		"default": "¹îÒìÄ¾Õ¤À¸ÃÅ"
+		"default": "è¯¡å¼‚æœ¨æ …æ é—¨"
 	},
 	"minecraft:warped_fence": {
-		"default": "¹îÒìÄ¾Õ¤À¸"
+		"default": "è¯¡å¼‚æœ¨æ …æ "
 	},
 	"minecraft:warped_wall_sign": {
-		"default": "¹îÒìÄ¾¸æÊ¾ÅÆ"
+		"default": "è¯¡å¼‚æœ¨å‘Šç¤ºç‰Œ"
 	},
 	"minecraft:warped_wart_block": {
-		"default": "¹îÒìğà¿é"
+		"default": "è¯¡å¼‚ç–£å—"
 	},
 	"minecraft:warped_slab": {
-		"default": "¹îÒìÄ¾Ì¨½×"
+		"default": "è¯¡å¼‚æœ¨å°é˜¶"
 	},
 	"minecraft:warped_double_slab": {
-		"default": "¹îÒìÄ¾°å"
+		"default": "è¯¡å¼‚æœ¨æ¿"
 	},
 	"minecraft:warped_pressure_plate": {
-		"default": "¹îÒìÄ¾Ñ¹Á¦°å"
+		"default": "è¯¡å¼‚æœ¨å‹åŠ›æ¿"
 	},
 	"minecraft:warped_hyphae": {
-		"default": "¹îÒì¾úºË"
+		"default": "è¯¡å¼‚èŒæ ¸"
 	},
 	"minecraft:warped_roots": {
-		"default": "¹îÒì¾úË÷"
+		"default": "è¯¡å¼‚èŒç´¢"
 	},
 	"minecraft:warped_planks": {
-		"default": "¹îÒìÄ¾°å"
+		"default": "è¯¡å¼‚æœ¨æ¿"
 	},
 	"minecraft:warped_fungus": {
-		"default": "¹îÒì¾ú"
+		"default": "è¯¡å¼‚èŒ"
 	},
 	"minecraft:warped_nylium": {
-		"default": "¹îÒì¾úÑÒ"
+		"default": "è¯¡å¼‚èŒå²©"
 	},
 	"minecraft:crimson_trapdoor": {
-		"default": "ç³ºìÄ¾»î°åÃÅ"
+		"default": "ç»¯çº¢æœ¨æ´»æ¿é—¨"
 	},
 	"minecraft:crimson_button": {
-		"default": "ç³ºìÄ¾°´Å¥"
+		"default": "ç»¯çº¢æœ¨æŒ‰é’®"
 	},
 	"minecraft:crimson_standing_sign": {
-		"default": "ç³ºìÄ¾¸æÊ¾ÅÆ"
+		"default": "ç»¯çº¢æœ¨å‘Šç¤ºç‰Œ"
 	},
 	"minecraft:crimson_nylium": {
-		"default": "ç³ºì¾úÑÒ"
+		"default": "ç»¯çº¢èŒå²©"
 	},
 	"minecraft:crimson_stem": {
-		"default": "ç³ºì¾ú±ú"
+		"default": "ç»¯çº¢èŒæŸ„"
 	},
 	"minecraft:stripped_crimson_stem": {
-		"default": "È¥Æ¤ç³ºì¾ú±ú"
+		"default": "å»çš®ç»¯çº¢èŒæŸ„"
 	},
 	"minecraft:crimson_stairs": {
-		"default": "ç³ºìÄ¾Â¥Ìİ"
+		"default": "ç»¯çº¢æœ¨æ¥¼æ¢¯"
 	},
 	"minecraft:crimson_fence_gate": {
-		"default": "ç³ºìÄ¾Õ¤À¸ÃÅ"
+		"default": "ç»¯çº¢æœ¨æ …æ é—¨"
 	},
 	"minecraft:crimson_fence": {
-		"default": "ç³ºìÄ¾Õ¤À¸"
+		"default": "ç»¯çº¢æœ¨æ …æ "
 	},
 	"minecraft:crimson_wall_sign": {
-		"default": "ç³ºìÄ¾¸æÊ¾ÅÆ"
+		"default": "ç»¯çº¢æœ¨å‘Šç¤ºç‰Œ"
 	},
 	"minecraft:crimson_slab": {
-		"default": "ç³ºìÄ¾Ì¨½×"
+		"default": "ç»¯çº¢æœ¨å°é˜¶"
 	},
 	"minecraft:crimson_double_slab": {
-		"default": "ç³ºìÄ¾°å"
+		"default": "ç»¯çº¢æœ¨æ¿"
 	},
 	"minecraft:crimson_pressure_plate": {
-		"default": "ç³ºìÄ¾Ñ¹Á¦°å"
+		"default": "ç»¯çº¢æœ¨å‹åŠ›æ¿"
 	},
 	"minecraft:crimson_hyphae": {
-		"default": "ç³ºì¾úºË"
+		"default": "ç»¯çº¢èŒæ ¸"
 	},
 	"minecraft:nether_wart_block": {
-		"default": "ÏÂ½çğà¿é"
+		"default": "ä¸‹ç•Œç–£å—"
 	},
 	"minecraft:crimson_planks": {
-		"default": "ç³ºìÄ¾°å"
+		"default": "ç»¯çº¢æœ¨æ¿"
 	},
 	"minecraft:crimson_roots": {
-		"default": "ç³ºì¾úË÷"
+		"default": "ç»¯çº¢èŒç´¢"
 	},
 	"minecraft:crimson_fungus": {
-		"default": "ç³ºì¾ú"
+		"default": "ç»¯çº¢èŒ"
 	},
 	"minecraft:mangrove_trapdoor": {
-		"default": "ºìÊ÷Ä¾»î°åÃÅ"
+		"default": "çº¢æ ‘æœ¨æ´»æ¿é—¨"
 	},
 	"minecraft:mangrove_button": {
-		"default": "ºìÊ÷Ä¾°´Å¥"
+		"default": "çº¢æ ‘æœ¨æŒ‰é’®"
 	},
 	"minecraft:mangrove_standing_sign": {
-		"default": "ºìÊ÷Ä¾¸æÊ¾ÅÆ"
+		"default": "çº¢æ ‘æœ¨å‘Šç¤ºç‰Œ"
 	},
 	"minecraft:mangrove_log": {
-		"default": "ºìÊ÷Ô­Ä¾"
+		"default": "çº¢æ ‘åŸæœ¨"
 	},
 	"minecraft:stripped_mangrove_log": {
-		"default": "È¥Æ¤ºìÊ÷Ô­Ä¾"
+		"default": "å»çš®çº¢æ ‘åŸæœ¨"
 	},
 	"minecraft:mangrove_stairs": {
-		"default": "ºìÊ÷Ä¾Â¥Ìİ"
+		"default": "çº¢æ ‘æœ¨æ¥¼æ¢¯"
 	},
 	"minecraft:mangrove_fence_gate": {
-		"default": "ºìÊ÷Ä¾Õ¤À¸ÃÅ"
+		"default": "çº¢æ ‘æœ¨æ …æ é—¨"
 	},
 	"minecraft:mangrove_fence": {
-		"default": "ºìÊ÷Ä¾Õ¤À¸"
+		"default": "çº¢æ ‘æœ¨æ …æ "
 	},
 	"minecraft:mangrove_wall_sign": {
-		"default": "ºìÊ÷Ä¾¸æÊ¾ÅÆ"
+		"default": "çº¢æ ‘æœ¨å‘Šç¤ºç‰Œ"
 	},
 	"minecraft:mangrove_leaves": {
-		"default": "ºìÊ÷Ê÷Ò¶"
+		"default": "çº¢æ ‘æ ‘å¶"
 	},
 	"minecraft:mangrove_slab": {
-		"default": "ºìÊ÷Ä¾Ì¨½×"
+		"default": "çº¢æ ‘æœ¨å°é˜¶"
 	},
 	"minecraft:mangrove_double_slab": {
-		"default": "ºìÊ÷Ä¾°å"
+		"default": "çº¢æ ‘æœ¨æ¿"
 	},
 	"minecraft:mangrove_pressure_plate": {
-		"default": "ºìÊ÷Ä¾Ñ¹Á¦°å"
+		"default": "çº¢æ ‘æœ¨å‹åŠ›æ¿"
 	},
 	"minecraft:mangrove_wood": {
-		"default": "ºìÊ÷Ä¾"
+		"default": "çº¢æ ‘æœ¨"
 	},
 	"minecraft:stripped_mangrove_wood": {
-		"default": "È¥Æ¤ºìÊ÷Ä¾"
+		"default": "å»çš®çº¢æ ‘æœ¨"
 	},
 	"minecraft:mangrove_roots": {
-		"default": "ºìÊ÷¸ù"
+		"default": "çº¢æ ‘æ ¹"
 	},
 	"minecraft:mangrove_planks": {
-		"default": "ºìÊ÷Ä¾°å"
+		"default": "çº¢æ ‘æœ¨æ¿"
 	},
 	"minecraft:muddy_mangrove_roots": {
-		"default": "Õ´ÄàµÄºìÊ÷¸ù"
+		"default": "æ²¾æ³¥çš„çº¢æ ‘æ ¹"
 	},
 	"minecraft:mangrove_propagule": {
-		"default": "ºìÊ÷Ì¥ÉúÃç"
+		"default": "çº¢æ ‘èƒç”Ÿè‹—"
 	},
 	"minecraft:spruce_trapdoor": {
-		"default": "ÔÆÉ¼Ä¾»î°åÃÅ"
+		"default": "äº‘æ‰æœ¨æ´»æ¿é—¨"
 	},
 	"minecraft:spruce_button": {
-		"default": "ÔÆÉ¼Ä¾°´Å¥"
+		"default": "äº‘æ‰æœ¨æŒ‰é’®"
 	},
 	"minecraft:spruce_standing_sign": {
-		"default": "ÔÆÉ¼Ä¾¸æÊ¾ÅÆ"
+		"default": "äº‘æ‰æœ¨å‘Šç¤ºç‰Œ"
 	},
 	"minecraft:spruce_log": {
-		"default": "ÔÆÉ¼Ô­Ä¾"
+		"default": "äº‘æ‰åŸæœ¨"
 	},
 	"minecraft:stripped_spruce_log": {
-		"default": "È¥Æ¤ÔÆÉ¼Ô­Ä¾"
+		"default": "å»çš®äº‘æ‰åŸæœ¨"
 	},
 	"minecraft:spruce_stairs": {
-		"default": "ÔÆÉ¼Ä¾Â¥Ìİ"
+		"default": "äº‘æ‰æœ¨æ¥¼æ¢¯"
 	},
 	"minecraft:spruce_fence_gate": {
-		"default": "ÔÆÉ¼Ä¾Õ¤À¸ÃÅ"
+		"default": "äº‘æ‰æœ¨æ …æ é—¨"
 	},
 	"minecraft:spruce_fence": {
-		"default": "ÔÆÉ¼Ä¾Õ¤À¸"
+		"default": "äº‘æ‰æœ¨æ …æ "
 	},
 	"minecraft:spruce_wall_sign": {
-		"default": "ÔÆÉ¼Ä¾¸æÊ¾ÅÆ"
+		"default": "äº‘æ‰æœ¨å‘Šç¤ºç‰Œ"
 	},
 	"minecraft:wooden_slab": {
-		"default": "ÔÆÉ¼Ä¾Ì¨½×"
+		"default": "äº‘æ‰æœ¨å°é˜¶"
 	},
 	"minecraft:double_wooden_slab": {
-		"default": "ÔÆÉ¼Ä¾°å"
+		"default": "äº‘æ‰æœ¨æ¿"
 	},
 	"minecraft:spruce_pressure_plate": {
-		"default": "ÔÆÉ¼Ä¾Ñ¹Á¦°å"
+		"default": "äº‘æ‰æœ¨å‹åŠ›æ¿"
 	},
 	"minecraft:wood": {
-		"default": "ÔÆÉ¼Ä¾"
+		"default": "äº‘æ‰æœ¨"
 	},
 	"minecraft:leaves": {
-		"default": "ÔÆÉ¼Ê÷Ò¶"
+		"default": "äº‘æ‰æ ‘å¶"
 	},
 	"minecraft:planks": {
-		"default": "ÔÆÉ¼Ä¾°å"
+		"default": "äº‘æ‰æœ¨æ¿"
 	},
 	"minecraft:sapling": {
-		"default": "ÔÆÉ¼Ê÷Ãç"
+		"default": "äº‘æ‰æ ‘è‹—"
 	},
 	"minecraft:birch_button": {
-		"default": "°×èëÄ¾°´Å¥"
+		"default": "ç™½æ¡¦æœ¨æŒ‰é’®"
 	},
 	"minecraft:birch_trapdoor": {
-		"default": "°×èëÄ¾»î°åÃÅ"
+		"default": "ç™½æ¡¦æœ¨æ´»æ¿é—¨"
 	},
 	"minecraft:birch_standing_sign": {
-		"default": "°×èëÄ¾¸æÊ¾ÅÆ"
+		"default": "ç™½æ¡¦æœ¨å‘Šç¤ºç‰Œ"
 	},
 	"minecraft:birch_log": {
-		"default": "°×èëÔ­Ä¾"
+		"default": "ç™½æ¡¦åŸæœ¨"
 	},
 	"minecraft:stripped_birch_log": {
-		"default": "È¥Æ¤°×èëÔ­Ä¾"
+		"default": "å»çš®ç™½æ¡¦åŸæœ¨"
 	},
 	"minecraft:birch_stairs": {
-		"default": "°×èëÄ¾Â¥Ìİ"
+		"default": "ç™½æ¡¦æœ¨æ¥¼æ¢¯"
 	},
 	"minecraft:birch_fence_gate": {
-		"default": "°×èëÄ¾Õ¤À¸ÃÅ"
+		"default": "ç™½æ¡¦æœ¨æ …æ é—¨"
 	},
 	"minecraft:birch_fence": {
-		"default": "°×èëÄ¾Õ¤À¸"
+		"default": "ç™½æ¡¦æœ¨æ …æ "
 	},
 	"minecraft:birch_wall_sign": {
-		"default": "°×èëÄ¾¸æÊ¾ÅÆ"
+		"default": "ç™½æ¡¦æœ¨å‘Šç¤ºç‰Œ"
 	},
 	"minecraft:birch_pressure_plate": {
-		"default": "°×èëÄ¾Ñ¹Á¦°å"
+		"default": "ç™½æ¡¦æœ¨å‹åŠ›æ¿"
 	},
 	"minecraft:jungle_trapdoor": {
-		"default": "´ÔÁÖÄ¾»î°åÃÅ"
+		"default": "ä¸›æ—æœ¨æ´»æ¿é—¨"
 	},
 	"minecraft:jungle_button": {
-		"default": "´ÔÁÖÄ¾°´Å¥"
+		"default": "ä¸›æ—æœ¨æŒ‰é’®"
 	},
 	"minecraft:jungle_standing_sign": {
-		"default": "´ÔÁÖÄ¾¸æÊ¾ÅÆ"
+		"default": "ä¸›æ—æœ¨å‘Šç¤ºç‰Œ"
 	},
 	"minecraft:stripped_jungle_log": {
-		"default": "´ÔÁÖÔ­Ä¾"
+		"default": "ä¸›æ—åŸæœ¨"
 	},
 	"minecraft:jungle_stairs": {
-		"default": "´ÔÁÖÄ¾Â¥Ìİ"
+		"default": "ä¸›æ—æœ¨æ¥¼æ¢¯"
 	},
 	"minecraft:jungle_fence_gate": {
-		"default": "´ÔÁÖÄ¾Õ¤À¸ÃÅ"
+		"default": "ä¸›æ—æœ¨æ …æ é—¨"
 	},
 	"minecraft:jungle_fence": {
-		"default": "´ÔÁÖÄ¾Õ¤À¸"
+		"default": "ä¸›æ—æœ¨æ …æ "
 	},
 	"minecraft:jungle_wall_sign": {
-		"default": "´ÔÁÖÄ¾¸æÊ¾ÅÆ"
+		"default": "ä¸›æ—æœ¨å‘Šç¤ºç‰Œ"
 	},
 	"minecraft:jungle_pressure_plate": {
-		"default": "´ÔÁÖÄ¾Ñ¹Á¦°å"
+		"default": "ä¸›æ—æœ¨å‹åŠ›æ¿"
 	},
 	"minecraft:acacia_trapdoor": {
-		"default": "½ğºÏ»¶Ä¾»î°åÃÅ"
+		"default": "é‡‘åˆæ¬¢æœ¨æ´»æ¿é—¨"
 	},
 	"minecraft:acacia_button": {
-		"default": "½ğºÏ»¶Ä¾°´Å¥"
+		"default": "é‡‘åˆæ¬¢æœ¨æŒ‰é’®"
 	},
 	"minecraft:acacia_standing_sign": {
-		"default": "½ğºÏ»¶Ä¾¸æÊ¾ÅÆ"
+		"default": "é‡‘åˆæ¬¢æœ¨å‘Šç¤ºç‰Œ"
 	},
 	"minecraft:acacia_log": {
-		"default": "½ğºÏ»¶Ô­Ä¾"
+		"default": "é‡‘åˆæ¬¢åŸæœ¨"
 	},
 	"minecraft:stripped_acacia_log": {
-		"default": "È¥Æ¤½ğºÏ»¶Ô­Ä¾"
+		"default": "å»çš®é‡‘åˆæ¬¢åŸæœ¨"
 	},
 	"minecraft:acacia_stairs": {
-		"default": "½ğºÏ»¶Ä¾Â¥Ìİ"
+		"default": "é‡‘åˆæ¬¢æœ¨æ¥¼æ¢¯"
 	},
 	"minecraft:acacia_fence_gate": {
-		"default": "½ğºÏ»¶Ä¾Õ¤À¸ÃÅ"
+		"default": "é‡‘åˆæ¬¢æœ¨æ …æ é—¨"
 	},
 	"minecraft:acacia_fence": {
-		"default": "½ğºÏ»¶Ä¾Õ¤À¸"
+		"default": "é‡‘åˆæ¬¢æœ¨æ …æ "
 	},
 	"minecraft:acacia_pressure_plate": {
-		"default": "½ğºÏ»¶Ä¾Ñ¹Á¦°å"
+		"default": "é‡‘åˆæ¬¢æœ¨å‹åŠ›æ¿"
 	},
 	"minecraft:acacia_wall_sign": {
-		"default": "½ğºÏ»¶Ä¾¸æÊ¾ÅÆ"
+		"default": "é‡‘åˆæ¬¢æœ¨å‘Šç¤ºç‰Œ"
 	},
 	"minecraft:leaves2": {
-		"default": "½ğºÏ»¶Ê÷Ò¶"
+		"default": "é‡‘åˆæ¬¢æ ‘å¶"
 	},
 	"minecraft:dark_oak_trapdoor": {
-		"default": "ÉîÉ«ÏğÄ¾»î°åÃÅ"
+		"default": "æ·±è‰²æ©¡æœ¨æ´»æ¿é—¨"
 	},
 	"minecraft:dark_oak_button": {
-		"default": "ÉîÉ«ÏğÄ¾°´Å¥"
+		"default": "æ·±è‰²æ©¡æœ¨æŒ‰é’®"
 	},
 	"minecraft:darkoak_standing_sign": {
-		"default": "ÉîÉ«ÏğÄ¾¸æÊ¾ÅÆ"
+		"default": "æ·±è‰²æ©¡æœ¨å‘Šç¤ºç‰Œ"
 	},
 	"minecraft:dark_oak_log": {
-		"default": "ÉîÉ«ÏğÄ¾Ô­Ä¾"
+		"default": "æ·±è‰²æ©¡æœ¨åŸæœ¨"
 	},
 	"minecraft:stripped_dark_oak_log": {
-		"default": "È¥Æ¤ÉîÉ«ÏğÄ¾Ô­Ä¾"
+		"default": "å»çš®æ·±è‰²æ©¡æœ¨åŸæœ¨"
 	},
 	"minecraft:dark_oak_stairs": {
-		"default": "ÉîÉ«ÏğÄ¾Â¥Ìİ"
+		"default": "æ·±è‰²æ©¡æœ¨æ¥¼æ¢¯"
 	},
 	"minecraft:dark_oak_fence_gate": {
-		"default": "ÉîÉ«ÏğÄ¾Õ¤À¸ÃÅ"
+		"default": "æ·±è‰²æ©¡æœ¨æ …æ é—¨"
 	},
 	"minecraft:dark_oak_fence": {
-		"default": "ÉîÉ«ÏğÄ¾Õ¤À¸"
+		"default": "æ·±è‰²æ©¡æœ¨æ …æ "
 	},
 	"minecraft:darkoak_wall_sign": {
-		"default": "ÉîÉ«ÏğÄ¾¸æÊ¾ÅÆ"
+		"default": "æ·±è‰²æ©¡æœ¨å‘Šç¤ºç‰Œ"
 	},
 	"minecraft:dark_oak_pressure_plate": {
-		"default": "ÉîÉ«ÏğÄ¾Ñ¹Á¦°å"
+		"default": "æ·±è‰²æ©¡æœ¨å‹åŠ›æ¿"
 	},
 	"minecraft:trapdoor": {
-		"default": "ÏğÄ¾»î°åÃÅ"
+		"default": "æ©¡æœ¨æ´»æ¿é—¨"
 	},
 	"minecraft:wooden_button": {
-		"default": "ÏğÄ¾°´Å¥"
+		"default": "æ©¡æœ¨æŒ‰é’®"
 	},
 	"minecraft:standing_sign": {
-		"default": "ÏğÄ¾¸æÊ¾ÅÆ"
+		"default": "æ©¡æœ¨å‘Šç¤ºç‰Œ"
 	},
 	"minecraft:azalea": {
-		"default": "¶Å¾é»¨´Ô"
+		"default": "æœé¹ƒèŠ±ä¸›"
 	},
 	"minecraft:oak_log": {
-		"default": "ÏğÄ¾Ô­Ä¾"
+		"default": "æ©¡æœ¨åŸæœ¨"
 	},
 	"minecraft:stripped_oak_log": {
-		"default": "È¥Æ¤ÏğÄ¾Ô­Ä¾"
+		"default": "å»çš®æ©¡æœ¨åŸæœ¨"
 	},
 	"minecraft:oak_stairs": {
-		"default": "ÏğÄ¾Â¥Ìİ"
+		"default": "æ©¡æœ¨æ¥¼æ¢¯"
 	},
 	"minecraft:fence_gate": {
-		"default": "ÏğÄ¾Õ¤À¸ÃÅ"
+		"default": "æ©¡æœ¨æ …æ é—¨"
 	},
 	"minecraft:oak_fence": {
-		"default": "ÏğÄ¾Õ¤À¸"
+		"default": "æ©¡æœ¨æ …æ "
 	},
 	"minecraft:wall_sign": {
-		"default": "ÏğÄ¾¸æÊ¾ÅÆ"
+		"default": "æ©¡æœ¨å‘Šç¤ºç‰Œ"
 	},
 	"minecraft:wooden_pressure_plate": {
-		"default": "ÏğÄ¾Ñ¹Á¦°å"
+		"default": "æ©¡æœ¨å‹åŠ›æ¿"
 	},
 	"minecraft:flowering_azalea": {
-		"default": "Ê¢¿ªµÄ¶Å¾é»¨´Ô"
+		"default": "ç››å¼€çš„æœé¹ƒèŠ±ä¸›"
 	},
 	"minecraft:brown_mushroom_block": {
-		"default": "×ØÉ«Ä¢¹½·½¿é"
+		"default": "æ£•è‰²è˜‘è‡æ–¹å—"
 	},
 	"minecraft:red_mushroom_block": {
-		"default": "ºìÉ«Ä¢¹½·½¿é"
+		"default": "çº¢è‰²è˜‘è‡æ–¹å—"
 	},
 	"minecraft:brown_mushroom": {
-		"default": "×ØÉ«Ä¢¹½"
+		"default": "æ£•è‰²è˜‘è‡"
 	},
 	"minecraft:red_mushroom": {
-		"default": "ºìÉ«Ä¢¹½"
+		"default": "çº¢è‰²è˜‘è‡"
 	},
 	"minecraft:amethyst_block": {
-		"default": "×ÏË®¾§¿é"
+		"default": "ç´«æ°´æ™¶å—"
 	},
 	"minecraft:budding_amethyst": {
-		"default": "×ÏË®¾§Ä¸ÑÒ"
+		"default": "ç´«æ°´æ™¶æ¯å²©"
 	},
 	"minecraft:weeping_vines": {
-		"default": "´¹ÀáÌÙ"
+		"default": "å‚æ³ªè—¤"
 	},
 	"minecraft:pointed_dripstone": {
-		"default": "µÎË®Ê¯×¶"
+		"default": "æ»´æ°´çŸ³é”¥"
 	},
 	"minecraft:hanging_roots": {
-		"default": "´¹¸ù"
+		"default": "å‚æ ¹"
 	},
 	"minecraft:spore_blossom": {
-		"default": "æß×Ó»¨"
+		"default": "å­¢å­èŠ±"
 	},
 	"minecraft:amethyst_cluster": {
-		"default": "×ÏË®¾§´Ø"
+		"default": "ç´«æ°´æ™¶ç°‡"
 	},
 	"minecraft:large_amethyst_bud": {
-		"default": "´óĞÍ×Ï¾§Ñ¿"
+		"default": "å¤§å‹ç´«æ™¶èŠ½"
 	},
 	"minecraft:medium_amethyst_bud": {
-		"default": "ÖĞĞÍ×Ï¾§Ñ¿"
+		"default": "ä¸­å‹ç´«æ™¶èŠ½"
 	},
 	"minecraft:small_amethyst_bud": {
-		"default": "Ğ¡ĞÍ×Ï¾§Ñ¿"
+		"default": "å°å‹ç´«æ™¶èŠ½"
 	},
 	"minecraft:vine": {
-		"default": "ÌÙÂû"
+		"default": "è—¤è”“"
 	},
 	"minecraft:glow_lichen": {
-		"default": "·¢¹âµØÒÂ"
+		"default": "å‘å…‰åœ°è¡£"
 	},
 	"minecraft:sculk_vein": {
-		"default": "ÓÄÄäÂöÂç"
+		"default": "å¹½åŒ¿è„‰ç»œ"
 	},
 	"minecraft:ladder": {
-		"default": "Ìİ×Ó"
+		"default": "æ¢¯å­"
 	},
 	"minecraft:chorus_plant": {
-		"default": "×ÏËÌÖ²Öê"
+		"default": "ç´«é¢‚æ¤æ ª"
 	},
 	"minecraft:chorus_flower": {
-		"default": "×ÏËÌ»¨"
+		"default": "ç´«é¢‚èŠ±"
 	},
 	"minecraft:tallgrass": {
-		"default": "¸ß²İ´Ô"
+		"default": "é«˜è‰ä¸›"
 	},
 	"minecraft:big_dripleaf": {
-		"default": "´óĞÍ´¹µÎÒ¶"
+		"default": "å¤§å‹å‚æ»´å¶"
 	},
 	"minecraft:melon_block": {
-		"default": "Î÷¹Ï¿é"
+		"default": "è¥¿ç“œå—"
 	},
 	"minecraft:carved_pumpkin": {
-		"default": "µñ¿ÌÄÏ¹Ï"
+		"default": "é›•åˆ»å—ç“œ"
 	},
 	"minecraft:beetroot": {
-		"default": "Ìğ²Ë¸ù"
+		"default": "ç”œèœæ ¹"
 	},
 	"minecraft:wheat": {
-		"default": "Ğ¡Âó"
+		"default": "å°éº¦"
 	},
 	"minecraft:pumpkin_stem": {
-		"default": "ÄÏ¹Ï¾¥"
+		"default": "å—ç“œèŒ"
 	},
 	"minecraft:potatoes": {
-		"default": "ÂíÁåÊí"
+		"default": "é©¬é“ƒè–¯"
 	},
 	"minecraft:carrots": {
-		"default": "ºúÂÜ²·"
+		"default": "èƒ¡èåœ"
 	},
 	"minecraft:melon_stem": {
-		"default": "Î÷¹Ï¾¥"
+		"default": "è¥¿ç“œèŒ"
 	},
 	"minecraft:yellow_flower": {
-		"default": "ÆÑ¹«Ó¢"
+		"default": "è’²å…¬è‹±"
 	},
 	"minecraft:red_flower": {
-		"poppy": "ÓİÃÀÈË",
-		"orchid": "À¼»¨",
-		"allium": "ÈŞÇò´Ğ",
-		"houstonia": "À¶»¨ÃÀ¶ú²İ",
-		"cornflower": "Ê¸³µ¾Õ",
-		"tulip_red": "ºìÉ«Óô½ğÏã",
-		"tulip_orange": "³ÈÉ«Óô½ğÏã",
-		"tulip_white": "°×É«Óô½ğÏã",
-		"tulip_pink": "·ÛºìÉ«Óô½ğÏã",
-		"oxeye": "±õ¾Õ"
+		"poppy": "è™ç¾äºº",
+		"orchid": "å…°èŠ±",
+		"allium": "ç»’çƒè‘±",
+		"houstonia": "è“èŠ±ç¾è€³è‰",
+		"cornflower": "çŸ¢è½¦èŠ",
+		"tulip_red": "çº¢è‰²éƒé‡‘é¦™",
+		"tulip_orange": "æ©™è‰²éƒé‡‘é¦™",
+		"tulip_white": "ç™½è‰²éƒé‡‘é¦™",
+		"tulip_pink": "ç²‰çº¢è‰²éƒé‡‘é¦™",
+		"oxeye": "æ»¨èŠ"
 	},
 	"minecraft:bamboo_sapling": {
-		"default": "Öñ×Ó"
+		"default": "ç«¹å­"
 	},
 	"minecraft:bamboo": {
-		"default": "Öñ×Ó"
+		"default": "ç«¹å­"
 	},
 	"minecraft:pumpkin": {
-		"default": "ÄÏ¹Ï"
+		"default": "å—ç“œ"
 	},
 	"minecraft:wither_rose": {
-		"default": "µòÁéÃµ¹å"
+		"default": "å‡‹çµç«ç‘°"
 	},
 	"minecraft:lit_pumpkin": {
-		"default": "ÄÏ¹ÏµÆ"
+		"default": "å—ç“œç¯"
 	},
 	"minecraft:stone_block_slab2": {
-		"prismarine_dark": "°µº£¾§Ê¯Ì¨½×",
-		"prismarine_brick": "º£¾§Ê¯×©Ì¨½×",
-		"prismarine_rough": "º£¾§Ê¯Ì¨½×",
-		"smooth_sandstone": "Æ½»¬É°ÑÒÌ¨½×",
-		"red_sandstone": "ºìÉ°ÑÒÌ¨½×",
-		"mossy_cobblestone": "Ì¦Ê¯Ì¨½×",
-		"red_nether_brick": "ºìÉ«ÏÂ½ç×©Ì¨½×",
-		"purpur": "×ÏçêÌ¨½×"
+		"prismarine_dark": "æš—æµ·æ™¶çŸ³å°é˜¶",
+		"prismarine_brick": "æµ·æ™¶çŸ³ç –å°é˜¶",
+		"prismarine_rough": "æµ·æ™¶çŸ³å°é˜¶",
+		"smooth_sandstone": "å¹³æ»‘ç ‚å²©å°é˜¶",
+		"red_sandstone": "çº¢ç ‚å²©å°é˜¶",
+		"mossy_cobblestone": "è‹”çŸ³å°é˜¶",
+		"red_nether_brick": "çº¢è‰²ä¸‹ç•Œç –å°é˜¶",
+		"purpur": "ç´«ç€å°é˜¶"
 	},
 	"minecraft:cactus": {
-		"default": "ÏÉÈËÕÆ"
+		"default": "ä»™äººæŒ"
 	},
 	"minecraft:double_stone_block_slab2": {
-		"prismarine_dark": "°µº£¾§Ê¯",
-		"prismarine_brick": "º£¾§Ê¯×©",
-		"prismarine_rough": "º£¾§Ê¯",
-		"smooth_sandstone": "Æ½»¬É°ÑÒ",
-		"red_sandstone": "ºìÉ°ÑÒ",
-		"mossy_cobblestone": "Ì¦Ê¯",
-		"red_nether_brick": "ºìÉ«ÏÂ½ç×©¿é",
-		"purpur": "×Ïçê"
+		"prismarine_dark": "æš—æµ·æ™¶çŸ³",
+		"prismarine_brick": "æµ·æ™¶çŸ³ç –",
+		"prismarine_rough": "æµ·æ™¶çŸ³",
+		"smooth_sandstone": "å¹³æ»‘ç ‚å²©",
+		"red_sandstone": "çº¢ç ‚å²©",
+		"mossy_cobblestone": "è‹”çŸ³",
+		"red_nether_brick": "çº¢è‰²ä¸‹ç•Œç –å—",
+		"purpur": "ç´«ç€"
 	},
 	"minecraft:nether_wart": {
-		"default": "ÏÂ½çğà"
+		"default": "ä¸‹ç•Œç–£"
 	},
 	"minecraft:sweet_berry_bush": {
-		"default": "Ìğ½¬¹û´Ô"
+		"default": "ç”œæµ†æœä¸›"
 	},
 	"minecraft:sand": {
-		"default": "É³×Ó"
+		"default": "æ²™å­"
 	},
 	"minecraft:sandstone": {
-		"smooth": "Æ½»¬É°ÑÒ",
-		"heiroglyphs": "µñÎÆÉ°ÑÒ",
-		"cut": "ÇĞÖÆÉ°ÑÒ",
-		"default": "É°ÑÒ"
+		"smooth": "å¹³æ»‘ç ‚å²©",
+		"heiroglyphs": "é›•çº¹ç ‚å²©",
+		"cut": "åˆ‡åˆ¶ç ‚å²©",
+		"default": "ç ‚å²©"
 	},
 	"minecraft:red_sandstone": {
-		"smooth": "Æ½»¬ºìÉ°ÑÒ",
-		"heiroglyphs": "µñÎÆºìÉ°ÑÒ",
-		"cut": "ÇĞÖÆºìÉ°ÑÒ",
-		"default": "ºìÉ°ÑÒ"
+		"smooth": "å¹³æ»‘çº¢ç ‚å²©",
+		"heiroglyphs": "é›•çº¹çº¢ç ‚å²©",
+		"cut": "åˆ‡åˆ¶çº¢ç ‚å²©",
+		"default": "çº¢ç ‚å²©"
 	},
 	"minecraft:lava": {
-		"default": "ÈÛÑÒ"
+		"default": "ç†”å²©"
 	},
 	"minecraft:stone_block_slab3": {
-		"smooth_red_sandstone": "Æ½»¬ºìÉ°ÑÒÌ¨½×",
-		"polished_granite": "Ä¥ÖÆ»¨¸ÚÑÒÌ¨½×",
-		"polished_diorite": "Ä¥ÖÆÉÁ³¤ÑÒÌ¨½×",
-		"polished_andesite": "Ä¥ÖÆ°²É½ÑÒÌ¨½×",
-		"granite": "»¨¸ÚÑÒÌ¨½×",
-		"diorite": "ÉÁ³¤ÑÒÌ¨½×",
-		"andesite": "°²É½ÑÒÌ¨½×",
-		"end_stone_brick": "Ä©µØÊ¯×©Ì¨½×"
+		"smooth_red_sandstone": "å¹³æ»‘çº¢ç ‚å²©å°é˜¶",
+		"polished_granite": "ç£¨åˆ¶èŠ±å²—å²©å°é˜¶",
+		"polished_diorite": "ç£¨åˆ¶é—ªé•¿å²©å°é˜¶",
+		"polished_andesite": "ç£¨åˆ¶å®‰å±±å²©å°é˜¶",
+		"granite": "èŠ±å²—å²©å°é˜¶",
+		"diorite": "é—ªé•¿å²©å°é˜¶",
+		"andesite": "å®‰å±±å²©å°é˜¶",
+		"end_stone_brick": "æœ«åœ°çŸ³ç –å°é˜¶"
 	},
 	"minecraft:stone_block_slab4": {
-		"smooth_quartz": "Æ½»¬Ê¯Ó¢Ì¨½×",
-		"cut_sandstone": "ÇĞÖÆÉ°ÑÒÌ¨½×",
-		"cut_red_sandstone": "ÇĞÖÆºìÉ°ÑÒÌ¨½×",
-		"stone": "Ê¯Í·Ì¨½×",
-		"mossy_stone_brick": "Ì¦Ê¯×©Ì¨½×"
+		"smooth_quartz": "å¹³æ»‘çŸ³è‹±å°é˜¶",
+		"cut_sandstone": "åˆ‡åˆ¶ç ‚å²©å°é˜¶",
+		"cut_red_sandstone": "åˆ‡åˆ¶çº¢ç ‚å²©å°é˜¶",
+		"stone": "çŸ³å¤´å°é˜¶",
+		"mossy_stone_brick": "è‹”çŸ³ç –å°é˜¶"
 	},
 	"minecraft:bubble_column": {
-		"default": "ÆøÅİÖù"
+		"default": "æ°”æ³¡æŸ±"
 	},
 	"minecraft:double_stone_block_slab3": {
-		"smooth_red_sandstone": "Æ½»¬ºìÉ°ÑÒ",
-		"polished_granite": "Ä¥ÖÆ»¨¸ÚÑÒ",
-		"polished_diorite": "Ä¥ÖÆÉÁ³¤ÑÒ",
-		"polished_andesite": "Ä¥ÖÆ°²É½ÑÒ",
-		"granite": "»¨¸ÚÑÒ",
-		"diorite": "ÉÁ³¤ÑÒ",
-		"andesite": "°²É½ÑÒ",
-		"end_stone_brick": "Ä©µØÊ¯×©"
+		"smooth_red_sandstone": "å¹³æ»‘çº¢ç ‚å²©",
+		"polished_granite": "ç£¨åˆ¶èŠ±å²—å²©",
+		"polished_diorite": "ç£¨åˆ¶é—ªé•¿å²©",
+		"polished_andesite": "ç£¨åˆ¶å®‰å±±å²©",
+		"granite": "èŠ±å²—å²©",
+		"diorite": "é—ªé•¿å²©",
+		"andesite": "å®‰å±±å²©",
+		"end_stone_brick": "æœ«åœ°çŸ³ç –"
 	},
 	"minecraft:dark_prismarine_stairs": {
-		"default": "°µº£¾§Ê¯Â¥Ìİ"
+		"default": "æš—æµ·æ™¶çŸ³æ¥¼æ¢¯"
 	},
 	"minecraft:waxed_cut_copper_slab": {
-		"default": "Í¿À¯ÇĞÖÆÍ­Ì¨½×"
+		"default": "æ¶‚èœ¡åˆ‡åˆ¶é“œå°é˜¶"
 	},
 	"minecraft:waxed_exposed_cut_copper_slab": {
-		"default": "°ß²µµÄÍ¿À¯ÇĞÖÆÍ­Ì¨½×"
+		"default": "æ–‘é©³çš„æ¶‚èœ¡åˆ‡åˆ¶é“œå°é˜¶"
 	},
 	"minecraft:waxed_weathered_cut_copper_slab": {
-		"default": "ĞâÊ´µÄÍ¿À¯ÇĞÖÆÍ­Ì¨½×"
+		"default": "é”ˆèš€çš„æ¶‚èœ¡åˆ‡åˆ¶é“œå°é˜¶"
 	},
 	"minecraft:waxed_oxidized_cut_copper_slab": {
-		"default": "Ñõ»¯µÄÍ¿À¯ÇĞÖÆÍ­Ì¨½×"
+		"default": "æ°§åŒ–çš„æ¶‚èœ¡åˆ‡åˆ¶é“œå°é˜¶"
 	},
 	"minecraft:double_stone_block_slab4": {
-		"smooth_quartz": "Æ½»¬Ê¯Ó¢¿é",
-		"cut_sandstone": "ÇĞÖÆÉ°ÑÒ",
-		"cut_red_sandstone": "ÇĞÖÆºìÉ°ÑÒ",
-		"stone": "Ê¯Í·",
-		"mossy_stone_brick": "Ì¦Ê¯×©"
+		"smooth_quartz": "å¹³æ»‘çŸ³è‹±å—",
+		"cut_sandstone": "åˆ‡åˆ¶ç ‚å²©",
+		"cut_red_sandstone": "åˆ‡åˆ¶çº¢ç ‚å²©",
+		"stone": "çŸ³å¤´",
+		"mossy_stone_brick": "è‹”çŸ³ç –"
 	},
 	"minecraft:waxed_double_cut_copper_slab": {
-		"default": "Í¿À¯ÇĞÖÆÍ­¿é"
+		"default": "æ¶‚èœ¡åˆ‡åˆ¶é“œå—"
 	},
 	"minecraft:waxed_exposed_double_cut_copper_slab": {
-		"default": "°ß²µµÄÍ¿À¯ÇĞÖÆÍ­¿é"
+		"default": "æ–‘é©³çš„æ¶‚èœ¡åˆ‡åˆ¶é“œå—"
 	},
 	"minecraft:waxed_weathered_double_cut_copper_slab": {
-		"default": "ĞâÊ´µÄÍ¿À¯ÇĞÖÆÍ­¿é"
+		"default": "é”ˆèš€çš„æ¶‚èœ¡åˆ‡åˆ¶é“œå—"
 	},
 	"minecraft:waxed_oxidized_double_cut_copper_slab": {
-		"default": "Ñõ»¯µÄÍ¿À¯ÇĞÖÆÍ­¿é"
+		"default": "æ°§åŒ–çš„æ¶‚èœ¡åˆ‡åˆ¶é“œå—"
 	},
 	"minecraft:gravel": {
-		"default": "É³Àù"
+		"default": "æ²™ç ¾"
 	},
 	"minecraft:mud": {
-		"default": "Äà°Í"
+		"default": "æ³¥å·´"
 	},
 	"minecraft:stone_block_slab": {
-		"quartz": "Ê¯Ó¢Ì¨½×",
-		"sandstone": "É°ÑÒÌ¨½×",
-		"cobblestone": "Ô²Ê¯Ì¨½×",
-		"stone_brick": "Ê¯×©Ì¨½×",
-		"brick": "ºì×©Ì¨½×",
-		"nether_brick": "ÏÂ½ç×©Ì¨½×"
+		"quartz": "çŸ³è‹±å°é˜¶",
+		"sandstone": "ç ‚å²©å°é˜¶",
+		"cobblestone": "åœ†çŸ³å°é˜¶",
+		"stone_brick": "çŸ³ç –å°é˜¶",
+		"brick": "çº¢ç –å°é˜¶",
+		"nether_brick": "ä¸‹ç•Œç –å°é˜¶"
 	},
 	"minecraft:mycelium": {
-		"default": "¾úË¿Ìå"
+		"default": "èŒä¸ä½“"
 	},
 	"minecraft:cut_copper_slab": {
-		"default": "ÇĞÖÆÍ­Ì¨½×"
+		"default": "åˆ‡åˆ¶é“œå°é˜¶"
 	},
 	"minecraft:exposed_cut_copper_slab": {
-		"default": "°ß²µµÄÇĞÖÆÍ­Ì¨½×"
+		"default": "æ–‘é©³çš„åˆ‡åˆ¶é“œå°é˜¶"
 	},
 	"minecraft:weathered_cut_copper_slab": {
-		"default": "ĞâÊ´µÄÇĞÖÆÍ­Ì¨½×"
+		"default": "é”ˆèš€çš„åˆ‡åˆ¶é“œå°é˜¶"
 	},
 	"minecraft:oxidized_cut_copper_slab": {
-		"default": "Ñõ»¯µÄÇĞÖÆÍ­Ì¨½×"
+		"default": "æ°§åŒ–çš„åˆ‡åˆ¶é“œå°é˜¶"
 	},
 	"minecraft:double_stone_block_slab": {
-		"quartz": "Ê¯Ó¢¿é",
-		"sandstone": "É°ÑÒ",
-		"cobblestone": "Ô²Ê¯",
-		"stone_brick": "Ê¯×©",
-		"brick": "ºì×©",
-		"nether_brick": "ÏÂ½ç×©"
+		"quartz": "çŸ³è‹±å—",
+		"sandstone": "ç ‚å²©",
+		"cobblestone": "åœ†çŸ³",
+		"stone_brick": "çŸ³ç –",
+		"brick": "çº¢ç –",
+		"nether_brick": "ä¸‹ç•Œç –"
 	},
 	"minecraft:podzol": {
-		"default": "»Ò»¯ÍÁ"
+		"default": "ç°åŒ–åœŸ"
 	},
 	"minecraft:double_cut_copper_slab": {
-		"default": "ÇĞÖÆÍ­¿é"
+		"default": "åˆ‡åˆ¶é“œå—"
 	},
 	"minecraft:exposed_double_cut_copper_slab": {
-		"default": "°ß²µµÄÇĞÖÆÍ­¿é"
+		"default": "æ–‘é©³çš„åˆ‡åˆ¶é“œå—"
 	},
 	"minecraft:weathered_double_cut_copper_slab": {
-		"default": "ĞâÊ´µÄÇĞÖÆÍ­¿é"
+		"default": "é”ˆèš€çš„åˆ‡åˆ¶é“œå—"
 	},
 	"minecraft:oxidized_double_cut_copper_slab": {
-		"default": "Ñõ»¯µÄÍ­¿é"
+		"default": "æ°§åŒ–çš„é“œå—"
 	},
 	"minecraft:dripstone_block": {
-		"default": "µÎË®Ê¯¿é"
+		"default": "æ»´æ°´çŸ³å—"
 	},
 	"minecraft:grass_path": {
-		"default": "ÍÁ¾¶"
+		"default": "åœŸå¾„"
 	},
 	"minecraft:moss_carpet": {
-		"default": "¸²µØÌ¦Şº"
+		"default": "è¦†åœ°è‹”è—“"
 	},
 	"minecraft:farmland": {
-		"default": "¸ûµØ"
+		"default": "è€•åœ°"
 	},
 	"minecraft:smooth_quartz_stairs": {
-		"default": "Æ½»¬Ê¯Ó¢Â¥Ìİ"
+		"default": "å¹³æ»‘çŸ³è‹±æ¥¼æ¢¯"
 	},
 	"minecraft:moss_block": {
-		"default": "Ì¦Şº¿é"
+		"default": "è‹”è—“å—"
 	},
 	"minecraft:dirt": {
-		"default": "ÄàÍÁ"
+		"default": "æ³¥åœŸ"
 	},
 	"minecraft:nether_brick_fence": {
-		"default": "ÏÂ½ç×©Õ¤À¸"
+		"default": "ä¸‹ç•Œç –æ …æ "
 	},
 	"minecraft:prismarine_bricks_stairs": {
-		"default": "º£¾§Ê¯×©Â¥Ìİ"
+		"default": "æµ·æ™¶çŸ³ç –æ¥¼æ¢¯"
 	},
 	"minecraft:waxed_cut_copper_stairs": {
-		"default": "Í¿À¯ÇĞÖÆÍ­Â¥Ìİ"
+		"default": "æ¶‚èœ¡åˆ‡åˆ¶é“œæ¥¼æ¢¯"
 	},
 	"minecraft:waxed_exposed_cut_copper_stairs": {
-		"default": "°ß²µµÄÍ¿À¯ÇĞÖÆÍ­Â¥Ìİ"
+		"default": "æ–‘é©³çš„æ¶‚èœ¡åˆ‡åˆ¶é“œæ¥¼æ¢¯"
 	},
 	"minecraft:waxed_weathered_cut_copper_stairs": {
-		"default": "ĞâÊ´µÄÍ¿À¯ÇĞÖÆÍ­Â¥Ìİ"
+		"default": "é”ˆèš€çš„æ¶‚èœ¡åˆ‡åˆ¶é“œæ¥¼æ¢¯"
 	},
 	"minecraft:waxed_oxidized_cut_copper_stairs": {
-		"default": "Ñõ»¯µÄÍ¿À¯ÇĞÖÆÍ­Â¥Ìİ"
+		"default": "æ°§åŒ–çš„æ¶‚èœ¡åˆ‡åˆ¶é“œæ¥¼æ¢¯"
 	},
 	"minecraft:snow_layer": {
-		"default": "ÉÏ²ãÑ©"
+		"default": "ä¸Šå±‚é›ª"
 	},
 	"minecraft:purpur_block": {
-		"lines": "×ÏçêÖù",
-		"default": "×Ïçê¿é"
+		"lines": "ç´«ç€æŸ±",
+		"default": "ç´«ç€å—"
 	},
 	"minecraft:granite_stairs": {
-		"default": "»¨¸ÚÑÒÂ¥Ìİ"
+		"default": "èŠ±å²—å²©æ¥¼æ¢¯"
 	},
 	"minecraft:polished_diorite_stairs": {
-		"default": "Ä¥ÖÆÉÁ³¤ÑÒÂ¥Ìİ"
+		"default": "ç£¨åˆ¶é—ªé•¿å²©æ¥¼æ¢¯"
 	},
 	"minecraft:polished_andesite_stairs": {
-		"default": "Ä¥ÖÆ°²É½ÑÒÂ¥Ìİ"
+		"default": "ç£¨åˆ¶å®‰å±±å²©æ¥¼æ¢¯"
 	},
 	"minecraft:smooth_sandstone_stairs": {
-		"default": "Æ½»¬É°ÑÒÂ¥Ìİ"
+		"default": "å¹³æ»‘ç ‚å²©æ¥¼æ¢¯"
 	},
 	"minecraft:smooth_red_sandstone_stairs": {
-		"default": "Æ½»¬ºìÉ°ÑÒÂ¥Ìİ"
+		"default": "å¹³æ»‘çº¢ç ‚å²©æ¥¼æ¢¯"
 	},
 	"minecraft:monster_egg": {
-		"default": "³æÊ´Ê¯Í·"
+		"default": "è™«èš€çŸ³å¤´"
 	},
 	"minecraft:soul_sand": {
-		"default": "Áé»êÉ³"
+		"default": "çµé­‚æ²™"
 	},
 	"minecraft:soul_soil": {
-		"default": "Áé»êÍÁ"
+		"default": "çµé­‚åœŸ"
 	},
 	"minecraft:chiseled_nether_bricks": {
-		"default": "µñÎÆÏÂ½ç×©¿é"
+		"default": "é›•çº¹ä¸‹ç•Œç –å—"
 	},
 	"minecraft:end_portal_frame": {
-		"default": "Ä©µØ´«ËÍÃÅ¿ò¼Ü"
+		"default": "æœ«åœ°ä¼ é€é—¨æ¡†æ¶"
 	},
 	"minecraft:infested_deepslate": {
-		"default": "³æÊ´Éî°åÑÒ"
+		"default": "è™«èš€æ·±æ¿å²©"
 	},
 	"minecraft:polished_blackstone_slab": {
-		"default": "Ä¥ÖÆºÚÊ¯Ì¨½×"
+		"default": "ç£¨åˆ¶é»‘çŸ³å°é˜¶"
 	},
 	"minecraft:cobbled_deepslate_slab": {
-		"default": "Éî°åÑÒÔ²Ê¯Ì¨½×"
+		"default": "æ·±æ¿å²©åœ†çŸ³å°é˜¶"
 	},
 	"minecraft:deepslate_tile_slab": {
-		"default": "Éî°åÑÒÍßÌ¨½×"
+		"default": "æ·±æ¿å²©ç“¦å°é˜¶"
 	},
 	"minecraft:polished_deepslate_slab": {
-		"default": "Ä¥ÖÆÉî°åÑÒÌ¨½×"
+		"default": "ç£¨åˆ¶æ·±æ¿å²©å°é˜¶"
 	},
 	"minecraft:deepslate_brick_slab": {
-		"default": "Éî°åÑÒ×©Ì¨½×"
+		"default": "æ·±æ¿å²©ç –å°é˜¶"
 	},
 	"minecraft:mud_brick_slab": {
-		"default": "Äà×©Ì¨½×"
+		"default": "æ³¥ç –å°é˜¶"
 	},
 	"minecraft:polished_blackstone_double_slab": {
-		"default": "Ä¥ÖÆºÚÊ¯"
+		"default": "ç£¨åˆ¶é»‘çŸ³"
 	},
 	"minecraft:cobbled_deepslate_double_slab": {
-		"default": "Éî°åÑÒÔ²Ê¯"
+		"default": "æ·±æ¿å²©åœ†çŸ³"
 	},
 	"minecraft:deepslate_tile_double_slab": {
-		"default": "Éî°åÑÒÍß"
+		"default": "æ·±æ¿å²©ç“¦"
 	},
 	"minecraft:polished_deepslate_double_slab": {
-		"default": "Ä¥ÖÆÉî°åÑÒ"
+		"default": "ç£¨åˆ¶æ·±æ¿å²©"
 	},
 	"minecraft:deepslate_brick_double_slab": {
-		"default": "Éî°åÑÒ×©"
+		"default": "æ·±æ¿å²©ç –"
 	},
 	"minecraft:mud_brick_double_slab": {
-		"default": "Äà×©"
+		"default": "æ³¥ç –"
 	},
 	"minecraft:quartz_stairs": {
-		"default": "Ê¯Ó¢Â¥Ìİ"
+		"default": "çŸ³è‹±æ¥¼æ¢¯"
 	},
 	"minecraft:snow": {
-		"default": "Ñ©¿é"
+		"default": "é›ªå—"
 	},
 	"minecraft:prismarine_stairs": {
-		"default": "º£¾§Ê¯Â¥Ìİ"
+		"default": "æµ·æ™¶çŸ³æ¥¼æ¢¯"
 	},
 	"minecraft:cut_copper_stairs": {
-		"default": "ÇĞÖÆÍ­Â¥Ìİ"
+		"default": "åˆ‡åˆ¶é“œæ¥¼æ¢¯"
 	},
 	"minecraft:exposed_cut_copper_stairs": {
-		"default": "°ß²µµÄÇĞÖÆÍ­Â¥Ìİ"
+		"default": "æ–‘é©³çš„åˆ‡åˆ¶é“œæ¥¼æ¢¯"
 	},
 	"minecraft:weathered_cut_copper_stairs": {
-		"default": "ĞâÊ´µÄÇĞÖÆÍ­Â¥Ìİ"
+		"default": "é”ˆèš€çš„åˆ‡åˆ¶é“œæ¥¼æ¢¯"
 	},
 	"minecraft:oxidized_cut_copper_stairs": {
-		"default": "Ñõ»¯µÄÇĞÖÆÍ­Â¥Ìİ"
+		"default": "æ°§åŒ–çš„åˆ‡åˆ¶é“œæ¥¼æ¢¯"
 	},
 	"minecraft:ice": {
-		"default": "±ù"
+		"default": "å†°"
 	},
 	"minecraft:stone_stairs": {
-		"default": "Ô²Ê¯Â¥Ìİ"
+		"default": "åœ†çŸ³æ¥¼æ¢¯"
 	},
 	"minecraft:mossy_cobblestone_stairs": {
-		"default": "Ì¦Ê¯Â¥Ìİ"
+		"default": "è‹”çŸ³æ¥¼æ¢¯"
 	},
 	"minecraft:polished_granite_stairs": {
-		"default": "Ä¥ÖÆ»¨¸ÚÑÒÂ¥Ìİ"
+		"default": "ç£¨åˆ¶èŠ±å²—å²©æ¥¼æ¢¯"
 	},
 	"minecraft:diorite_stairs": {
-		"default": "ÉÁ³¤ÑÒÂ¥Ìİ"
+		"default": "é—ªé•¿å²©æ¥¼æ¢¯"
 	},
 	"minecraft:andesite_stairs": {
-		"default": "°²É½ÑÒÂ¥Ìİ"
+		"default": "å®‰å±±å²©æ¥¼æ¢¯"
 	},
 	"minecraft:sandstone_stairs": {
-		"default": "É°ÑÒÂ¥Ìİ"
+		"default": "ç ‚å²©æ¥¼æ¢¯"
 	},
 	"minecraft:red_sandstone_stairs": {
-		"default": "ºìÉ°ÑÒÂ¥Ìİ"
+		"default": "çº¢ç ‚å²©æ¥¼æ¢¯"
 	},
 	"minecraft:stone_brick_stairs": {
-		"default": "Ê¯×©Â¥Ìİ"
+		"default": "çŸ³ç –æ¥¼æ¢¯"
 	},
 	"minecraft:brick_stairs": {
-		"default": "ºì×©Â¥Ìİ"
+		"default": "çº¢ç –æ¥¼æ¢¯"
 	},
 	"minecraft:nether_brick_stairs": {
-		"default": "ÏÂ½ç×©Â¥Ìİ"
+		"default": "ä¸‹ç•Œç –æ¥¼æ¢¯"
 	},
 	"minecraft:red_nether_brick_stairs": {
-		"default": "ºìÉ«ÏÂ½ç×©Â¥Ìİ"
+		"default": "çº¢è‰²ä¸‹ç•Œç –æ¥¼æ¢¯"
 	},
 	"minecraft:end_brick_stairs": {
-		"default": "Ä©µØÊ¯×©Â¥Ìİ"
+		"default": "æœ«åœ°çŸ³ç –æ¥¼æ¢¯"
 	},
 	"minecraft:polished_blackstone_stairs": {
-		"default": "Ä¥ÖÆºÚÊ¯Â¥Ìİ"
+		"default": "ç£¨åˆ¶é»‘çŸ³æ¥¼æ¢¯"
 	},
 	"minecraft:polished_blackstone_brick_stairs": {
-		"default": "Ä¥ÖÆºÚÊ¯×©Â¥Ìİ"
+		"default": "ç£¨åˆ¶é»‘çŸ³ç –æ¥¼æ¢¯"
 	},
 	"minecraft:cobbled_deepslate_stairs": {
-		"default": "Éî°åÑÒÔ²Ê¯Â¥Ìİ"
+		"default": "æ·±æ¿å²©åœ†çŸ³æ¥¼æ¢¯"
 	},
 	"minecraft:deepslate_tile_stairs": {
-		"default": "Éî°åÑÒÍßÂ¥Ìİ"
+		"default": "æ·±æ¿å²©ç“¦æ¥¼æ¢¯"
 	},
 	"minecraft:polished_deepslate_stairs": {
-		"default": "Ä¥ÖÆÉî°åÑÒÂ¥Ìİ"
+		"default": "ç£¨åˆ¶æ·±æ¿å²©æ¥¼æ¢¯"
 	},
 	"minecraft:deepslate_brick_stairs": {
-		"default": "Éî°åÑÒ×©Â¥Ìİ"
+		"default": "æ·±æ¿å²©ç –æ¥¼æ¢¯"
 	},
 	"minecraft:mud_brick_stairs": {
-		"default": "Äà×©Â¥Ìİ"
+		"default": "æ³¥ç –æ¥¼æ¢¯"
 	},
 	"minecraft:normal_stone_stairs": {
-		"default": "Ê¯Í·Â¥Ìİ"
+		"default": "çŸ³å¤´æ¥¼æ¢¯"
 	},
 	"minecraft:blue_ice": {
-		"default": "À¶±ù"
+		"default": "è“å†°"
 	},
 	"minecraft:packed_ice": {
-		"default": "¸¡±ù"
+		"default": "æµ®å†°"
 	},
 	"minecraft:mossy_stone_brick_stairs": {
-		"default": "Ì¦Ê¯×©Â¥Ìİ"
+		"default": "è‹”çŸ³ç –æ¥¼æ¢¯"
 	},
 	"minecraft:purpur_stairs": {
-		"default": "×ÏçêÂ¥Ìİ"
+		"default": "ç´«ç€æ¥¼æ¢¯"
 	},
 	"minecraft:calcite": {
-		"default": "·½½âÊ¯"
+		"default": "æ–¹è§£çŸ³"
 	},
 	"minecraft:tuff": {
-		"default": "Äı»ÒÑÒ"
+		"default": "å‡ç°å²©"
 	},
 	"minecraft:sponge": {
-		"default": "º£Ãà"
+		"default": "æµ·ç»µ"
 	},
 	"minecraft:blackstone_slab": {
-		"default": "ºÚÊ¯Ì¨½×"
+		"default": "é»‘çŸ³å°é˜¶"
 	},
 	"minecraft:blackstone_double_slab": {
-		"default": "ºÚÊ¯"
+		"default": "é»‘çŸ³"
 	},
 	"minecraft:quartz_block": {
-		"smooth": "Æ½»¬Ê¯Ó¢¿é",
-		"chiseled": "µñÎÆÊ¯Ó¢¿é",
-		"default": "Ê¯Ó¢¿é"
+		"smooth": "å¹³æ»‘çŸ³è‹±å—",
+		"chiseled": "é›•çº¹çŸ³è‹±å—",
+		"default": "çŸ³è‹±å—"
 	},
 	"minecraft:reinforced_deepslate": {
-		"default": "Ç¿»¯Éî°åÑÒ"
+		"default": "å¼ºåŒ–æ·±æ¿å²©"
 	},
 	"minecraft:netherrack": {
-		"default": "ÏÂ½çÑÒ"
+		"default": "ä¸‹ç•Œå²©"
 	},
 	"minecraft:prismarine": {
-		"dark": "°µº£¾§Ê¯",
-		"bricks": "º£¾§Ê¯×©",
-		"default": "º£¾§Ê¯"
+		"dark": "æš—æµ·æ™¶çŸ³",
+		"bricks": "æµ·æ™¶çŸ³ç –",
+		"default": "æµ·æ™¶çŸ³"
 	},
 	"minecraft:cut_copper": {
-		"default": "ÇĞÖÆÍ­¿é"
+		"default": "åˆ‡åˆ¶é“œå—"
 	},
 	"minecraft:waxed_exposed_cut_copper": {
-		"default": "°ß²µµÄÍ¿À¯ÇĞÖÆÍ­¿é"
+		"default": "æ–‘é©³çš„æ¶‚èœ¡åˆ‡åˆ¶é“œå—"
 	},
 	"minecraft:waxed_weathered_cut_copper": {
-		"default": "ĞâÊ´µÄÍ¿À¯ÇĞÖÆÍ­¿é"
+		"default": "é”ˆèš€çš„æ¶‚èœ¡åˆ‡åˆ¶é“œå—"
 	},
 	"minecraft:waxed_oxidized_cut_copper": {
-		"default": "Ñõ»¯µÄÍ¿À¯ÇĞÖÆÍ­¿é"
+		"default": "æ°§åŒ–çš„æ¶‚èœ¡åˆ‡åˆ¶é“œå—"
 	},
 	"minecraft:magma": {
-		"default": "ÑÒ½¬¿é"
+		"default": "å²©æµ†å—"
 	},
 	"minecraft:stone": {
-		"granite_smooth": "Ä¥ÖÆ»¨¸ÚÑÒ",
-		"diorite_smooth": "Ä¥ÖÆÉÁ³¤ÑÒ",
-		"andesite_smooth": "Ä¥ÖÆ°²É½ÑÒ",
-		"stone": "Ê¯Í·",
-		"granite": "»¨¸ÚÑÒ",
-		"diorite": "ÉÁ³¤ÑÒ",
-		"andesite": "°²É½ÑÒ"
+		"granite_smooth": "ç£¨åˆ¶èŠ±å²—å²©",
+		"diorite_smooth": "ç£¨åˆ¶é—ªé•¿å²©",
+		"andesite_smooth": "ç£¨åˆ¶å®‰å±±å²©",
+		"stone": "çŸ³å¤´",
+		"granite": "èŠ±å²—å²©",
+		"diorite": "é—ªé•¿å²©",
+		"andesite": "å®‰å±±å²©"
 	},
 	"minecraft:cracked_nether_bricks": {
-		"default": "ÁÑÎÆÏÂ½ç×©¿é"
+		"default": "è£‚çº¹ä¸‹ç•Œç –å—"
 	},
 	"minecraft:end_bricks": {
-		"default": "Ä©µØÊ¯×©"
+		"default": "æœ«åœ°çŸ³ç –"
 	},
 	"minecraft:chiseled_polished_blackstone": {
-		"default": "µñÎÆÄ¥ÖÆºÚÊ¯"
+		"default": "é›•çº¹ç£¨åˆ¶é»‘çŸ³"
 	},
 	"minecraft:cracked_deepslate_tiles": {
-		"default": "ÁÑÎÆÉî°åÑÒÍß"
+		"default": "è£‚çº¹æ·±æ¿å²©ç“¦"
 	},
 	"minecraft:cracked_deepslate_bricks": {
-		"default": "ÁÑÎÆÉî°åÑÒ×©"
+		"default": "è£‚çº¹æ·±æ¿å²©ç –"
 	},
 	"minecraft:mud_bricks": {
-		"default": "Äà×©"
+		"default": "æ³¥ç –"
 	},
 	"minecraft:waxed_cut_copper": {
-		"default": "Í¿À¯ÇĞÖÆÍ­¿é"
+		"default": "æ¶‚èœ¡åˆ‡åˆ¶é“œå—"
 	},
 	"minecraft:exposed_cut_copper": {
-		"default": "°ß²µµÄÇĞÖÆÍ­¿é"
+		"default": "æ–‘é©³çš„åˆ‡åˆ¶é“œå—"
 	},
 	"minecraft:weathered_cut_copper": {
-		"default": "ĞâÊ´µÄÇĞÖÆÍ­¿é"
+		"default": "é”ˆèš€çš„åˆ‡åˆ¶é“œå—"
 	},
 	"minecraft:oxidized_cut_copper": {
-		"default": "Ñõ»¯µÄÇĞÖÆÍ­¿é"
+		"default": "æ°§åŒ–çš„åˆ‡åˆ¶é“œå—"
 	},
 	"minecraft:sculk_catalyst": {
-		"default": "ÓÄÄä´ß·¢Ìå"
+		"default": "å¹½åŒ¿å‚¬å‘ä½“"
 	},
 	"minecraft:bedrock": {
-		"default": "»ùÑÒ"
+		"default": "åŸºå²©"
 	},
 	"minecraft:mob_spawner": {
-		"default": "Ë¢¹ÖÁı"
+		"default": "åˆ·æ€ªç¬¼"
 	},
 	"minecraft:cobblestone": {
-		"default": "Ô²Ê¯"
+		"default": "åœ†çŸ³"
 	},
 	"minecraft:mossy_cobblestone": {
-		"default": "Ì¦Ê¯"
+		"default": "è‹”çŸ³"
 	},
 	"minecraft:stonebrick": {
-		"default": "Ê¯×©",
-		"mossy": "Ì¦Ê¯×©"
+		"default": "çŸ³ç –",
+		"mossy": "è‹”çŸ³ç –"
 	},
 	"minecraft:brick_block": {
-		"default": "ºì×©"
+		"default": "çº¢ç –"
 	},
 	"minecraft:nether_brick": {
-		"default": "ÏÂ½ç×©"
+		"default": "ä¸‹ç•Œç –"
 	},
 	"minecraft:red_nether_brick": {
-		"default": "ºìÉ«ÏÂ½ç×©¿é"
+		"default": "çº¢è‰²ä¸‹ç•Œç –å—"
 	},
 	"minecraft:end_stone": {
-		"default": "Ä©µØÊ¯"
+		"default": "æœ«åœ°çŸ³"
 	},
 	"minecraft:blackstone": {
-		"default": "ºÚÊ¯"
+		"default": "é»‘çŸ³"
 	},
 	"minecraft:polished_blackstone": {
-		"default": "Ä¥ÖÆºÚÊ¯"
+		"default": "ç£¨åˆ¶é»‘çŸ³"
 	},
 	"minecraft:polished_blackstone_bricks": {
-		"default": "Ä¥ÖÆºÚÊ¯×©"
+		"default": "ç£¨åˆ¶é»‘çŸ³ç –"
 	},
 	"minecraft:cobbled_deepslate": {
-		"default": "Éî°åÑÒÔ²Ê¯"
+		"default": "æ·±æ¿å²©åœ†çŸ³"
 	},
 	"minecraft:deepslate_tiles": {
-		"default": "Éî°åÑÒÍß"
+		"default": "æ·±æ¿å²©ç“¦"
 	},
 	"minecraft:polished_deepslate": {
-		"default": "Ä¥ÖÆÉî°åÑÒ"
+		"default": "ç£¨åˆ¶æ·±æ¿å²©"
 	},
 	"minecraft:deepslate_bricks": {
-		"default": "Éî°åÑÒ×©"
+		"default": "æ·±æ¿å²©ç –"
 	},
 	"minecraft:packed_mud": {
-		"default": "ÄàÅ÷"
+		"default": "æ³¥å¯"
 	},
 	"minecraft:copper_block": {
-		"default": "Í­¿é"
+		"default": "é“œå—"
 	},
 	"minecraft:waxed_exposed_copper": {
-		"default": "°ß²µµÄÍ¿À¯Í­¿é"
+		"default": "æ–‘é©³çš„æ¶‚èœ¡é“œå—"
 	},
 	"minecraft:waxed_weathered_copper": {
-		"default": "ĞâÊ´µÄÍ¿À¯Í­¿é"
+		"default": "é”ˆèš€çš„æ¶‚èœ¡é“œå—"
 	},
 	"minecraft:waxed_oxidized_copper": {
-		"default": "Ñõ»¯µÄÍ¿À¯Í­¿é"
+		"default": "æ°§åŒ–çš„æ¶‚èœ¡é“œå—"
 	},
 	"minecraft:sculk_shrieker": {
-		"default": "ÓÄÄä¼âĞ¥Ìå"
+		"default": "å¹½åŒ¿å°–å•¸ä½“"
 	},
 	"minecraft:crying_obsidian": {
-		"default": "¿ŞÆüµÄºÚê×Ê¯"
+		"default": "å“­æ³£çš„é»‘æ›œçŸ³"
 	},
 	"minecraft:dragon_egg": {
-		"default": "Áúµ°"
+		"default": "é¾™è›‹"
 	},
 	"minecraft:cobblestone_wall": {
-		"cobblestone": "Ô²Ê¯Ç½",
-		"mossy_cobblestone": "Ì¦Ê¯Ç½",
-		"granite": "»¨¸ÚÑÒÇ½",
-		"diorite": "ÉÁ³¤ÑÒÇ½",
-		"andesite": "°²É½ÑÒÇ½",
-		"sandstone": "É°ÑÒÇ½",
-		"red_sandstone": "ºìÉ°ÑÒÇ½",
-		"stone_brick": "Ê¯×©Ç½",
-		"brick": "ºì×©Ç½",
-		"nether_brick": "ÏÂ½ç×©Ç½",
-		"red_nether_brick": "ºìÉ«ÏÂ½ç×©Ç½",
-		"end_brick": "Ä©µØÊ¯×©Ç½",
-		"prismarine": "º£¾§Ê¯Ç½",
-		"mossy_stone_brick": "Ì¦Ê¯×©"
+		"cobblestone": "åœ†çŸ³å¢™",
+		"mossy_cobblestone": "è‹”çŸ³å¢™",
+		"granite": "èŠ±å²—å²©å¢™",
+		"diorite": "é—ªé•¿å²©å¢™",
+		"andesite": "å®‰å±±å²©å¢™",
+		"sandstone": "ç ‚å²©å¢™",
+		"red_sandstone": "çº¢ç ‚å²©å¢™",
+		"stone_brick": "çŸ³ç –å¢™",
+		"brick": "çº¢ç –å¢™",
+		"nether_brick": "ä¸‹ç•Œç –å¢™",
+		"red_nether_brick": "çº¢è‰²ä¸‹ç•Œç –å¢™",
+		"end_brick": "æœ«åœ°çŸ³ç –å¢™",
+		"prismarine": "æµ·æ™¶çŸ³å¢™",
+		"mossy_stone_brick": "è‹”çŸ³ç –"
 	},
 	"minecraft:blackstone_wall": {
-		"default": "ºÚÊ¯Ç½"
+		"default": "é»‘çŸ³å¢™"
 	},
 	"minecraft:polished_blackstone_wall": {
-		"default": "Ä¥ÖÆºÚÊ¯Ç½"
+		"default": "ç£¨åˆ¶é»‘çŸ³å¢™"
 	},
 	"minecraft:polished_blackstone_brick_wall": {
-		"default": "Ä¥ÖÆºÚÊ¯×©Ç½"
+		"default": "ç£¨åˆ¶é»‘çŸ³ç –å¢™"
 	},
 	"minecraft:cobbled_deepslate_wall": {
-		"default": "Éî°åÑÒÔ²Ê¯Ç½"
+		"default": "æ·±æ¿å²©åœ†çŸ³å¢™"
 	},
 	"minecraft:deepslate_tile_wall": {
-		"default": "Éî°åÑÒÍßÇ½"
+		"default": "æ·±æ¿å²©ç“¦å¢™"
 	},
 	"minecraft:polished_deepslate_wall": {
-		"default": "Ä¥ÖÆÉî°åÑÒÇ½"
+		"default": "ç£¨åˆ¶æ·±æ¿å²©å¢™"
 	},
 	"minecraft:deepslate_brick_wall": {
-		"default": "Éî°åÑÒ×©Ç½"
+		"default": "æ·±æ¿å²©ç –å¢™"
 	},
 	"minecraft:mud_brick_wall": {
-		"default": "Äà×©Ç½"
+		"default": "æ³¥ç –å¢™"
 	},
 	"minecraft:exposed_copper": {
-		"default": "°ß²µµÄÍ­¿é"
+		"default": "æ–‘é©³çš„é“œå—"
 	},
 	"minecraft:weathered_copper": {
-		"default": "ĞâÊ´µÄÍ­¿é"
+		"default": "é”ˆèš€çš„é“œå—"
 	},
 	"minecraft:oxidized_copper": {
-		"default": "Ñõ»¯µÄÍ­¿é"
+		"default": "æ°§åŒ–çš„é“œå—"
 	},
 	"minecraft:quartz_bricks": {
-		"default": "Ê¯Ó¢×©"
+		"default": "çŸ³è‹±ç –"
 	},
 	"minecraft:sculk": {
-		"default": "ÓÄÄä¿é"
+		"default": "å¹½åŒ¿å—"
 	},
 	"minecraft:obsidian": {
-		"default": "ºÚê×Ê¯"
+		"default": "é»‘æ›œçŸ³"
 	},
 	"minecraft:web": {
-		"default": "Ö©ÖëÍø"
+		"default": "èœ˜è››ç½‘"
 	},
 	"minecraft:stained_glass": {
-		"default": "È¾É«²£Á§",
-		"white": "°×É«È¾É«²£Á§"
+		"default": "æŸ“è‰²ç»ç’ƒ",
+		"white": "ç™½è‰²æŸ“è‰²ç»ç’ƒ"
 	},
 	"minecraft:redstone_wire": {
-		"default": "ºìÊ¯·Û"
+		"default": "çº¢çŸ³ç²‰"
 	},
 	"minecraft:twisting_vines": {
-		"default": "²øÔ¹ÌÙ"
+		"default": "ç¼ æ€¨è—¤"
 	},
 	"minecraft:cave_vines": {
-		"default": "·¢¹â½¬¹û"
+		"default": "å‘å…‰æµ†æœ"
 	},
 	"minecraft:cave_vines_head_with_berries": {
-		"default": "·¢¹â½¬¹û"
+		"default": "å‘å…‰æµ†æœ"
 	},
 	"minecraft:small_dripleaf_block": {
-		"default": "Ğ¡ĞÍ´¹µÎÒ¶"
+		"default": "å°å‹å‚æ»´å¶"
 	},
 	"minecraft:deadbush": {
-		"default": "¿İÎ®µÄ¹àÄ¾"
+		"default": "æ¯èçš„çŒæœ¨"
 	},
 	"minecraft:dirt_with_roots": {
-		"default": "²ø¸ùÄàÍÁ"
+		"default": "ç¼ æ ¹æ³¥åœŸ"
 	},
 	"minecraft:polished_blackstone_brick_slab": {
-		"default": "Ä¥ÖÆºÚÊ¯×©Ì¨½×"
+		"default": "ç£¨åˆ¶é»‘çŸ³ç –å°é˜¶"
 	},
 	"minecraft:polished_blackstone_brick_double_slab": {
-		"default": "Ä¥ÖÆºÚÊ¯×©"
+		"default": "ç£¨åˆ¶é»‘çŸ³ç –"
 	},
 	"minecraft:polished_basalt": {
-		"default": "Ä¥ÖÆĞşÎäÑÒ"
+		"default": "ç£¨åˆ¶ç„æ­¦å²©"
 	},
 	"minecraft:basalt": {
-		"default": "ĞşÎäÑÒ"
+		"default": "ç„æ­¦å²©"
 	},
 	"minecraft:chiseled_deepslate": {
-		"default": "µñÎÆÉî°åÑÒ"
+		"default": "é›•çº¹æ·±æ¿å²©"
 	},
 	"minecraft:smooth_basalt": {
-		"default": "Æ½»¬ĞşÎäÑÒ"
+		"default": "å¹³æ»‘ç„æ­¦å²©"
 	}
 }
