@@ -217,7 +217,7 @@ if debug:
 packButton = Button(root, text="选择", command=browseStruct)
 advanced_check = Checkbutton(root, text="高级", variable=check_var, onvalue=1, offvalue=0, command=box_checked)
 export_check = Checkbutton(root, text="生成材料列表", variable=export_list, onvalue=1, offvalue=0)
-big_build_check = Checkbutton(root, text="大型模型模式", variable=big_build, onvalue=1, offvalue=0, command=box_checked )
+big_build_check = Checkbutton(root, text="大模型模式", variable=big_build, onvalue=1, offvalue=0, command=box_checked )
 
 deleteButton = Button(root, text="删除模型", command=delete_model)
 saveButton = Button(root, text="开始", command=runFromGui)
