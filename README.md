@@ -1,9 +1,9 @@
 # Structura-Chinese
-Structura汉化版，直接修改源码显示文字，[原版地址](https://github.com/RavinMaddHatter/Structura)，[汉化版下载地址](https://github.com/TC999/Structura-Chinese/releases/latest)
+Structura汉化版，直接修改源码显示文字，[原版地址](https://github.com/RavinMaddHatter/Structura)，[汉化最新版下载地址](https://github.com/TC999/Structura-Chinese/releases/latest)
 
 ## 效果展示
 
-<img width="203" alt="Screenshot" src="https://github.com/TC999/Structura-Chinese/blob/main/Screenshot.PNG">
+<img width="203" alt="Screenshot" src="Screenshot.PNG">
 
 
 ## 翻译文本(Translation)：
