@@ -20,7 +20,7 @@ advanced       ---> 高级
 
 make lists     ---> 生成材料列表
 
-Make Pack      ---> 制作投影包
+Make Pack      ---> 开始
 
 Offset         ---> 偏移量
 
@@ -30,15 +30,15 @@ Add Model      ---> 添加模型
 
 Remove Model   ---> 删除模型
 
-Big Build Mode ---> 大型构建模式（待定）
+Big Build Mode ---> 大模型模式
 
 ## 待办(TODO)
 
-[ ] 材料列表翻译
+- [x] 材料列表翻译（大部分）
 
-[ ] 多国语言界面
+- [ ] 多国语言界面
 
-[ ] 向原版提交翻译
+- [ ] 向原版提交翻译
 
 ## 协助开发
 
