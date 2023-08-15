@@ -36,7 +36,7 @@ Big Build Mode ---> 大模型模式
 
 - [x] 材料列表翻译（大部分）
 
-- [ ] 多国语言界面
+- [ ] 多国语言界面（繁体中文）
 
 - [ ] 向原版提交翻译
 
@@ -50,4 +50,4 @@ Big Build Mode ---> 大模型模式
  1. 下载整个项目的代码，并在PyCharm中打开
  2. 配置虚拟环境:`pip install -r requirements.txt` `pip install pyinstaller`
  3. 打包指令`pyinstaller -F -w -i icon.icon structura.py`
- 4. 将`lookups`、`Vanilla_Resource_Pack`全部复制到`dist`文件夹中
+ 4. 将`lookups`、`Vanilla_Resource_Pack`全部复制到`dist`文件夹中，双击`structura.exe`即可
