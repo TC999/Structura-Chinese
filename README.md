@@ -1,37 +1,40 @@
 # Structura-Chinese
 Structura汉化版，直接修改源码显示文字，[原版地址](https://github.com/RavinMaddHatter/Structura)，[汉化最新版下载地址](https://github.com/TC999/Structura-Chinese/releases/latest)
 
+该软件Wiki(简体中文，非官方)
+
 ## 效果展示
 
-<img width="203" alt="Screenshot" src="Screenshot.PNG">
+普通
 
+![s1](s1.png)
+
+高级选项勾选
+
+![s2](s2.png)
+
+大型建筑模式（1.6.3新增）
+
+![s3](s3.png)
 
 ## 翻译文本(Translation)：
 
-Structure File ---> 结构文件
-
-Icon File      ---> 图标文件
-
-Pack Name      ---> 包名
-
-Browse         ---> 选择
-
-advanced       ---> 高级
-
-make lists     ---> 生成材料列表
-
-Make Pack      ---> 开始
-
-Offset         ---> 偏移量
-
-Transparency   ---> 透明度
-
-Add Model      ---> 添加模型
-
-Remove Model   ---> 删除模型
-
-Big Build Mode ---> 大模型模式
-
+|原文|简体中文|繁體中文（香港）|繁體中文（台灣）|
+|----|----|----|----|
+|Update|更新|更新|更新|
+|Structure File|结构文件|||
+|Icon File|图标文件|||
+|Pack Name|包名|||
+|Browse|选择|||
+|advanced|高级|||
+|make lists|生成材料列表|||
+|Make Pack|制作投影包|||
+|Offset|偏移量|||
+|Transparency|透明度|||
+|Add Model|添加模型|||
+|Remove Model|删除模型|||
+|Big Build Mode|大型建筑模式|||
+|Get Global Cords|获取全局坐标|||
 ## 待办(TODO)
 
 - [x] 材料列表翻译（大部分）
