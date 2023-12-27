@@ -1,4 +1,12 @@
 # Structura-Chinese
+
+![GitHub all releases](https://img.shields.io/github/downloads/TC999/Structura-Chinese/total?label=%E4%B8%8B%E8%BD%BD%E6%95%B0)
+![GitHub issues](https://img.shields.io/github/issues-raw/TC999/Structura-Chinese?label=%E8%AE%AE%E9%A2%98)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/TC999/Structura-Chinese?label=%E6%8B%89%E5%8F%96%E8%AF%B7%E6%B1%82)
+![GitHub Repo stars](https://img.shields.io/github/stars/TC999/Structura-Chinese?label=%E6%A0%87%E6%98%9F%E6%95%B0)
+
+
+
 Structura汉化版，直接修改源码显示文字，[原版地址](https://github.com/RavinMaddHatter/Structura)，[汉化最新版下载地址](https://github.com/TC999/Structura-Chinese/releases/latest)
 
 该软件Wiki(简体中文，非官方)
