@@ -3,7 +3,7 @@
 		"default": "粗铁块"
 	},
 	"minecraft:raw_copper_block": {
-		"default": "粗铜"
+		"default": "粗铜块"
 	},
 	"minecraft:raw_gold_block": {
 		"default": "粗金块"
@@ -60,7 +60,7 @@
 		"default": "煤矿石"
 	},
 	"minecraft:quartz_ore": {
-		"default": "下界石英"
+		"default": "下界石英矿石"
 	},
 	"minecraft:golden_rail": {
 		"default": "动力铁轨"
