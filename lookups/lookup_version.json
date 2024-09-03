@@ -1,6 +1,6 @@
 {
-	"version": "structura16-26082023",
-	"author": "RavinMaddHatter",
-	"update_url":"https://smgafwso25.execute-api.us-east-2.amazonaws.com/default/structuraUpdate",
-	"notes":"first structura update that uses this release method"
+  "version": "update_package_31-3-2024",
+  "author": "RavinMaddHatter",
+  "update_url": "https://update.structuralab.com/structuraUpdate",
+  "notes": "Fixed 1.20.72 blocks"
 }

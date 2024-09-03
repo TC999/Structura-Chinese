@@ -17,7 +17,7 @@ class process_structure:
         with open("lookups/nbt_defs.json") as nbt_file:
             self.nbt_defs=json.load(nbt_file)
             
-        with open("lookups/material_list_names.json",encoding="UTF-8") as nbt_file:
+        with open("lookups/material_list_names.json") as nbt_file:
             self.block_names=json.load(nbt_file)
         if type(file) is dict:
             self.NBTfile = file
@@ -57,7 +57,7 @@ class process_structure:
     def get_size(self):
         return self.size
 
-    def get_block_list(self, ignored_blocks=["minecraft:air"]):
+    def get_block_list(self, ignored_blocks=["minecraft:air","minecraft:structure_block"]):
         block_counter = {}
         i=-2
         block_array=array(self.blocks)
@@ -87,7 +87,7 @@ class combined_structures:
     def __init__(self,file_list,exclude_list=[]):
         with open("lookups/nbt_defs.json") as nbt_file:
             self.nbt_defs=json.load(nbt_file)
-        with open("lookups/material_list_names.json",encoding="UTF-8") as nbt_file:
+        with open("lookups/material_list_names.json") as nbt_file:
             self.block_names=json.load(nbt_file)
         self.structs={}
         self.maxs = array([-2147483647,-2147483647,-2147483647],dtype=int32)
