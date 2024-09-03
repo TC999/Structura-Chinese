@@ -1,9 +1,5 @@
 import os
-import updater
-if not(os.path.exists("lookups")):
-    print("downloading lookup files")
-    updater.update("https://update.structuralab.com/structuraUpdate","Structura1-6","")
-    
+
 import json
 from structura_core import structura
 from turtle import color
@@ -19,26 +15,14 @@ debug = False
 def browseStruct():
     #browse for a structure file.
     FileGUI.set(filedialog.askopenfilename(filetypes=(
-        ("Structure File", "*.mcstructure *.MCSTRUCTURE"), )))
+        ("结构文件", "*.mcstructure *.MCSTRUCTURE"), )))
 def browseIcon():
     #browse for a structure file.
     icon_var.set(filedialog.askopenfilename(filetypes=(
-        ("Icon File", "*.png *.PNG"), )))
-def update():
-    with open("lookups\lookup_version.json") as file:
-        version_data = json.load(file)
-        print(version_data["version"])
-    updated = updater.update(version_data["update_url"],"Structura1-6",version_data["version"])
-    if updated:
-        with open("lookups\lookup_version.json") as file:
-            version_data = json.load(file)
-        messagebox.showinfo("Updated!", version_data["notes"])
-    else:
-        messagebox.showinfo("Status", "You are currently up to date.")
+        ("图标文件", "*.png *.PNG"), )))
 def box_checked():
     r = 0
     title_text.grid(row=r, column=0, columnspan=2)
-    updateButton.grid(row=r, column=2)
     if check_var.get()==0:
         modle_name_entry.grid_forget()
         modle_name_lb.grid_forget()
@@ -129,9 +113,9 @@ def add_model():
 
     if len(FileGUI.get()) == 0:
         valid=False
-        messagebox.showinfo("Error", "You need to browse for a structure file!")
+        messagebox.showinfo("错误", "你需要添加结构文件")
     if model_name_var.get() in list(models.keys()):
-        messagebox.showinfo("Error", "The Name Tag mut be unique")
+        messagebox.showinfo("错误", "名称不唯一")
         valid=False
 
     if valid:
@@ -171,19 +155,19 @@ def runFromGui():
     stop = False
     if os.path.isfile("{}.mcpack".format(packName.get())):
         stop = True
-        messagebox.showinfo("Error", "pack already exists or pack name is empty")
+        messagebox.showinfo("错误", "包已存在或名称为空")
         ## could be fixed if temp files were used.
     if check_var.get()==0:
         if len(FileGUI.get()) == 0:
             stop = True
-            messagebox.showinfo("Error", "You need to browse for a structure file!")
+            messagebox.showinfo("错误", "未选择结构文件")
     if len(packName.get()) == 0:
         stop = True
-        messagebox.showinfo("Error", "You need a Name")
+        messagebox.showinfo("错误", "未命名")
     else:
         if len(list(models.keys()))==0 and check_var.get():
             stop = True
-            messagebox.showinfo("Error", "You need to add some structures")
+            messagebox.showinfo("错误", "未添加结构")
     if len(icon_var.get())>0:
         pack_icon=icon_var.get()
     if not stop:
@@ -221,7 +205,7 @@ def runFromGui():
 offsetLbLoc=4
 offsets={}
 root = Tk()
-root.title("Structura")
+root.title("Structura 汉化版")
 models={}
 FileGUI = StringVar()
 packName = StringVar()
@@ -243,31 +227,30 @@ listbox=Listbox(root)
 title_text = Label(root, text="Structura")
 file_entry = Entry(root, textvariable=FileGUI)
 packName_entry = Entry(root, textvariable=packName)
-modle_name_lb = Label(root, text="Name Tag")
+modle_name_lb = Label(root, text="名称")
 modle_name_entry = Entry(root, textvariable=model_name_var)
-cord_lb = Label(root, text="Offset")
-cord_lb_big = Label(root, text="Corner")
+cord_lb = Label(root, text="透明度")
+cord_lb_big = Label(root, text="角落")
 x_entry = Entry(root, textvariable=xvar, width=5)
 y_entry = Entry(root, textvariable=yvar, width=5)
 z_entry = Entry(root, textvariable=zvar, width=5)
-icon_lb = Label(root, text="Icon file")
+icon_lb = Label(root, text="图标文件")
 icon_entry = Entry(root, textvariable=icon_var)
-updateButton = Button(root, text="Update", command=update)
-IconButton = Button(root, text="Browse", command=browseIcon)
-file_lb = Label(root, text="Structure file")
-packName_lb = Label(root, text="Pack Name")
+IconButton = Button(root, text="选择", command=browseIcon)
+file_lb = Label(root, text="结构文件")
+packName_lb = Label(root, text="包名")
 if debug:
-    debug_lb = Label(root, text="Debug Mode",fg='Red').place(x=285,y=70)
-packButton = Button(root, text="Browse", command=browseStruct)
-advanced_check = Checkbutton(root, text="advanced", variable=check_var, onvalue=1, offvalue=0, command=box_checked)
-export_check = Checkbutton(root, text="make lists", variable=export_list, onvalue=1, offvalue=0)
-big_build_check = Checkbutton(root, text="Big Build mode", variable=big_build, onvalue=1, offvalue=0, command=box_checked )
+    debug_lb = Label(root, text="调试模式",fg='Red').place(x=285,y=70)
+packButton = Button(root, text="选择", command=browseStruct)
+advanced_check = Checkbutton(root, text="高级", variable=check_var, onvalue=1, offvalue=0, command=box_checked)
+export_check = Checkbutton(root, text="生成材料列表", variable=export_list, onvalue=1, offvalue=0)
+big_build_check = Checkbutton(root, text="大型建筑模式", variable=big_build, onvalue=1, offvalue=0, command=box_checked )
 
-deleteButton = Button(root, text="Remove Model", command=delete_model)
-saveButton = Button(root, text="Make Pack", command=runFromGui)
-modelButton = Button(root, text="Add Model", command=add_model)
-get_cords_button = Button(root, text="Get Global Cords", command=get_global_cords)
-transparency_lb = Label(root, text="Transparency")
+deleteButton = Button(root, text="删除模型", command=delete_model)
+saveButton = Button(root, text="开始！", command=runFromGui)
+modelButton = Button(root, text="添加模型", command=add_model)
+get_cords_button = Button(root, text="获取全局坐标", command=get_global_cords)
+transparency_lb = Label(root, text="偏移量")
 transparency_entry = Scale(root,variable=sliderVar, length=200, from_=0, to=100,tickinterval=10,orient=HORIZONTAL)
 
 box_checked()
