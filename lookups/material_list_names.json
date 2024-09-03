@@ -1,2484 +1,2484 @@
 {
 	"minecraft:raw_iron_block": {
-		"default": "粗铁块"
+		"default": "Raw Iron Block"
 	},
 	"minecraft:raw_copper_block": {
-		"default": "粗铜块"
+		"default": "Raw Copper Block"
 	},
 	"minecraft:raw_gold_block": {
-		"default": "粗金块"
+		"default": "Raw Gold Block"
 	},
 	"minecraft:diamond_block": {
-		"default": "钻石块"
+		"default": "Diamond Block"
 	},
 	"minecraft:emerald_block": {
-		"default": "绿宝石块"
+		"default": "Emerald Block"
 	},
 	"minecraft:lapis_block": {
-		"default": "青金石块"
+		"default": "Lapis Block"
 	},
 	"minecraft:redstone_block": {
-		"default": "红石块"
+		"default": "Redstone Block"
 	},
 	"minecraft:coal_block": {
-		"default": "煤炭块"
+		"default": "Coal Block"
 	},
 	"minecraft:netherite_block": {
-		"default": "下界合金块"
+		"default": "Netherite Block"
 	},
 	"minecraft:barrier": {
-		"default": "屏障"
+		"default": "Barrier Block"
 	},
 	"minecraft:piston_arm_collision": {
-		"default": "活塞臂"
+		"default": "Piston Arm"
 	},
 	"minecraft:sticky_piston_arm_collision": {
-		"default": "黏性活塞臂"
+		"default": "Sticky Piston Arm"
 	},
 	"minecraft:iron_ore": {
-		"default": "铁矿石"
+		"default": "Iron Ore"
 	},
 	"minecraft:copper_ore": {
-		"default": "铜矿石"
+		"default": "Copper Ore"
 	},
 	"minecraft:gold_ore": {
-		"default": "金矿石"
+		"default": "Gold Ore"
 	},
 	"minecraft:diamond_ore": {
-		"default": "钻石矿石"
+		"default": "Diamond Ore"
 	},
 	"minecraft:emerald_ore": {
-		"default": "绿宝石矿石"
+		"default": "Emerald Ore"
 	},
 	"minecraft:lapis_ore": {
-		"default": "青金石矿石"
+		"default": "Lapis Ore"
 	},
 	"minecraft:redstone_ore": {
-		"default": "红石矿石"
+		"default": "Redstone Ore"
 	},
 	"minecraft:coal_ore": {
-		"default": "煤矿石"
+		"default": "Coal Ore"
 	},
 	"minecraft:quartz_ore": {
-		"default": "下界石英矿石"
+		"default": "Quartz Ore"
 	},
 	"minecraft:golden_rail": {
-		"default": "动力铁轨"
+		"default": "Powered Rail"
 	},
 	"minecraft:activator_rail": {
-		"default": "激活铁轨"
+		"default": "Activator Rail"
 	},
 	"minecraft:detector_rail": {
-		"default": "探测铁轨"
+		"default": "Detector Rail"
 	},
 	"minecraft:rail": {
-		"default": "铁轨"
+		"default": "Rail"
 	},
 	"minecraft:tripwire_hook": {
-		"default": "绊线钩"
+		"default": "Tripwire Hook"
 	},
 	"minecraft:dropper": {
-		"default": "投掷器"
+		"default": "Dropper"
 	},
 	"minecraft:dispenser": {
-		"default": "发射器"
+		"default": "Dispenser"
 	},
 	"minecraft:piston": {
-		"default": "活塞"
+		"default": "Piston"
 	},
 	"minecraft:sticky_piston": {
-		"default": "黏性活塞"
+		"default": "Sticky Piston"
 	},
 	"minecraft:respawn_anchor": {
-		"default": "重生锚"
+		"default": "Respawn Anchor"
 	},
 	"minecraft:deepslate_iron_ore": {
-		"default": "深层铁矿石"
+		"default": "Deepslate Iron Ore"
 	},
 	"minecraft:deepslate_copper_ore": {
-		"default": "深层铜矿石"
+		"default": "Deepslate Copper Ore"
 	},
 	"minecraft:nether_gold_ore": {
-		"default": "下界金矿石"
+		"default": "Nether Gold Ore"
 	},
 	"minecraft:deepslate_diamond_ore": {
-		"default": "深层钻石矿石"
+		"default": "Deepslate Diamond Ore"
 	},
 	"minecraft:deepslate_emerald_ore": {
-		"default": "深层绿宝石矿石"
+		"default": "Deepslate Emerald Ore"
 	},
 	"minecraft:deepslate_lapis_ore": {
-		"default": "深层青金石矿石"
+		"default": "Deepslate Lapis Ore"
 	},
 	"minecraft:deepslate_redstone_ore": {
-		"default": "深层红石矿石"
+		"default": "Deepslate Redstone Ore"
 	},
 	"minecraft:deepslate_coal_ore": {
-		"default": "深层煤矿石"
+		"default": "Deepslate Coal Ore"
 	},
 	"minecraft:ancient_debris": {
-		"default": "远古残骸"
+		"default": "Ancient Debris"
 	},
 	"minecraft:lightning_rod": {
-		"default": "避雷针"
+		"default": "Lightning Rod"
 	},
 	"minecraft:deepslate_gold_ore": {
-		"default": "深层金矿石"
+		"default": "Deepslate Gold Ore"
 	},
 	"minecraft:trip_wire": {
-		"default": "线"
+		"default": "String"
 	},
 	"minecraft:hopper": {
-		"default": "漏斗"
+		"default": "Hopper"
 	},
 	"minecraft:gilded_blackstone": {
-		"default": "镶金黑石"
+		"default": "Gilded Blackstone"
 	},
 	"minecraft:daylight_detector": {
-		"default": "阳光探测器"
+		"default": "Daylight Sensor"
 	},
 	"minecraft:polished_blackstone_button": {
-		"default": "磨制黑石按钮"
+		"default": "Polished Blackstone Button"
 	},
 	"minecraft:gold_block": {
-		"default": "金块"
+		"default": "Gold Block"
 	},
 	"minecraft:redstone_torch": {
-		"default": "红石火把"
+		"default": "Redstone Torch"
 	},
 	"minecraft:light_weighted_pressure_plate": {
-		"default": "轻质测重压力板"
+		"default": "Weighted Pressure Plate (light)"
 	},
 	"minecraft:daylight_detector_inverted": {
-		"default": "阳光探测器"
+		"default": "Daylight Sensor"
 	},
 	"minecraft:powered_repeater": {
-		"default": "红石中继器"
+		"default": "Repeater"
 	},
 	"minecraft:iron_trapdoor": {
-		"default": "铁活板门"
+		"default": "Iron Trapdoor"
 	},
 	"minecraft:polished_blackstone_pressure_plate": {
-		"default": "磨制黑石压力板"
+		"default": "Polished Blackstone Pressure Plate"
 	},
 	"minecraft:stone_button": {
-		"default": "石头按钮"
+		"default": "Stone Button"
 	},
 	"minecraft:observer": {
-		"default": "侦测器"
+		"default": "Observer"
 	},
 	"minecraft:unpowered_repeater": {
-		"default": "红石中继器"
+		"default": "Repeater"
 	},
 	"minecraft:stone_pressure_plate": {
-		"default": "石头压力板"
+		"default": "Stone Pressure Plate"
 	},
 	"minecraft:sculk_sensor": {
-		"default": "幽匿感测体"
+		"default": "Sculk Sensor"
 	},
 	"minecraft:unlit_redstone_torch": {
-		"default": "红石火把"
+		"default": "Redstone Torch"
 	},
 	"minecraft:iron_bars": {
-		"default": "铁栏杆"
+		"default": "Iron Bars"
 	},
 	"minecraft:target": {
-		"default": "标靶"
+		"default": "Target Block"
 	},
 	"minecraft:tnt": {
 		"default": "TNT"
 	},
 	"minecraft:heavy_weighted_pressure_plate": {
-		"default": "重质测重压力板"
+		"default": "Weighted Pressure Plate (Heavy)"
 	},
 	"minecraft:lever": {
-		"default": "拉杆"
+		"default": "Lever"
 	},
 	"minecraft:lit_redstone_lamp": {
-		"default": "红石灯"
+		"default": "Redstone Lamp"
 	},
 	"minecraft:redstone_lamp": {
-		"default": "红石灯"
+		"default": "Redstone Lamp"
 	},
 	"minecraft:iron_block": {
-		"default": "铁块"
+		"default": "Iron Block"
 	},
 	"minecraft:unpowered_comparator": {
-		"default": "红石比较器"
+		"default": "Comparator"
 	},
 	"minecraft:deny": {
-		"default": "拒绝方块"
+		"default": "Deny"
 	},
 	"minecraft:powered_comparator": {
-		"default": "红石比较器"
+		"default": "Comparator"
 	},
 	"minecraft:lectern": {
-		"default": "讲台"
+		"default": "Lectern"
 	},
 	"minecraft:stripped_cherry_wood": {
-		"default": "去皮樱花木"
+		"default": "Stripped Cherry Wood"
 	},
 	"minecraft:bamboo_hanging_sign": {
-		"default": "悬挂式竹告示牌"
+		"default": "Bamboo Hanging Signs"
 	},
 	"minecraft:bamboo_fence_gate": {
-		"default": "竹栅栏门"
+		"default": "Bamboo Fence Gate"
 	},
 	"minecraft:lit_smoker": {
-		"default": "烟熏炉"
+		"default": "Smoker"
 	},
 	"minecraft:smoker": {
-		"default": "烟熏炉"
+		"default": "Smoker"
 	},
 	"minecraft:blast_furnace": {
-		"default": "高炉"
+		"default": "Blast Furnace"
 	},
 	"minecraft:furnace": {
-		"default": "熔炉"
+		"default": "Furnace"
 	},
 	"minecraft:bee_nest": {
-		"default": "蜂巢"
+		"default": "Bee Nest"
 	},
 	"minecraft:beehive": {
-		"default": "蜂箱"
+		"default": "Bee Hive"
 	},
 	"minecraft:smithing_table": {
-		"default": "锻造台"
+		"default": "Smithing Table"
 	},
 	"minecraft:fletching_table": {
-		"default": "制箭台"
+		"default": "Fletching Table"
 	},
 	"minecraft:crafting_table": {
-		"default": "工作台"
+		"default": "Crafting Table"
 	},
 	"minecraft:cartography_table": {
-		"default": "制图台"
+		"default": "Cartography Table"
 	},
 	"minecraft:slime": {
-		"default": "黏液块"
+		"default": "Slime Block"
 	},
 	"minecraft:honey_block": {
-		"default": "蜂蜜块"
+		"default": "Honey Block"
 	},
 	"minecraft:honeycomb_block": {
-		"default": "蜜脾块"
+		"default": "Honeycomb Block"
 	},
 	"minecraft:loom": {
-		"default": "织布机"
+		"default": "Loom"
 	},
 	"minecraft:flower_pot": {
-		"default": "花盆"
+		"default": "Flower Pot"
 	},
 	"minecraft:stonecutter_block": {
-		"default": "切石机"
+		"default": "Stonecutter"
 	},
 	"minecraft:ender_chest": {
-		"default": "末影箱"
+		"default": "Ender Chest"
 	},
 	"minecraft:trapped_chest": {
-		"default": "陷阱箱"
+		"default": "Trapped Chest"
 	},
 	"minecraft:chest": {
-		"default": "箱子"
+		"default": "Chest"
 	},
 	"minecraft:conduit": {
-		"default": "潮涌核心"
+		"default": "Conduit"
 	},
 	"minecraft:beacon": {
-		"default": "信标"
+		"default": "Beacon"
 	},
 	"minecraft:jukebox": {
-		"default": "唱片机"
+		"default": "Jukebox"
 	},
 	"minecraft:noteblock": {
-		"default": "音符盒"
+		"default": "Noteblock"
 	},
 	"minecraft:bookshelf": {
-		"default": "书架"
+		"default": "Bookshelf"
 	},
 	"minecraft:composter": {
-		"default": "堆肥桶"
+		"default": "Composter"
 	},
 	"minecraft:cauldron": {
-		"default": "炼药锅"
+		"default": "Cauldron"
 	},
 	"minecraft:enchanting_table": {
-		"default": "附魔台"
+		"default": "Enchanting Table"
 	},
 	"minecraft:hay_block": {
-		"default": "干草捆"
+		"default": "Hay Block"
 	},
 	"minecraft:glow_frame": {
-		"default": "荧光物品展示框"
+		"default": "Glowing Item Frame"
 	},
 	"minecraft:frame": {
-		"default": "物品展示框"
+		"default": "Item Frame"
 	},
 	"minecraft:bone_block": {
-		"default": "骨块"
+		"default": "Bone Block"
 	},
 	"minecraft:bell": {
-		"default": "钟"
+		"default": "Bell"
 	},
 	"minecraft:anvil": {
-		"default": "铁砧"
+		"default": "Anvil"
 	},
 	"minecraft:grass": {
-		"default": "草方块"
+		"default": "Grass Block"
 	},
 	"minecraft:soul_campfire": {
-		"default": "灵魂营火"
+		"default": "Soul Campfire"
 	},
 	"minecraft:glowstone": {
-		"default": "荧石"
+		"default": "Glowstone"
 	},
 	"minecraft:shroomlight": {
-		"default": "菌光体"
+		"default": "Shroomlight"
 	},
 	"minecraft:sea_lantern": {
-		"default": "海晶灯"
+		"default": "Sea Lantern"
 	},
 	"minecraft:chain": {
-		"default": "锁链"
+		"default": "Chains"
 	},
 	"minecraft:end_rod": {
-		"default": "末地烛"
+		"default": "End Rod"
 	},
 	"minecraft:campfire": {
-		"default": "营火"
+		"default": "Campfire"
 	},
 	"minecraft:ochre_froglight": {
-		"default": "赭黄蛙明灯"
+		"default": "Ochre Froglight"
 	},
 	"minecraft:verdant_froglight": {
-		"default": "青翠蛙明灯"
+		"default": "Verdant Froglight"
 	},
 	"minecraft:pearlescent_froglight": {
-		"default": "珠光蛙明灯"
+		"default": "Pearlescent Froglight"
 	},
 	"minecraft:lodestone": {
-		"default": "磁石"
+		"default": "Lodestone"
 	},
 	"minecraft:carpet": {
-		"gray": "灰色地毯",
-		"black": "黑色地毯",
-		"red": "红色地毯",
-		"green": "绿色地毯",
-		"brown": "棕色地毯",
-		"blue": "蓝色地毯",
-		"purple": "紫色地毯",
-		"cyan": "青色地毯",
-		"silver": "淡灰色地毯",
-		"pink": "粉红色地毯",
-		"lime": "黄绿色地毯",
-		"yellow": "黄色地毯",
-		"light_blue": "淡蓝色地毯",
-		"magenta": "品红色地毯",
-		"orange": "橙色地毯",
-		"white": "白色地毯"
+		"gray": "Gray Carpet",
+		"black": "Black Carpet",
+		"red": "Red Carpet",
+		"green": "Green Carpet",
+		"brown": "Brown Carpet",
+		"blue": "Blue Carpet",
+		"purple": "Purple Carpet",
+		"cyan": "Cyan Carpet",
+		"silver": "Light Gray Carpet",
+		"pink": "Pink Carpet",
+		"lime": "Lime Carpet",
+		"yellow": "Yellow Carpet",
+		"light_blue": "Light Blue Carpet",
+		"magenta": "Magenta Carpet",
+		"orange": "Orange Carpet",
+		"white": "White Carpet"
 	},
 	"minecraft:black_wool": {
-		"default": "黑色羊毛"
+		"default": "Black Wool"
 	},
 	"minecraft:red_wool": {
-		"default": "红色羊毛"
+		"default": "Red Wool"
 	},
 	"minecraft:green_wool": {
-		"default": "绿色羊毛"
+		"default": "Green Wool"
 	},
 	"minecraft:brown_wool": {
-		"default": "棕色羊毛"
+		"default": "Brown Wool"
 	},
 	"minecraft:blue_wool": {
-		"default": "蓝色羊毛"
+		"default": "Blue Wool"
 	},
 	"minecraft:purple_wool": {
-		"default": "紫色羊毛"
+		"default": "Purple Wool"
 	},
 	"minecraft:cyan_wool": {
-		"default": "青色羊毛"
+		"default": "Cyan Wool"
 	},
 	"minecraft:light_gray_wool": {
-		"default": "淡灰色羊毛"
+		"default": "Light Gray Wool"
 	},
 	"minecraft:gray_wool": {
-		"default": "灰色羊毛"
+		"default": "Gray Wool"
 	},
 	"minecraft:pink_wool": {
-		"default": "粉红色羊毛"
+		"default": "Pink Wool"
 	},
 	"minecraft:lime_wool": {
-		"default": "黄绿色羊毛"
+		"default": "Lime Wool"
 	},
 	"minecraft:yellow_wool": {
-		"default": "黄色羊毛"
+		"default": "Yellow Wool"
 	},
 	"minecraft:light_blue_wool": {
-		"default": "淡蓝色羊毛"
+		"default": "Light Blue Wool"
 	},
 	"minecraft:magenta_wool": {
-		"default": "品红色羊毛"
+		"default": "Magenta Wool"
 	},
 	"minecraft:orange_wool": {
-		"default": "橙色羊毛"
+		"default": "Orange Wool"
 	},
 	"minecraft:white_wool": {
-		"default": "白色羊毛"
+		"default": "White Wool"
 	},
 	"minecraft:barrel": {
-		"default": "木桶"
+		"default": "Barrel"
 	},
 	"minecraft:black_concrete": {
-		"default": "黑色混凝土"
+		"default": "Black Concrete"
 	},
 	"minecraft:red_concrete": {
-		"default": "红色混凝土"
+		"default": "Red Concrete"
 	},
 	"minecraft:green_concrete": {
-		"default": "绿色混凝土"
+		"default": "Green Concrete"
 	},
 	"minecraft:brown_concrete": {
-		"default": "棕色混凝土"
+		"default": "Brown Concrete"
 	},
 	"minecraft:blue_concrete": {
-		"default": "蓝色混凝土"
+		"default": "Blue Concrete"
 	},
 	"minecraft:purple_concrete": {
-		"default": "紫色混凝土"
+		"default": "Purple Concrete"
 	},
 	"minecraft:cyan_concrete": {
-		"default": "青色混凝土"
+		"default": "Cyan Concrete"
 	},
 	"minecraft:silver_concrete": {
-		"default": "淡灰色混凝土"
+		"default": "Light Gray Concrete"
 	},
 	"minecraft:gray_concrete": {
-		"default": "灰色混凝土"
+		"default": "Gray Concrete"
 	},
 	"minecraft:pink_concrete": {
-		"default": "粉红色混凝土"
+		"default": "Pink Concrete"
 	},
 	"minecraft:lime_concrete": {
-		"default": "黄绿色混凝土"
+		"default": "Lime Concrete"
 	},
 	"minecraft:yellow_concrete": {
-		"default": "黄色混凝土"
+		"default": "Yellow Concrete"
 	},
 	"minecraft:light_blue_concrete": {
-		"default": "淡蓝色混凝土"
+		"default": "Light Blue Concrete"
 	},
 	"minecraft:magenta_concrete": {
-		"default": "品红色混凝土"
+		"default": "Magenta Concrete"
 	},
 	"minecraft:orange_concrete": {
-		"default": "橙色混凝土"
+		"default": "Orange Concrete"
 	},
 	"minecraft:white_concrete": {
-		"default": "白色混凝土"
+		"default": "White Concrete"
 	},
 	"minecraft:concrete_powder": {
-		"black": "黑色混凝土粉末",
-		"red": "红色混凝土粉末",
-		"green": "绿色混凝土粉末",
-		"brown": "棕色混凝土粉末",
-		"blue": "蓝色混凝土粉末",
-		"purple": "紫色混凝土粉末",
-		"cyan": "青色混凝土粉末",
-		"silver": "淡灰色混凝土粉末",
-		"gray": "灰色混凝土粉末",
-		"pink": "粉红色混凝土粉末",
-		"lime": "黄绿色混凝土粉末",
-		"yellow": "黄色混凝土粉末",
-		"light_blue": "蓝色混凝土粉末",
-		"magenta": "品红色混凝土粉末",
-		"orange": "橙色混凝土粉末",
-		"white": "白色混凝土粉末"
+		"black": "Black Concrete Powder",
+		"red": "Red Concrete Powder",
+		"green": "Green Concrete Powder",
+		"brown": "Brown Concrete Powder",
+		"blue": "Blue Concrete Powder",
+		"purple": "Purple Concrete Powder",
+		"cyan": "Cyan Concrete Powder",
+		"silver": "Light Grey Concrete Powder",
+		"gray": "Grey Concrete Powder",
+		"pink": "Pink Concrete Powder",
+		"lime": "Lime Concrete Powder",
+		"yellow": "Yellow Concrete Powder",
+		"light_blue": "Blue Concrete Powder",
+		"magenta": "Magenta Concrete Powder",
+		"orange": "Orange Concrete Powder",
+		"white": "White Concrete Powder"
 	},
 	"minecraft:black_concrete_powder": {
-		"default": "黑色混凝土粉末"
+		"default": "Black Concrete Powder"
 	},
 	"minecraft:red_concrete_powder": {
-		"default": "红色混凝土粉末"
+		"default": "Red Concrete Powder"
 	},
 	"minecraft:green_concrete_powder": {
-		"default": "绿色混凝土粉末"
+		"default": "Green Concrete Powder"
 	},
 	"minecraft:brown_concrete_powder": {
-		"default": "棕色混凝土粉末"
+		"default": "Brown Concrete Powder"
 	},
 	"minecraft:blue_concrete_powder": {
-		"default": "蓝色混凝土粉末"
+		"default": "Blue Concrete Powder"
 	},
 	"minecraft:purple_concrete_powder": {
-		"default": "紫色混凝土粉末"
+		"default": "Purple Concrete Powder"
 	},
 	"minecraft:cyan_concrete_powder": {
-		"default": "青色混凝土粉末"
+		"default": "Cyan Concrete Powder"
 	},
 	"minecraft:silver_concrete_powder": {
-		"default": "淡灰色混凝土粉末"
+		"default": "Light Gray Concrete Powder"
 	},
 	"minecraft:gray_concrete_powder": {
-		"default": "灰色混凝土粉末"
+		"default": "Gray Concrete Powder"
 	},
 	"minecraft:pink_concrete_powder": {
-		"default": "粉红色混凝土粉末"
+		"default": "Pink Concrete Powder"
 	},
 	"minecraft:lime_concrete_powder": {
-		"default": "黄绿色混凝土粉末"
+		"default": "Lime Concrete Powder"
 	},
 	"minecraft:yellow_concrete_powder": {
-		"default": "黄色混凝土粉末"
+		"default": "Yellow Concrete Powder"
 	},
 	"minecraft:light_blue_concrete_powder": {
-		"default": "淡蓝色混凝土粉末"
+		"default": "Light Blue Concrete Powder"
 	},
 	"minecraft:magenta_concrete_powder": {
-		"default": "品红色混凝土粉末"
+		"default": "Magenta Concrete Powder"
 	},
 	"minecraft:orange_concrete_powder": {
-		"default": "橙色混凝土粉末"
+		"default": "Orange Concrete Powder"
 	},
 	"minecraft:white_concrete_powder": {
-		"default": "白色混凝土粉末"
+		"default": "White Concrete Powder"
 	},
 	"minecraft:cocoa": {
-		"default": "可可果"
+		"default": "Cocoa Bean"
 	},
 	"minecraft:stained_hardened_clay": {
-		"black": "黑色陶瓦",
-		"red": "红色陶瓦",
-		"green": "绿色陶瓦",
-		"brown": "棕色陶瓦",
-		"blue": "蓝色陶瓦",
-		"purple": "紫色陶瓦",
-		"cyan": "青色陶瓦",
-		"silver": "淡灰色陶瓦",
-		"gray": "灰色陶瓦",
-		"pink": "粉红色陶瓦",
-		"lime": "黄绿色陶瓦",
-		"yellow": "黄色陶瓦",
-		"light_blue": "淡蓝色陶瓦",
-		"magenta": "品红色陶瓦",
-		"orange": "橙色陶瓦",
-		"white": "白色陶瓦"
+		"black": "Black Terracotta",
+		"red": "red  Terracotta",
+		"green": "Green  Terracotta",
+		"brown": "Brown  Terracotta",
+		"blue": "Blue Terracotta",
+		"purple": "Purple Terracotta",
+		"cyan": "Cyan Terracotta",
+		"silver": "Light Gray Terracotta",
+		"gray": "Gray Terracotta",
+		"pink": "Pink Terracotta",
+		"lime": "Lime Terracotta",
+		"yellow": "Yellow Terracotta",
+		"light_blue": "Light Blue Terracotta",
+		"magenta": "Magenta Terracotta",
+		"orange": "Orange Terracotta",
+		"white": "White Terracotta"
 	},
 	"minecraft:black_terracotta": {
-		"default": "黑色陶瓦"
+		"default": "Black Terracotta"
 	},
 	"minecraft:red_terracotta": {
-		"default": "红色陶瓦"
+		"default": "Red Terracotta"
 	},
 	"minecraft:green_terracotta": {
-		"default": "绿色陶瓦"
+		"default": "Green Terracotta"
 	},
 	"minecraft:brown_terracotta": {
-		"default": "棕色陶瓦"
+		"default": "Brown Terracotta"
 	},
 	"minecraft:blue_terracotta": {
-		"default": "蓝色陶瓦"
+		"default": "Blue Terracotta"
 	},
 	"minecraft:purple_terracotta": {
-		"default": "紫色陶瓦"
+		"default": "Purple Terracotta"
 	},
 	"minecraft:cyan_terracotta": {
-		"default": "青色陶瓦"
+		"default": "Cyan Terracotta"
 	},
 	"minecraft:silver_terracotta": {
-		"default": "淡灰色陶瓦"
+		"default": "Light Gray Terracotta"
 	},
 	"minecraft:gray_terracotta": {
-		"default": "灰色陶瓦"
+		"default": "Gray Terracotta"
 	},
 	"minecraft:pink_terracotta": {
-		"default": "粉红色陶瓦"
+		"default": "Pink Terracotta"
 	},
 	"minecraft:lime_terracotta": {
-		"default": "黄绿色陶瓦"
+		"default": "Lime Terracotta"
 	},
 	"minecraft:yellow_terracotta": {
-		"default": "黄色陶瓦"
+		"default": "Yellow Terracotta"
 	},
 	"minecraft:light_blue_terracotta": {
-		"default": "淡蓝色陶瓦"
+		"default": "Light Blue Terracotta"
 	},
 	"minecraft:magenta_terracotta": {
-		"default": "品红色陶瓦"
+		"default": "Magenta Terracotta"
 	},
 	"minecraft:orange_terracotta": {
-		"default": "橙色陶瓦"
+		"default": "Orange Terracotta"
 	},
 	"minecraft:white_terracotta": {
-		"default": "白色陶瓦"
+		"default": "White Terracotta"
 	},
 	"minecraft:jungle_log": {
-		"default": "丛林原木"
+		"default": "Jungle Log"
 	},
 	"minecraft:black_glazed_terracotta": {
-		"default": "黑色带釉陶瓦"
+		"default": "Black Glazed Terracotta"
 	},
 	"minecraft:gray_glazed_terracotta": {
-		"default": "灰色带釉陶瓦"
+		"default": "Gray Glazed Terracotta"
 	},
 	"minecraft:silver_glazed_terracotta": {
-		"default": "淡灰色带釉陶瓦"
+		"default": "Light Gray Glazed Terracotta"
 	},
 	"minecraft:white_glazed_terracotta": {
-		"default": "白色带釉陶瓦"
+		"default": "White Glazed Terracotta"
 	},
 	"minecraft:yellow_glazed_terracotta": {
-		"default": "黄色带釉陶瓦"
+		"default": "Yellow Glazed Terracotta"
 	},
 	"minecraft:orange_glazed_terracotta": {
-		"default": "橙色带釉陶瓦"
+		"default": "Orange Glazed Terracotta"
 	},
 	"minecraft:red_glazed_terracotta": {
-		"default": "红色带釉陶瓦"
+		"default": "Red Glazed Terracotta"
 	},
 	"minecraft:brown_glazed_terracotta": {
-		"default": "棕色带釉陶瓦"
+		"default": "Brown Glazed Terracotta"
 	},
 	"minecraft:cake": {
-		"default": "蛋糕"
+		"default": "Cake"
 	},
 	"minecraft:light_blue_glazed_terracotta": {
-		"default": "蓝色带釉陶瓦"
+		"default": "Blue Glazed Terracotta"
 	},
 	"minecraft:cyan_glazed_terracotta": {
-		"default": "青色带釉陶瓦"
+		"default": "Cyan Glazed Terracotta"
 	},
 	"minecraft:green_glazed_terracotta": {
-		"default": "绿色带釉陶瓦"
+		"default": "Green Glazed Terracotta"
 	},
 	"minecraft:lime_glazed_terracotta": {
-		"default": "黄绿色带釉陶瓦"
+		"default": "Lime Glazed Terracotta"
 	},
 	"minecraft:pink_glazed_terracotta": {
-		"default": "粉红色带釉陶瓦"
+		"default": "Pink Glazed Terracotta"
 	},
 	"minecraft:magenta_glazed_terracotta": {
-		"default": "品红色带釉陶瓦"
+		"default": "Magenta Glazed Terracotta"
 	},
 	"minecraft:purple_glazed_terracotta": {
-		"default": "紫色带釉陶瓦"
+		"default": "Purple Glazed Terracotta"
 	},
 	"minecraft:blue_glazed_terracotta": {
-		"default": "蓝色带釉陶瓦"
+		"default": "Blue Glazed Terracotta"
 	},
 	"minecraft:skull": {
-		"default": "生物头颅"
+		"default": "Mob Head"
 	},
 	"minecraft:turtle_egg": {
-		"default": "海龟蛋"
+		"default": "Turtle Egg"
 	},
 	"minecraft:bed": {
-		"default": "床"
+		"default": "Bed"
 	},
 	"minecraft:soul_torch": {
-		"default": "灵魂火把"
+		"default": "Soul Torch"
 	},
 	"minecraft:torch": {
-		"default": "火把"
+		"default": "Torch"
 	},
 	"minecraft:soul_lantern": {
-		"default": "灵魂灯笼"
+		"default": "Soul Lantern"
 	},
 	"minecraft:lantern": {
-		"default": "灯笼"
+		"default": "Lantern"
 	},
 	"minecraft:sea_pickle": {
-		"default": "海泡菜"
+		"default": "Sea Pickle"
 	},
 	"minecraft:white_candle": {
-		"default": "白色蜡烛"
+		"default": "White Candle"
 	},
 	"minecraft:candle": {
-		"default": "蜡烛"
+		"default": "Candle"
 	},
 	"minecraft:magenta_candle": {
-		"default": "品红色蜡烛"
+		"default": "Magenta Candle"
 	},
 	"minecraft:orange_candle": {
-		"default": "橙色蜡烛"
+		"default": "Orange Candle"
 	},
 	"minecraft:light_blue_candle": {
-		"default": "淡蓝色蜡烛"
+		"default": "Light Blue Candle"
 	},
 	"minecraft:yellow_candle": {
-		"default": "黄色蜡烛"
+		"default": "Yellow Candle"
 	},
 	"minecraft:pink_candle": {
-		"default": "粉红色蜡烛"
+		"default": "Pink Candle"
 	},
 	"minecraft:lime_candle": {
-		"default": "黄绿色蜡烛"
+		"default": "Lime Candle"
 	},
 	"minecraft:gray_candle": {
-		"default": "灰色蜡烛"
+		"default": "Gray Candle"
 	},
 	"minecraft:light_gray_candle": {
-		"default": "淡灰色蜡烛"
+		"default": "Light Gray Candle"
 	},
 	"minecraft:purple_candle": {
-		"default": "紫色蜡烛"
+		"default": "Purple Candle"
 	},
 	"minecraft:cyan_candle": {
-		"default": "青色蜡烛"
+		"default": "Cyan Candle"
 	},
 	"minecraft:green_candle": {
-		"default": "绿色蜡烛"
+		"default": "Green Candle"
 	},
 	"minecraft:brown_candle": {
-		"default": "棕色蜡烛"
+		"default": "Brown Candle"
 	},
 	"minecraft:red_candle": {
-		"default": "红色蜡烛"
+		"default": "Red Candle"
 	},
 	"minecraft:black_candle": {
-		"default": "黑色蜡烛"
+		"default": "Black Candle"
 	},
 	"minecraft:shulker_box": {
-		"white": "白色潜影盒",
-		"gray": "灰色潜影盒",
-		"silver": "淡灰色潜影盒",
-		"green": "绿色潜影盒",
-		"black": "黑色潜影盒",
-		"cyan": "青色潜影盒",
-		"brown": "棕色潜影盒",
-		"light_blue": "淡蓝色潜影盒",
-		"red": "红色潜影盒",
-		"blue": "蓝色潜影盒",
-		"orange": "橙色潜影盒",
-		"purple": "紫色潜影盒",
-		"lime": "黄绿色潜影盒",
-		"pink": "粉红色潜影盒",
-		"magenta": "品红色潜影盒",
-		"default": "潜影盒"
+		"white": "White Shulker Box",
+		"gray": "Grey Shulker Box",
+		"silver": "Light Grey Shulker Box",
+		"green": "Green Shulker Box",
+		"black": "Black Shulker Box",
+		"cyan": "Cyan Shulker Box",
+		"brown": "Brown Shulker Box",
+		"light_blue": "Light Blue Shulker Box",
+		"red": "Red Shulker Box",
+		"blue": "Blue Shulker Box",
+		"orange": "Orange Shulker Box",
+		"purple": "Purple Shulker Box",
+		"lime": "Lime Shulker Box",
+		"pink": "Pink Shulker Box",
+		"magenta": "Magenta Shulker Box",
+		"default": "Shulker Box"
 	},
 	"minecraft:white_shulker_box": {
-		"default": "白色潜影盒"
+		"default": "White Shulker Box"
 	},
 	"minecraft:gray_shulker_box": {
-		"default": "灰色潜影盒"
+		"default": "Gray Shulker Box"
 	},
 	"minecraft:silver_shulker_box": {
-		"default": "淡灰色潜影盒"
+		"default": "Light Gray Shulker Box"
 	},
 	"minecraft:green_shulker_box": {
-		"default": "绿色潜影盒"
+		"default": "Green Shulker Box"
 	},
 	"minecraft:black_shulker_box": {
-		"default": "黑色潜影盒"
+		"default": "Black Shulker Box"
 	},
 	"minecraft:cyan_shulker_box": {
-		"default": "青色潜影盒"
+		"default": "Cyan Shulker Box"
 	},
 	"minecraft:brown_shulker_box": {
-		"default": "棕色潜影盒"
+		"default": "Brown Shulker Box"
 	},
 	"minecraft:light_blue_shulker_box": {
-		"default": "淡蓝色潜影盒"
+		"default": "Light Blue Shulker Box"
 	},
 	"minecraft:red_shulker_box": {
-		"default": "红色潜影盒"
+		"default": "Red Shulker Box"
 	},
 	"minecraft:blue_shulker_box": {
-		"default": "蓝色潜影盒"
+		"default": "Blue Shulker Box"
 	},
 	"minecraft:orange_shulker_box": {
-		"default": "橙色潜影盒"
+		"default": "Orange Shulker Box"
 	},
 	"minecraft:purple_shulker_box": {
-		"default": "紫色潜影盒"
+		"default": "Purple Shulker Box"
 	},
 	"minecraft:lime_shulker_box": {
-		"default": "黄绿色潜影盒"
+		"default": "Lime Shulker Box"
 	},
 	"minecraft:pink_shulker_box": {
-		"default": "粉红色潜影盒"
+		"default": "Pink Shulker Box"
 	},
 	"minecraft:magenta_shulker_box": {
-		"default": "品红色潜影盒"
+		"default": "Magenta Shulker Box"
 	},
 	"minecraft:undyed_shulker_box": {
-		"default": "潜影盒"
+		"default": "Shulker Box"
 	},
 	"minecraft:coral_fan_hang": {
-		"default": "珊瑚扇"
+		"default": "Coral Fan"
 	},
 	"minecraft:coral_fan_dead": {
-		"default": "死亡的珊瑚扇"
+		"default": "Dead Coral Fan"
 	},
 	"minecraft:coral": {
-		"default": "珊瑚"
+		"default": "Coral"
 	},
 	"minecraft:coral_fan": {
-		"default": "珊瑚扇"
+		"default": "Coral Fan"
 	},
 	"minecraft:coral_block": {
-		"default": "珊瑚块"
+		"default": "Coral Block"
 	},
 	"minecraft:coral_fan_hang2": {
-		"default": "珊瑚扇"
+		"default": "Coral Fan"
 	},
 	"minecraft:coral_fan_hang3": {
-		"default": "珊瑚扇"
+		"default": "Coral Fan"
 	},
 	"minecraft:water": {
-		"default": "水"
+		"default": "Water"
 	},
 	"minecraft:seagrass": {
-		"default": "海草"
+		"default": "Seagrass"
 	},
 	"minecraft:kelp": {
-		"default": "海带"
+		"default": "Kelp"
 	},
 	"minecraft:warped_trapdoor": {
-		"default": "诡异木活板门"
+		"default": "Warped Trapdoor"
 	},
 	"minecraft:warped_button": {
-		"default": "诡异木按钮"
+		"default": "Warped Button"
 	},
 	"minecraft:warped_standing_sign": {
-		"default": "诡异木告示牌"
+		"default": "Warped Sign"
 	},
 	"minecraft:nether_sprouts": {
-		"default": "下界苗"
+		"default": "Nether Sprouts"
 	},
 	"minecraft:warped_stem": {
-		"default": "诡异菌柄"
+		"default": "Warped Stem"
 	},
 	"minecraft:stripped_warped_stem": {
-		"default": "去皮诡异菌柄"
+		"default": "Stripped Warped Stem"
 	},
 	"minecraft:warped_stairs": {
-		"default": "诡异木楼梯"
+		"default": "Warped Stairs"
 	},
 	"minecraft:warped_fence_gate": {
-		"default": "诡异木栅栏门"
+		"default": "Warped Fence Gate"
 	},
 	"minecraft:warped_fence": {
-		"default": "诡异木栅栏"
+		"default": "Warped Fence"
 	},
 	"minecraft:warped_wall_sign": {
-		"default": "诡异木告示牌"
+		"default": "Warped Sign"
 	},
 	"minecraft:warped_wart_block": {
-		"default": "诡异疣块"
+		"default": "Warped Wart Block"
 	},
 	"minecraft:warped_slab": {
-		"default": "诡异木台阶"
+		"default": "Warped Slab"
 	},
 	"minecraft:warped_double_slab": {
-		"default": "诡异木板"
+		"default": "Warped Planks"
 	},
 	"minecraft:warped_pressure_plate": {
-		"default": "诡异木压力板"
+		"default": "Warped Pressure Plate"
 	},
 	"minecraft:warped_hyphae": {
-		"default": "诡异菌核"
+		"default": "Warped Hyphae"
 	},
 	"minecraft:warped_roots": {
-		"default": "诡异菌索"
+		"default": "Warped Roots"
 	},
 	"minecraft:warped_planks": {
-		"default": "诡异木板"
+		"default": "Warped Planks"
 	},
 	"minecraft:warped_fungus": {
-		"default": "诡异菌"
+		"default": "Warped Fungus"
 	},
 	"minecraft:warped_nylium": {
-		"default": "诡异菌岩"
+		"default": "Warped Nylium"
 	},
 	"minecraft:crimson_trapdoor": {
-		"default": "绯红木活板门"
+		"default": "Crimson Trapdoor"
 	},
 	"minecraft:crimson_button": {
-		"default": "绯红木按钮"
+		"default": "Crimson Button"
 	},
 	"minecraft:crimson_standing_sign": {
-		"default": "绯红木告示牌"
+		"default": "Crimson Sign"
 	},
 	"minecraft:crimson_nylium": {
-		"default": "绯红菌岩"
+		"default": "Crimson Nylium"
 	},
 	"minecraft:crimson_stem": {
-		"default": "绯红菌柄"
+		"default": "Crimson Stem"
 	},
 	"minecraft:stripped_crimson_stem": {
-		"default": "去皮绯红菌柄"
+		"default": "Stripped Crimson Stem"
 	},
 	"minecraft:crimson_stairs": {
-		"default": "绯红木楼梯"
+		"default": "Crimson Stairs"
 	},
 	"minecraft:crimson_fence_gate": {
-		"default": "绯红木栅栏门"
+		"default": "Crimson Fence Gate"
 	},
 	"minecraft:crimson_fence": {
-		"default": "绯红木栅栏"
+		"default": "Crimson Fence"
 	},
 	"minecraft:crimson_wall_sign": {
-		"default": "绯红木告示牌"
+		"default": "Crimson Sign"
 	},
 	"minecraft:crimson_slab": {
-		"default": "绯红木台阶"
+		"default": "Crimson Slab"
 	},
 	"minecraft:crimson_double_slab": {
-		"default": "绯红木板"
+		"default": "Crimson Planks"
 	},
 	"minecraft:crimson_pressure_plate": {
-		"default": "绯红木压力板"
+		"default": "Crimson Pressure Plate"
 	},
 	"minecraft:crimson_hyphae": {
-		"default": "绯红菌核"
+		"default": "Crimson Hyphae"
 	},
 	"minecraft:nether_wart_block": {
-		"default": "下界疣块"
+		"default": "Nether Wart Block"
 	},
 	"minecraft:crimson_planks": {
-		"default": "绯红木板"
+		"default": "Crimson Planks"
 	},
 	"minecraft:crimson_roots": {
-		"default": "绯红菌索"
+		"default": "Crimson Roots"
 	},
 	"minecraft:crimson_fungus": {
-		"default": "绯红菌"
+		"default": "Crimson Fungus"
 	},
 	"minecraft:mangrove_trapdoor": {
-		"default": "红树木活板门"
+		"default": "Mangrove Trapdoor"
 	},
 	"minecraft:mangrove_button": {
-		"default": "红树木按钮"
+		"default": "Mangrove Button"
 	},
 	"minecraft:mangrove_standing_sign": {
-		"default": "红树木告示牌"
+		"default": "Mangrove Sign"
 	},
 	"minecraft:mangrove_log": {
-		"default": "红树原木"
+		"default": "Mangrove Log"
 	},
 	"minecraft:stripped_mangrove_log": {
-		"default": "去皮红树原木"
+		"default": "Stripped Mangrove Log"
 	},
 	"minecraft:mangrove_stairs": {
-		"default": "红树木楼梯"
+		"default": "Mangrove Stairs"
 	},
 	"minecraft:mangrove_fence_gate": {
-		"default": "红树木栅栏门"
+		"default": "Mangrove Fence Gates"
 	},
 	"minecraft:mangrove_fence": {
-		"default": "红树木栅栏"
+		"default": "Mangrove Fence"
 	},
 	"minecraft:mangrove_wall_sign": {
-		"default": "红树木告示牌"
+		"default": "Mangrove Sign"
 	},
 	"minecraft:mangrove_leaves": {
-		"default": "红树树叶"
+		"default": "Mangrove Leaves"
 	},
 	"minecraft:mangrove_slab": {
-		"default": "红树木台阶"
+		"default": "Mangrove Slab"
 	},
 	"minecraft:mangrove_double_slab": {
-		"default": "红树木板"
+		"default": "Mangrove Planks"
 	},
 	"minecraft:mangrove_pressure_plate": {
-		"default": "红树木压力板"
+		"default": "Mangrove Pressure Plate"
 	},
 	"minecraft:mangrove_wood": {
-		"default": "红树木"
+		"default": "Mangrove Wood"
 	},
 	"minecraft:stripped_mangrove_wood": {
-		"default": "去皮红树木"
+		"default": "Stripped Mangrove Wood"
 	},
 	"minecraft:mangrove_roots": {
-		"default": "红树根"
+		"default": "Mangrove Roots"
 	},
 	"minecraft:mangrove_planks": {
-		"default": "红树木板"
+		"default": "Mangrove Planks"
 	},
 	"minecraft:muddy_mangrove_roots": {
-		"default": "沾泥的红树根"
+		"default": "Muddy Mangrove Roots"
 	},
 	"minecraft:mangrove_propagule": {
-		"default": "红树胎生苗"
+		"default": "Mangrove Propagule"
 	},
 	"minecraft:spruce_trapdoor": {
-		"default": "云杉木活板门"
+		"default": "Spruce Trapdoor"
 	},
 	"minecraft:spruce_button": {
-		"default": "云杉木按钮"
+		"default": "Spruce Button"
 	},
 	"minecraft:spruce_standing_sign": {
-		"default": "云杉木告示牌"
+		"default": "Spruce Sign"
 	},
 	"minecraft:spruce_log": {
-		"default": "云杉原木"
+		"default": "Spruce Log"
 	},
 	"minecraft:stripped_spruce_log": {
-		"default": "去皮云杉原木"
+		"default": "Stripped Spruce Log"
 	},
 	"minecraft:spruce_stairs": {
-		"default": "云杉木楼梯"
+		"default": "Spruce Stairs"
 	},
 	"minecraft:spruce_fence_gate": {
-		"default": "云杉木栅栏门"
+		"default": "Spruce Fence Gates"
 	},
 	"minecraft:spruce_fence": {
-		"default": "云杉木栅栏"
+		"default": "Spruce Fence"
 	},
 	"minecraft:spruce_wall_sign": {
-		"default": "云杉木告示牌"
+		"default": "Spruce Sign"
 	},
 	"minecraft:wooden_slab": {
-		"default": "云杉木台阶"
+		"default": "Spruce Slab"
 	},
 	"minecraft:double_wooden_slab": {
-		"default": "云杉木板"
+		"default": "Double Wooden Slabs"
 	},
 	"minecraft:spruce_pressure_plate": {
-		"default": "云杉木压力板"
+		"default": "Spruce Pressure Plate"
 	},
 	"minecraft:wood": {
-		"default": "云杉木"
+		"default": "Oak Wood"
 	},
 	"minecraft:leaves": {
-		"default": "云杉树叶"
+		"default": "Oak Leaves"
 	},
 	"minecraft:planks": {
-		"default": "云杉木板"
+		"default": "Spruce Planks"
 	},
 	"minecraft:sapling": {
-		"default": "云杉树苗"
+		"default": "Spruce Sapling"
 	},
 	"minecraft:birch_button": {
-		"default": "白桦木按钮"
+		"default": "Birch Button"
 	},
 	"minecraft:birch_trapdoor": {
-		"default": "白桦木活板门"
+		"default": "Birch Trapdoor"
 	},
 	"minecraft:birch_standing_sign": {
-		"default": "白桦木告示牌"
+		"default": "Birch Sign"
 	},
 	"minecraft:birch_log": {
-		"default": "白桦原木"
+		"default": "Birch Log"
 	},
 	"minecraft:stripped_birch_log": {
-		"default": "去皮白桦原木"
+		"default": "Stripped Birch Log"
 	},
 	"minecraft:birch_stairs": {
-		"default": "白桦木楼梯"
+		"default": "Birch Stairs"
 	},
 	"minecraft:birch_fence_gate": {
-		"default": "白桦木栅栏门"
+		"default": "Birch Fence Gates"
 	},
 	"minecraft:birch_fence": {
-		"default": "白桦木栅栏"
+		"default": "Birch Fence"
 	},
 	"minecraft:birch_wall_sign": {
-		"default": "白桦木告示牌"
+		"default": "Birch Sign"
 	},
 	"minecraft:birch_pressure_plate": {
-		"default": "白桦木压力板"
+		"default": "Birch Pressure Plate"
 	},
 	"minecraft:jungle_trapdoor": {
-		"default": "丛林木活板门"
+		"default": "Jungle Trapdoor"
 	},
 	"minecraft:jungle_button": {
-		"default": "丛林木按钮"
+		"default": "Jungle Button"
 	},
 	"minecraft:jungle_standing_sign": {
-		"default": "丛林木告示牌"
+		"default": "Jungle Sign"
 	},
 	"minecraft:stripped_jungle_log": {
-		"default": "丛林原木"
+		"default": "Jungle Log"
 	},
 	"minecraft:jungle_stairs": {
-		"default": "丛林木楼梯"
+		"default": "Jungle Stairs"
 	},
 	"minecraft:jungle_fence_gate": {
-		"default": "丛林木栅栏门"
+		"default": "Jungle Fence Gate"
 	},
 	"minecraft:jungle_fence": {
-		"default": "丛林木栅栏"
+		"default": "Jungle Fence"
 	},
 	"minecraft:jungle_wall_sign": {
-		"default": "丛林木告示牌"
+		"default": "Jungle Sign"
 	},
 	"minecraft:jungle_pressure_plate": {
-		"default": "丛林木压力板"
+		"default": "Jungle PRessure Plate"
 	},
 	"minecraft:acacia_trapdoor": {
-		"default": "金合欢木活板门"
+		"default": "Acacia Trapdoor"
 	},
 	"minecraft:acacia_button": {
-		"default": "金合欢木按钮"
+		"default": "Acacia Button"
 	},
 	"minecraft:acacia_standing_sign": {
-		"default": "金合欢木告示牌"
+		"default": "Acacia Sign"
 	},
 	"minecraft:acacia_log": {
-		"default": "金合欢原木"
+		"default": "Acacia Log"
 	},
 	"minecraft:stripped_acacia_log": {
-		"default": "去皮金合欢原木"
+		"default": "Stripped Acacia Log"
 	},
 	"minecraft:acacia_stairs": {
-		"default": "金合欢木楼梯"
+		"default": "Acacia Stairs"
 	},
 	"minecraft:acacia_fence_gate": {
-		"default": "金合欢木栅栏门"
+		"default": "Acacia Fence Gate"
 	},
 	"minecraft:acacia_fence": {
-		"default": "金合欢木栅栏"
+		"default": "Acacia Fence"
 	},
 	"minecraft:acacia_pressure_plate": {
-		"default": "金合欢木压力板"
+		"default": "Acacia Pressure Plate"
 	},
 	"minecraft:acacia_wall_sign": {
-		"default": "金合欢木告示牌"
+		"default": "Acacia Sign"
 	},
 	"minecraft:leaves2": {
-		"default": "金合欢树叶"
+		"default": "Acacia Leaves"
 	},
 	"minecraft:dark_oak_trapdoor": {
-		"default": "深色橡木活板门"
+		"default": "Dark Oak Trapdoor"
 	},
 	"minecraft:dark_oak_button": {
-		"default": "深色橡木按钮"
+		"default": "Dark Oak Button"
 	},
 	"minecraft:darkoak_standing_sign": {
-		"default": "深色橡木告示牌"
+		"default": "Dark Oak Sign"
 	},
 	"minecraft:dark_oak_log": {
-		"default": "深色橡木原木"
+		"default": "Dark Oak Log"
 	},
 	"minecraft:stripped_dark_oak_log": {
-		"default": "去皮深色橡木原木"
+		"default": "Stripped Dark Oak Log"
 	},
 	"minecraft:dark_oak_stairs": {
-		"default": "深色橡木楼梯"
+		"default": "Dark Oak Stairs"
 	},
 	"minecraft:dark_oak_fence_gate": {
-		"default": "深色橡木栅栏门"
+		"default": "Dark Oak Fence Gate"
 	},
 	"minecraft:dark_oak_fence": {
-		"default": "深色橡木栅栏"
+		"default": "Dark Oak Fence"
 	},
 	"minecraft:darkoak_wall_sign": {
-		"default": "深色橡木告示牌"
+		"default": "Dark Oak Sign"
 	},
 	"minecraft:dark_oak_pressure_plate": {
-		"default": "深色橡木压力板"
+		"default": "Dark Oak Pressure Plate"
 	},
 	"minecraft:trapdoor": {
-		"default": "橡木活板门"
+		"default": "Oak Trapdoor"
 	},
 	"minecraft:wooden_button": {
-		"default": "橡木按钮"
+		"default": "Oak Button"
 	},
 	"minecraft:standing_sign": {
-		"default": "橡木告示牌"
+		"default": "Oak Sign"
 	},
 	"minecraft:azalea": {
-		"default": "杜鹃花丛"
+		"default": "Azalea"
 	},
 	"minecraft:oak_log": {
-		"default": "橡木原木"
+		"default": "Oak Log"
 	},
 	"minecraft:stripped_oak_log": {
-		"default": "去皮橡木原木"
+		"default": "Stripped Oak Log"
 	},
 	"minecraft:oak_stairs": {
-		"default": "橡木楼梯"
+		"default": "Oak Stairs"
 	},
 	"minecraft:fence_gate": {
-		"default": "橡木栅栏门"
+		"default": "Oak Fence Gate"
 	},
 	"minecraft:oak_fence": {
-		"default": "橡木栅栏"
+		"default": "Oak Fence"
 	},
 	"minecraft:wall_sign": {
-		"default": "橡木告示牌"
+		"default": "Oak Sign"
 	},
 	"minecraft:wooden_pressure_plate": {
-		"default": "橡木压力板"
+		"default": "Oak Pressure Plate"
 	},
 	"minecraft:flowering_azalea": {
-		"default": "盛开的杜鹃花丛"
+		"default": "Flowering Azalea"
 	},
 	"minecraft:brown_mushroom_block": {
-		"default": "棕色蘑菇方块"
+		"default": " Brown Mushroom Block"
 	},
 	"minecraft:red_mushroom_block": {
-		"default": "红色蘑菇方块"
+		"default": "Red Mushroom Block"
 	},
 	"minecraft:brown_mushroom": {
-		"default": "棕色蘑菇"
+		"default": "Brown Mushroom"
 	},
 	"minecraft:red_mushroom": {
-		"default": "红色蘑菇"
+		"default": "Red Mushroom"
 	},
 	"minecraft:amethyst_block": {
-		"default": "紫水晶块"
+		"default": "Amethyst Block"
 	},
 	"minecraft:budding_amethyst": {
-		"default": "紫水晶母岩"
+		"default": "Budding Amethyst"
 	},
 	"minecraft:weeping_vines": {
-		"default": "垂泪藤"
+		"default": "Weeping Vines"
 	},
 	"minecraft:pointed_dripstone": {
-		"default": "滴水石锥"
+		"default": "Pointed Dripstone"
 	},
 	"minecraft:hanging_roots": {
-		"default": "垂根"
+		"default": "Hanging Roots"
 	},
 	"minecraft:spore_blossom": {
-		"default": "孢子花"
+		"default": "Spore Blossom"
 	},
 	"minecraft:amethyst_cluster": {
-		"default": "紫水晶簇"
+		"default": "Amethyst Cluster"
 	},
 	"minecraft:large_amethyst_bud": {
-		"default": "大型紫晶芽"
+		"default": "Large Amethyst Bud"
 	},
 	"minecraft:medium_amethyst_bud": {
-		"default": "中型紫晶芽"
+		"default": "Medium Amethyst Bud"
 	},
 	"minecraft:small_amethyst_bud": {
-		"default": "小型紫晶芽"
+		"default": "Small Amethyst Bud"
 	},
 	"minecraft:vine": {
-		"default": "藤蔓"
+		"default": "Vines"
 	},
 	"minecraft:glow_lichen": {
-		"default": "发光地衣"
+		"default": "Glow Lichen"
 	},
 	"minecraft:sculk_vein": {
-		"default": "幽匿脉络"
+		"default": "Sculk Vein"
 	},
 	"minecraft:ladder": {
-		"default": "梯子"
+		"default": "Ladder"
 	},
 	"minecraft:chorus_plant": {
-		"default": "紫颂植株"
+		"default": "Chorus Plant"
 	},
 	"minecraft:chorus_flower": {
-		"default": "紫颂花"
+		"default": "Chorus Flower"
 	},
 	"minecraft:tallgrass": {
-		"default": "高草丛"
+		"default": "Tall Grass"
 	},
 	"minecraft:big_dripleaf": {
-		"default": "大型垂滴叶"
+		"default": "Big Dripleaf"
 	},
 	"minecraft:melon_block": {
-		"default": "西瓜"
+		"default": "Melon Block"
 	},
 	"minecraft:carved_pumpkin": {
-		"default": "雕刻南瓜"
+		"default": "Carved Pumpkin"
 	},
 	"minecraft:beetroot": {
-		"default": "甜菜根"
+		"default": "Beetroot"
 	},
 	"minecraft:wheat": {
-		"default": "小麦"
+		"default": "Wheat"
 	},
 	"minecraft:pumpkin_stem": {
-		"default": "南瓜茎"
+		"default": "Pumpkin Stem"
 	},
 	"minecraft:potatoes": {
-		"default": "马铃薯"
+		"default": "Potatoes"
 	},
 	"minecraft:carrots": {
-		"default": "胡萝卜"
+		"default": "Carrots"
 	},
 	"minecraft:melon_stem": {
-		"default": "西瓜茎"
+		"default": "Melon Stem"
 	},
 	"minecraft:yellow_flower": {
-		"default": "蒲公英"
+		"default": "Dandelion"
 	},
 	"minecraft:red_flower": {
-		"poppy": "虞美人",
-		"orchid": "兰花",
-		"allium": "绒球葱",
-		"houstonia": "蓝花美耳草",
-		"cornflower": "矢车菊",
-		"tulip_red": "红色郁金香",
-		"tulip_orange": "橙色郁金香",
-		"tulip_white": "白色郁金香",
-		"tulip_pink": "粉红色郁金香",
-		"oxeye": "滨菊"
+		"poppy": "Poppy",
+		"orchid": "Blue Orchid",
+		"allium": "Allium",
+		"houstonia": "Azure Bluet",
+		"cornflower": "Cornflower",
+		"tulip_red": "Red Tulip",
+		"tulip_orange": "Orange Tulip",
+		"tulip_white": "White Tulip",
+		"tulip_pink": "Pink Tulip",
+		"oxeye": "Oxeye Daisy"
 	},
 	"minecraft:bamboo_sapling": {
-		"default": "竹子"
+		"default": "Bamboo"
 	},
 	"minecraft:bamboo": {
-		"default": "竹子"
+		"default": "Bamboo"
 	},
 	"minecraft:pumpkin": {
-		"default": "南瓜"
+		"default": "Pumpkin"
 	},
 	"minecraft:wither_rose": {
-		"default": "凋灵玫瑰"
+		"default": "Wither Rose"
 	},
 	"minecraft:lit_pumpkin": {
-		"default": "南瓜灯"
+		"default": "Jack O'Lantern"
 	},
 	"minecraft:stone_block_slab2": {
-		"prismarine_dark": "暗海晶石台阶",
-		"prismarine_brick": "海晶石砖台阶",
-		"prismarine_rough": "海晶石台阶",
-		"smooth_sandstone": "平滑砂岩台阶",
-		"red_sandstone": "红砂岩台阶",
-		"mossy_cobblestone": "苔石台阶",
-		"red_nether_brick": "红色下界砖台阶",
-		"purpur": "紫珀台阶"
+		"prismarine_dark": "Dark Prismarine Slab",
+		"prismarine_brick": "Prismarine Brick Slab",
+		"prismarine_rough": "Prismarine Slab",
+		"smooth_sandstone": "Smooth Sandstone Slab",
+		"red_sandstone": "Red Sandstone Slab",
+		"mossy_cobblestone": "Mossy Cobblestone Slab",
+		"red_nether_brick": "Red Nether Brick Slab",
+		"purpur": "Purpur Slab"
 	},
 	"minecraft:cactus": {
-		"default": "仙人掌"
+		"default": "Cactus"
 	},
 	"minecraft:double_stone_block_slab2": {
-		"prismarine_dark": "暗海晶石",
-		"prismarine_brick": "海晶石砖",
-		"prismarine_rough": "海晶石",
-		"smooth_sandstone": "平滑砂岩",
-		"red_sandstone": "红砂岩",
-		"mossy_cobblestone": "苔石",
-		"red_nether_brick": "红色下界砖块",
-		"purpur": "紫珀"
+		"prismarine_dark": "Dark Prismarine",
+		"prismarine_brick": "Prismarine Bricks",
+		"prismarine_rough": "Prismarine",
+		"smooth_sandstone": "Smooth Sandstone",
+		"red_sandstone": "Red Sandstone",
+		"mossy_cobblestone": "Mossy Cobblestone",
+		"red_nether_brick": "Red Nether Brick",
+		"purpur": "Purpur"
 	},
 	"minecraft:nether_wart": {
-		"default": "下界疣"
+		"default": "Nether Wart"
 	},
 	"minecraft:sweet_berry_bush": {
-		"default": "甜浆果丛"
+		"default": "Sweet Berry Bush"
 	},
 	"minecraft:sand": {
-		"default": "沙子"
+		"default": "Sand"
 	},
 	"minecraft:sandstone": {
-		"smooth": "平滑砂岩",
-		"heiroglyphs": "雕纹砂岩",
-		"cut": "切制砂岩",
-		"default": "砂岩"
+		"smooth": "Smooth Sandstone",
+		"heiroglyphs": "Chiseled Sandstone",
+		"cut": "Cut Sandstone",
+		"default": "Sandstone"
 	},
 	"minecraft:red_sandstone": {
-		"smooth": "平滑红砂岩",
-		"heiroglyphs": "雕纹红砂岩",
-		"cut": "切制红砂岩",
-		"default": "红砂岩"
+		"smooth": "Smooth Red Sandstone",
+		"heiroglyphs": "Chiseled Red Sandstone",
+		"cut": "Cut Red Sandstone",
+		"default": "Red Sandstone"
 	},
 	"minecraft:lava": {
-		"default": "熔岩"
+		"default": "Lava"
 	},
 	"minecraft:stone_block_slab3": {
-		"smooth_red_sandstone": "平滑红砂岩台阶",
-		"polished_granite": "磨制花岗岩台阶",
-		"polished_diorite": "磨制闪长岩台阶",
-		"polished_andesite": "磨制安山岩台阶",
-		"granite": "花岗岩台阶",
-		"diorite": "闪长岩台阶",
-		"andesite": "安山岩台阶",
-		"end_stone_brick": "末地石砖台阶"
+		"smooth_red_sandstone": "Smooth Red Sandstone Slab",
+		"polished_granite": "Polished Granite Slab",
+		"polished_diorite": "Polished Diorite Slab",
+		"polished_andesite": "Polished Andesite Slab",
+		"granite": "Granite Slab",
+		"diorite": "Diorite Slab",
+		"andesite": "Andesite Slab",
+		"end_stone_brick": "End Stone Brick Slab"
 	},
 	"minecraft:stone_block_slab4": {
-		"smooth_quartz": "平滑石英台阶",
-		"cut_sandstone": "切制砂岩台阶",
-		"cut_red_sandstone": "切制红砂岩台阶",
-		"stone": "石头台阶",
-		"mossy_stone_brick": "苔石砖台阶"
+		"smooth_quartz": "Smooth Quartz Slab",
+		"cut_sandstone": "Cut Sandstone Slab",
+		"cut_red_sandstone": "Cut Red Sandstone Slab",
+		"stone": "Stone Slab",
+		"mossy_stone_brick": "Mossy Stone Brick Slab"
 	},
 	"minecraft:bubble_column": {
-		"default": "水"
+		"default": "Water"
 	},
 	"minecraft:double_stone_block_slab3": {
-		"smooth_red_sandstone": "平滑红砂岩",
-		"polished_granite": "磨制花岗岩",
-		"polished_diorite": "磨制闪长岩",
-		"polished_andesite": "磨制安山岩",
-		"granite": "花岗岩",
-		"diorite": "闪长岩",
-		"andesite": "安山岩",
-		"end_stone_brick": "末地石砖"
+		"smooth_red_sandstone": "Smooth Red Sandstone",
+		"polished_granite": "Polished Granite",
+		"polished_diorite": "Polished Diorite",
+		"polished_andesite": "Polished Andesite",
+		"granite": "Granite",
+		"diorite": "Diorite",
+		"andesite": "Andesite",
+		"end_stone_brick": "End Stone Brick"
 	},
 	"minecraft:dark_prismarine_stairs": {
-		"default": "暗海晶石楼梯"
+		"default": "Dark Prismarine Stairs"
 	},
 	"minecraft:waxed_cut_copper_slab": {
-		"default": "涂蜡的切制铜台阶"
+		"default": "Waxed Cut Copper Slab"
 	},
 	"minecraft:waxed_exposed_cut_copper_slab": {
-		"default": "涂蜡的斑驳切制铜台阶"
+		"default": "Waxed Exposed Cut Copper Slab"
 	},
 	"minecraft:waxed_weathered_cut_copper_slab": {
-		"default": "涂蜡的锈蚀切制铜台阶"
+		"default": "Waxed Weathered Cut Copper Slab"
 	},
 	"minecraft:waxed_oxidized_cut_copper_slab": {
-		"default": "涂蜡的氧化切制铜台阶"
+		"default": "Waxed Oxidized Cut Copper Slab"
 	},
 	"minecraft:double_stone_block_slab4": {
-		"smooth_quartz": "双平滑石英台阶",
-		"cut_sandstone": "切制砂岩",
-		"cut_red_sandstone": "切制红砂岩",
-		"stone": "石头",
-		"mossy_stone_brick": "苔石砖"
+		"smooth_quartz": "Smooth Quartz",
+		"cut_sandstone": "Cut Sandstone",
+		"cut_red_sandstone": "Cut Red Sandstone",
+		"stone": "Stone",
+		"mossy_stone_brick": "Mossy Stone Bricks"
 	},
 	"minecraft:waxed_double_cut_copper_slab": {
-		"default": "涂蜡的切制铜块"
+		"default": "Waxed Cut Copper"
 	},
 	"minecraft:waxed_exposed_double_cut_copper_slab": {
-		"default": "涂蜡的斑驳切制铜块"
+		"default": "Waxed Exposed Cut Copper"
 	},
 	"minecraft:waxed_weathered_double_cut_copper_slab": {
-		"default": "涂蜡的锈蚀切制铜块"
+		"default": "Waxed Weathered Cut Copper"
 	},
 	"minecraft:waxed_oxidized_double_cut_copper_slab": {
-		"default": "涂蜡的氧化切制铜块"
+		"default": "Waxed Oxidized Cut Copper"
 	},
 	"minecraft:gravel": {
-		"default": "沙砾"
+		"default": "Gravel"
 	},
 	"minecraft:mud": {
-		"default": "泥巴"
+		"default": "Mud"
 	},
 	"minecraft:stone_block_slab": {
-		"quartz": "石英台阶",
-		"sandstone": "砂岩台阶",
-		"cobblestone": "圆石台阶",
-		"stone_brick": "石砖台阶",
-		"brick": "红砖台阶",
-		"nether_brick": "下界砖台阶",
-		"smooth_stone": "平滑石头台阶"
+		"quartz": "Quartz Slab",
+		"sandstone": "Sandstone Slab",
+		"cobblestone": "Cobblestone Slab",
+		"stone_brick": "Stonebrick Slab",
+		"brick": "Brick Slab",
+		"nether_brick": "Nether Brick Slab",
+		"smooth_stone": "Smooth Stone Slab"
 	},
 	"minecraft:mycelium": {
-		"default": "菌丝体"
+		"default": "Mycelium"
 	},
 	"minecraft:cut_copper_slab": {
-		"default": "切制铜台阶"
+		"default": "Cut Copper Slab"
 	},
 	"minecraft:exposed_cut_copper_slab": {
-		"default": "斑驳的切制铜台阶"
+		"default": "Exposed Cut Copper Slab"
 	},
 	"minecraft:weathered_cut_copper_slab": {
-		"default": "锈蚀的切制铜台阶"
+		"default": "Weathered Cut Copper Slab"
 	},
 	"minecraft:oxidized_cut_copper_slab": {
-		"default": "氧化的切制铜台阶"
+		"default": "Oxidized Cut Copper Slab"
 	},
 	"minecraft:double_stone_block_slab": {
-		"quartz": "石英块",
-		"sandstone": "砂岩",
-		"cobblestone": "圆石",
-		"stone_brick": "石砖",
-		"brick": "红砖",
-		"nether_brick": "下界砖",
-		"smooth_stone": "双平滑石台阶"
+		"quartz": "Quartz Block",
+		"sandstone": "Sandstone",
+		"cobblestone": "Cobblestone",
+		"stone_brick": "Stone Brick",
+		"brick": "Brick",
+		"nether_brick": "Nether Brick",
+		"smooth_stone": "Smooth Stone Double Slab"
 	},
 	"minecraft:podzol": {
-		"default": "灰化土"
+		"default": "Podzol"
 	},
 	"minecraft:double_cut_copper_slab": {
-		"default": "切制铜块"
+		"default": "Cut Copper Block"
 	},
 	"minecraft:exposed_double_cut_copper_slab": {
-		"default": "斑驳的切制铜块"
+		"default": "Exposed Cut Copper Block"
 	},
 	"minecraft:weathered_double_cut_copper_slab": {
-		"default": "锈蚀的切制铜块"
+		"default": "Weathered Cut Copper Block"
 	},
 	"minecraft:oxidized_double_cut_copper_slab": {
-		"default": "氧化的切制铜块"
+		"default": "Oxidized Cut Copper Block"
 	},
 	"minecraft:dripstone_block": {
-		"default": "滴水石块"
+		"default": "Dripstone Block"
 	},
 	"minecraft:grass_path": {
-		"default": "土径"
+		"default": "Dirt Path"
 	},
 	"minecraft:moss_carpet": {
-		"default": "覆地苔藓"
+		"default": "Moss Carpet"
 	},
 	"minecraft:farmland": {
-		"default": "耕地"
+		"default": "Farmland"
 	},
 	"minecraft:smooth_quartz_stairs": {
-		"default": "平滑石英楼梯"
+		"default": "Smooth Quartz Stairs"
 	},
 	"minecraft:moss_block": {
-		"default": "苔藓块"
+		"default": "Moss Block"
 	},
 	"minecraft:dirt": {
-		"default": "泥土"
+		"default": "Dirt"
 	},
 	"minecraft:nether_brick_fence": {
-		"default": "下界砖栅栏"
+		"default": "Nether Brick Fence"
 	},
 	"minecraft:prismarine_bricks_stairs": {
-		"default": "海晶石砖楼梯"
+		"default": "Prismarine Brick Stairs"
 	},
 	"minecraft:waxed_cut_copper_stairs": {
-		"default": "涂蜡的切制铜楼梯"
+		"default": "Waxed Cut Copper Stairs"
 	},
 	"minecraft:waxed_exposed_cut_copper_stairs": {
-		"default": "涂蜡的斑驳切制铜楼梯"
+		"default": "Waxed Exposed Cut Copper Stairs"
 	},
 	"minecraft:waxed_weathered_cut_copper_stairs": {
-		"default": "涂蜡的锈蚀切制铜楼梯"
+		"default": "Waxed Weathered Cut Copper Stairs"
 	},
 	"minecraft:waxed_oxidized_cut_copper_stairs": {
-		"default": "涂蜡的氧化切制铜楼梯"
+		"default": "Waxed Oxidized Cut Copper Stairs"
 	},
 	"minecraft:snow_layer": {
-		"default": "雪"
+		"default": "Snow Layers"
 	},
 	"minecraft:purpur_block": {
-		"lines": "紫珀柱",
-		"default": "紫珀块"
+		"lines": "Purpur Pillar",
+		"default": "Purpur Block"
 	},
 	"minecraft:granite_stairs": {
-		"default": "花岗岩楼梯"
+		"default": "Granite Stairs"
 	},
 	"minecraft:polished_diorite_stairs": {
-		"default": "磨制闪长岩楼梯"
+		"default": "Polished Diorite Stairs"
 	},
 	"minecraft:polished_andesite_stairs": {
-		"default": "磨制安山岩楼梯"
+		"default": "Polished Andesite Stairs"
 	},
 	"minecraft:smooth_sandstone_stairs": {
-		"default": "平滑砂岩楼梯"
+		"default": "Smooth Sandstone Stairs"
 	},
 	"minecraft:smooth_red_sandstone_stairs": {
-		"default": "平滑红砂岩楼梯"
+		"default": "Smooth Red Sandstone Stairs"
 	},
 	"minecraft:monster_egg": {
-		"default": "虫蚀石头"
+		"default": "Infested Stone"
 	},
 	"minecraft:soul_sand": {
-		"default": "灵魂沙"
+		"default": "Soul Sand"
 	},
 	"minecraft:soul_soil": {
-		"default": "灵魂土"
+		"default": "Soul Soil"
 	},
 	"minecraft:chiseled_nether_bricks": {
-		"default": "雕纹下界砖块"
+		"default": "Chiseled Nether Brick"
 	},
 	"minecraft:end_portal_frame": {
-		"default": "末地传送门框架"
+		"default": "End Portal Frame"
 	},
 	"minecraft:infested_deepslate": {
-		"default": "虫蚀深板岩"
+		"default": "Infested Deepslate"
 	},
 	"minecraft:polished_blackstone_slab": {
-		"default": "磨制黑石台阶"
+		"default": "Polished Blackstone Slab"
 	},
 	"minecraft:cobbled_deepslate_slab": {
-		"default": "深板岩圆石台阶"
+		"default": "Cobbled Deepslate Slab"
 	},
 	"minecraft:deepslate_tile_slab": {
-		"default": "深板岩瓦台阶"
+		"default": "Tiled Deepslate Slab"
 	},
 	"minecraft:polished_deepslate_slab": {
-		"default": "磨制深板岩台阶"
+		"default": "Polished Deepslate Slab"
 	},
 	"minecraft:deepslate_brick_slab": {
-		"default": "深板岩砖台阶"
+		"default": "Deepslate Brick Slab"
 	},
 	"minecraft:mud_brick_slab": {
-		"default": "泥砖台阶"
+		"default": "Mud Brick Slab"
 	},
 	"minecraft:polished_blackstone_double_slab": {
-		"default": "磨制黑石"
+		"default": "Polished Blackstone"
 	},
 	"minecraft:cobbled_deepslate_double_slab": {
-		"default": "深板岩圆石"
+		"default": "Cobbled Deepslate"
 	},
 	"minecraft:deepslate_tile_double_slab": {
-		"default": "深板岩瓦"
+		"default": "Tiled Deepslate"
 	},
 	"minecraft:polished_deepslate_double_slab": {
-		"default": "磨制深板岩"
+		"default": "Polished Deepslate"
 	},
 	"minecraft:deepslate_brick_double_slab": {
-		"default": "深板岩砖"
+		"default": "Deepslate Bricks"
 	},
 	"minecraft:mud_brick_double_slab": {
-		"default": "泥砖"
+		"default": "Mud Bricks"
 	},
 	"minecraft:quartz_stairs": {
-		"default": "石英楼梯"
+		"default": "Quartz Stairs"
 	},
 	"minecraft:snow": {
-		"default": "雪块"
+		"default": "Snow Block"
 	},
 	"minecraft:prismarine_stairs": {
-		"default": "海晶石楼梯"
+		"default": "Prismarine Stairs"
 	},
 	"minecraft:cut_copper_stairs": {
-		"default": "切制铜楼梯"
+		"default": "Cut Copper Stairs"
 	},
 	"minecraft:exposed_cut_copper_stairs": {
-		"default": "斑驳的切制铜楼梯"
+		"default": "Exposed Cut Copper Stairs"
 	},
 	"minecraft:weathered_cut_copper_stairs": {
-		"default": "锈蚀的切制铜楼梯"
+		"default": "Weathered Cut Copper Stairs"
 	},
 	"minecraft:oxidized_cut_copper_stairs": {
-		"default": "氧化的切制铜楼梯"
+		"default": "Oxidized Cut Copper Stairs"
 	},
 	"minecraft:ice": {
-		"default": "冰"
+		"default": "Ice"
 	},
 	"minecraft:stone_stairs": {
-		"default": "圆石楼梯"
+		"default": "Cobblestone Stairs"
 	},
 	"minecraft:mossy_cobblestone_stairs": {
-		"default": "苔石楼梯"
+		"default": "Mossy Cobblestone Stairs"
 	},
 	"minecraft:polished_granite_stairs": {
-		"default": "磨制花岗岩楼梯"
+		"default": "Polished Granite Stairs"
 	},
 	"minecraft:diorite_stairs": {
-		"default": "闪长岩楼梯"
+		"default": "Diorite Stairs"
 	},
 	"minecraft:andesite_stairs": {
-		"default": "安山岩楼梯"
+		"default": "Andesite Stairs"
 	},
 	"minecraft:sandstone_stairs": {
-		"default": "砂岩楼梯"
+		"default": "Sandstone Stairs"
 	},
 	"minecraft:red_sandstone_stairs": {
-		"default": "红砂岩楼梯"
+		"default": "Red Sandstone Stairs"
 	},
 	"minecraft:stone_brick_stairs": {
-		"default": "石砖楼梯"
+		"default": "Stone Brick Stairs"
 	},
 	"minecraft:brick_stairs": {
-		"default": "红砖楼梯"
+		"default": "Brick Stairs"
 	},
 	"minecraft:nether_brick_stairs": {
-		"default": "下界砖楼梯"
+		"default": "Nether Brick Stairs"
 	},
 	"minecraft:red_nether_brick_stairs": {
-		"default": "红色下界砖楼梯"
+		"default": "Red Nether Brick Stairs"
 	},
 	"minecraft:end_brick_stairs": {
-		"default": "末地石砖楼梯"
+		"default": "End Brick Stairs"
 	},
 	"minecraft:polished_blackstone_stairs": {
-		"default": "磨制黑石楼梯"
+		"default": "Polished Blackstone Stairs"
 	},
 	"minecraft:polished_blackstone_brick_stairs": {
-		"default": "磨制黑石砖楼梯"
+		"default": "Polished Blackstone Brick Stairs"
 	},
 	"minecraft:cobbled_deepslate_stairs": {
-		"default": "深板岩圆石楼梯"
+		"default": "Cobbled Deepslate Stairs"
 	},
 	"minecraft:deepslate_tile_stairs": {
-		"default": "深板岩瓦楼梯"
+		"default": "Tiled Deepslate Stairs"
 	},
 	"minecraft:polished_deepslate_stairs": {
-		"default": "磨制深板岩楼梯"
+		"default": "Polished Deepslate Stairs"
 	},
 	"minecraft:deepslate_brick_stairs": {
-		"default": "深板岩砖楼梯"
+		"default": "Deepslate Brick Stairs"
 	},
 	"minecraft:mud_brick_stairs": {
-		"default": "泥砖楼梯"
+		"default": "Mud Brick Stairs"
 	},
 	"minecraft:normal_stone_stairs": {
-		"default": "石头楼梯"
+		"default": "Stone Stairs"
 	},
 	"minecraft:blue_ice": {
-		"default": "蓝冰"
+		"default": "Blue Ice"
 	},
 	"minecraft:packed_ice": {
-		"default": "浮冰"
+		"default": "Packed Ice"
 	},
 	"minecraft:mossy_stone_brick_stairs": {
-		"default": "苔石砖楼梯"
+		"default": "Mossy Stone Brick Stairs"
 	},
 	"minecraft:purpur_stairs": {
-		"default": "紫珀楼梯"
+		"default": "Purpur Stairs"
 	},
 	"minecraft:calcite": {
-		"default": "方解石"
+		"default": "Calcite"
 	},
 	"minecraft:tuff": {
-		"default": "凝灰岩"
+		"default": "Tuff"
 	},
 	"minecraft:sponge": {
-		"default": "海绵"
+		"default": "Sponge"
 	},
 	"minecraft:blackstone_slab": {
-		"default": "黑石台阶"
+		"default": "Blackstone Slab"
 	},
 	"minecraft:blackstone_double_slab": {
-		"default": "黑石"
+		"default": "Blackstone"
 	},
 	"minecraft:quartz_block": {
-		"smooth": "平滑石英块",
-		"chiseled": "雕纹石英块",
-		"default": "石英块"
+		"smooth": "Smooth Quartz Block",
+		"chiseled": "Chiseled Quartz Block",
+		"default": "Quartz Block"
 	},
 	"minecraft:reinforced_deepslate": {
-		"default": "强化深板岩"
+		"default": "Reinforced Deepslate"
 	},
 	"minecraft:netherrack": {
-		"default": "下界岩"
+		"default": "Netherrack"
 	},
 	"minecraft:prismarine": {
-		"dark": "暗海晶石",
-		"bricks": "海晶石砖",
-		"default": "海晶石"
+		"dark": "Dark Prismarine",
+		"bricks": "Prismarine Bricks",
+		"default": "Prismarine"
 	},
 	"minecraft:cut_copper": {
-		"default": "切制铜块"
+		"default": "Cut Copper"
 	},
 	"minecraft:waxed_exposed_cut_copper": {
-		"default": "涂蜡的斑驳切制铜块"
+		"default": "Waxed Exposed Cut Copper"
 	},
 	"minecraft:waxed_weathered_cut_copper": {
-		"default": "涂蜡的锈蚀切制铜块"
+		"default": "Waxed Weathered Cut Copper"
 	},
 	"minecraft:waxed_oxidized_cut_copper": {
-		"default": "涂蜡的氧化切制铜块"
+		"default": "Waxed Oxidized Cut Copper"
 	},
 	"minecraft:magma": {
-		"default": "岩浆块"
+		"default": "Magma"
 	},
 	"minecraft:stone": {
-		"granite_smooth": "磨制花岗岩",
-		"diorite_smooth": "磨制闪长岩",
-		"andesite_smooth": "磨制安山岩",
-		"stone": "石头",
-		"granite": "花岗岩",
-		"diorite": "闪长岩",
-		"andesite": "安山岩",
-		"default": "石头"
+		"granite_smooth": "Polished Granite",
+		"diorite_smooth": "Polished Diorite",
+		"andesite_smooth": "Polished Andesite",
+		"stone": "Stone",
+		"granite": "Granite",
+		"diorite": "Diorite",
+		"andesite": "Andesite",
+		"default": "Stone"
 	},
 	"minecraft:cracked_nether_bricks": {
-		"default": "裂纹下界砖块"
+		"default": "Cracked Nether Bricks"
 	},
 	"minecraft:end_bricks": {
-		"default": "末地石砖"
+		"default": "End Stone Bricks"
 	},
 	"minecraft:chiseled_polished_blackstone": {
-		"default": "雕纹磨制黑石"
+		"default": "Chiseled Polished Blackstone"
 	},
 	"minecraft:cracked_deepslate_tiles": {
-		"default": "裂纹深板岩瓦"
+		"default": "Cracked Deepslate Tiles"
 	},
 	"minecraft:cracked_deepslate_bricks": {
-		"default": "裂纹深板岩砖"
+		"default": "Cracked Deepslate Bricks"
 	},
 	"minecraft:mud_bricks": {
-		"default": "泥砖"
+		"default": "Mud Bricks"
 	},
 	"minecraft:waxed_cut_copper": {
-		"default": "涂蜡的切制铜块"
+		"default": "Waxed Cut Copper"
 	},
 	"minecraft:exposed_cut_copper": {
-		"default": "斑驳的切制铜块"
+		"default": "Exposed Cut Copper"
 	},
 	"minecraft:weathered_cut_copper": {
-		"default": "锈蚀的切制铜块"
+		"default": "Weathered Cut Copper"
 	},
 	"minecraft:oxidized_cut_copper": {
-		"default": "氧化的切制铜块"
+		"default": "Oxidized Cut Copper"
 	},
 	"minecraft:sculk_catalyst": {
-		"default": "幽匿催发体"
+		"default": "Sculk Catalyst"
 	},
 	"minecraft:bedrock": {
-		"default": "基岩"
+		"default": "Bedrock"
 	},
 	"minecraft:mob_spawner": {
-		"default": "刷怪笼"
+		"default": "Mob Spawner"
 	},
 	"minecraft:cobblestone": {
-		"default": "圆石"
+		"default": "Cobblestone"
 	},
 	"minecraft:mossy_cobblestone": {
-		"default": "苔石"
+		"default": "Mossy Cobblestone"
 	},
 	"minecraft:stonebrick": {
-		"default": "石砖",
-		"mossy": "苔石砖"
+		"default": "Stone Brick",
+		"mossy": "Mossy Stone Brick"
 	},
 	"minecraft:brick_block": {
-		"default": "红砖"
+		"default": "Brick"
 	},
 	"minecraft:nether_brick": {
-		"default": "下界砖"
+		"default": "Nether Brick"
 	},
 	"minecraft:red_nether_brick": {
-		"default": "红色下界砖块"
+		"default": "Red Nether Brick"
 	},
 	"minecraft:end_stone": {
-		"default": "末地石"
+		"default": "End Stone"
 	},
 	"minecraft:blackstone": {
-		"default": "黑石"
+		"default": "Blackstone"
 	},
 	"minecraft:polished_blackstone": {
-		"default": "磨制黑石"
+		"default": "Polished Blackstone"
 	},
 	"minecraft:polished_blackstone_bricks": {
-		"default": "磨制黑石砖"
+		"default": "Blackstone Brick"
 	},
 	"minecraft:cobbled_deepslate": {
-		"default": "深板岩圆石"
+		"default": "Cobbled Deepslate"
 	},
 	"minecraft:deepslate_tiles": {
-		"default": "深板岩瓦"
+		"default": "Deepslate Tiles"
 	},
 	"minecraft:polished_deepslate": {
-		"default": "磨制深板岩"
+		"default": "Polished Deepslate"
 	},
 	"minecraft:deepslate_bricks": {
-		"default": "深板岩砖"
+		"default": "Deepslate Bricks"
 	},
 	"minecraft:packed_mud": {
-		"default": "泥坯"
+		"default": "Packed Mud"
 	},
 	"minecraft:copper_block": {
-		"default": "铜块"
+		"default": "Copper Block"
 	},
 	"minecraft:waxed_exposed_copper": {
-		"default": "涂蜡的斑驳铜块"
+		"default": "Waxed Exposed Copper Block"
 	},
 	"minecraft:waxed_weathered_copper": {
-		"default": "涂蜡的锈蚀铜块"
+		"default": "Waxed Weathered Copper Block"
 	},
 	"minecraft:waxed_oxidized_copper": {
-		"default": "涂蜡的氧化铜块"
+		"default": "Waxed Oxidized Copper Block"
 	},
 	"minecraft:sculk_shrieker": {
-		"default": "幽匿尖啸体"
+		"default": "Sculk Shrieker"
 	},
 	"minecraft:crying_obsidian": {
-		"default": "哭泣的黑曜石"
+		"default": "Crying Obsidian"
 	},
 	"minecraft:dragon_egg": {
-		"default": "龙蛋"
+		"default": "Dragon Egg"
 	},
 	"minecraft:cobblestone_wall": {
-		"cobblestone": "圆石墙",
-		"mossy_cobblestone": "苔石墙",
-		"granite": "花岗岩墙",
-		"diorite": "闪长岩墙",
-		"andesite": "安山岩墙",
-		"sandstone": "砂岩墙",
-		"red_sandstone": "红砂岩墙",
-		"stone_brick": "石砖墙",
-		"brick": "红砖墙",
-		"nether_brick": "下界砖墙",
-		"red_nether_brick": "红色下界砖墙",
-		"end_brick": "末地石砖墙",
-		"prismarine": "海晶石墙",
-		"mossy_stone_brick": "苔石砖"
+		"cobblestone": "Cobblestone Wall",
+		"mossy_cobblestone": "Mossy Cobblestone Wall",
+		"granite": "Granite Wall",
+		"diorite": "Diorite Wall",
+		"andesite": "Andesite Wall",
+		"sandstone": "Sandstone Wall",
+		"red_sandstone": "Red Sandstone Wall",
+		"stone_brick": "Stone Brick Wall",
+		"brick": "Brick Wall",
+		"nether_brick": "Nether Brick Wall",
+		"red_nether_brick": "Red Nether Brick Wall",
+		"end_brick": "End Brick Wall",
+		"prismarine": "Prismarine Wall",
+		"mossy_stone_brick": "Mossy Stone Brick"
 	},
 	"minecraft:blackstone_wall": {
-		"default": "黑石墙"
+		"default": "Blackstone Wall"
 	},
 	"minecraft:polished_blackstone_wall": {
-		"default": "磨制黑石墙"
+		"default": "Polished Blackstone Wall"
 	},
 	"minecraft:polished_blackstone_brick_wall": {
-		"default": "磨制黑石砖墙"
+		"default": "Blackstone Brick Wall"
 	},
 	"minecraft:cobbled_deepslate_wall": {
-		"default": "深板岩圆石墙"
+		"default": "Cobbled Deepslate Wall"
 	},
 	"minecraft:deepslate_tile_wall": {
-		"default": "深板岩瓦墙"
+		"default": "Tiled Deepslate Wall"
 	},
 	"minecraft:polished_deepslate_wall": {
-		"default": "磨制深板岩墙"
+		"default": "Polished Deepslate wall"
 	},
 	"minecraft:deepslate_brick_wall": {
-		"default": "深板岩砖墙"
+		"default": "Deepslate Brick Wall"
 	},
 	"minecraft:mud_brick_wall": {
-		"default": "泥砖墙"
+		"default": "Mud Brick Wall"
 	},
 	"minecraft:exposed_copper": {
-		"default": "斑驳的铜块"
+		"default": "Exposed Copper"
 	},
 	"minecraft:weathered_copper": {
-		"default": "锈蚀的铜块"
+		"default": "Weathered Copper"
 	},
 	"minecraft:oxidized_copper": {
-		"default": "氧化的铜块"
+		"default": "Oxidized Copper"
 	},
 	"minecraft:quartz_bricks": {
-		"default": "石英砖"
+		"default": "Quartz Bricks"
 	},
 	"minecraft:sculk": {
-		"default": "幽匿块"
+		"default": "Sculk"
 	},
 	"minecraft:obsidian": {
-		"default": "黑曜石"
+		"default": "Obsidian"
 	},
 	"minecraft:web": {
-		"default": "蜘蛛网"
+		"default": "Cobweb"
 	},
 	"minecraft:stained_glass": {
-		"default": "染色玻璃",
-		"white": "白色染色玻璃",
-		"gray:": "灰色染色玻璃",
-		"silver": "淡灰色染色玻璃",
-		"black:": "黑色染色玻璃",
-		"brown:": "棕色染色玻璃",
-		"Red:": "红色染色玻璃",
-		"orange:": "橙色染色玻璃",
-		"yellow:": "黄色染色玻璃",
-		"lime:": "黄绿色染色玻璃",
-		"green:": "绿色染色玻璃",
-		"cyan:": "青色染色玻璃",
-		"light_blue:": "淡蓝色染色玻璃",
-		"blue:": "蓝色染色玻璃",
-		"purple:": "紫色染色玻璃",
-		"magenta:": "品红色染色玻璃",
-		"pink:": "粉红色染色玻璃"
+		"default": "Stained Glass",
+		"white": "White Stained Glass",
+		"gray:": "Gray Stained Glass",
+		"silver": "Light Gray Stained Glass",
+		"black:": "Black Stained Glass",
+		"brown:": "Brown Stained Glass",
+		"Red:": "Red Stained Glass",
+		"orange:": "Orange Stained Glass",
+		"yellow:": "Yellow Stained Glass",
+		"lime:": "Lime Stained Glass",
+		"green:": "Green Stained Glass",
+		"cyan:": "Cyan Stained Glass",
+		"light_blue:": "Light Blue Stained Glass",
+		"blue:": "Blue Stained Glass",
+		"purple:": "Purple Stained Glass",
+		"magenta:": "Magenta Stained Glass",
+		"pink:": "Pink Stained Glass"
 	},
 	"minecraft:white_stained_glass": {
-		"default": "白色染色玻璃"
+		"default": "White Stained Glass"
 	},
 	"minecraft:light_gray_stained_glass": {
-		"default": "淡灰色染色玻璃"
+		"default": "Light Gray Stained Glass"
 	},
 	"minecraft:gray_stained_glass": {
-		"default": "灰色染色玻璃"
+		"default": "Gray Stained Glass"
 	},
 	"minecraft:black_stained_glass": {
-		"default": "黑色染色玻璃"
+		"default": "Black Stained Glass"
 	},
 	"minecraft:brown_stained_glass": {
-		"default": "棕色染色玻璃"
+		"default": "Brown Stained Glass"
 	},
 	"minecraft:red_stained_glass": {
-		"default": "红色染色玻璃"
+		"default": "Red Stained Glass"
 	},
 	"minecraft:orange_stained_glass": {
-		"default": "橙色染色玻璃"
+		"default": "Orange Stained Glass"
 	},
 	"minecraft:yellow_stained_glass": {
-		"default": "黄色染色玻璃"
+		"default": "Yellow Stained Glass"
 	},
 	"minecraft:lime_stained_glass": {
-		"default": "黄绿色染色玻璃"
+		"default": "Lime Stained Glass"
 	},
 	"minecraft:green_stained_glass": {
-		"default": "绿色染色玻璃"
+		"default": "Green Stained Glass"
 	},
 	"minecraft:cyan_stained_glass": {
-		"default": "青色染色玻璃"
+		"default": "Cyan Stained Glass"
 	},
 	"minecraft:light_blue_stained_glass": {
-		"default": "淡蓝色染色玻璃"
+		"default": "Light Blue Stained Glass"
 	},
 	"minecraft:blue_stained_glass": {
-		"default": "蓝色染色玻璃"
+		"default": "Blue Stained Glass"
 	},
 	"minecraft:purple_stained_glass": {
-		"default": "紫色染色玻璃"
+		"default": "Purple Stained Glass"
 	},
 	"minecraft:magenta_stained_glass": {
-		"default": "品红色染色玻璃"
+		"default": "Magenta Stained Glass"
 	},
 	"minecraft:pink_stained_glass": {
-		"default": "粉红色染色玻璃"
+		"default": "Pink Stained Glass"
 	},
 	"minecraft:stained_glass_pane": {
-		"default": "染色玻璃板",
-		"white": "白色染色玻璃板",
-		"gray:": "灰色染色玻璃板",
-		"silver": "淡灰色染色玻璃板",
-		"black:": "黑色染色玻璃板",
-		"brown:": "棕色染色玻璃板",
-		"Red:": "红色染色玻璃板",
-		"orange:": "橙色染色玻璃板",
-		"yellow:": "黄色染色玻璃板",
-		"lime:": "黄绿色染色玻璃板",
-		"green:": "绿色染色玻璃板",
-		"cyan:": "青色染色玻璃板",
-		"light_blue:": "淡蓝色染色玻璃板",
-		"blue:": "蓝色染色玻璃板",
-		"purple:": "紫色染色玻璃板",
-		"magenta:": "品红色染色玻璃板",
-		"pink:": "粉红色染色玻璃板"
+		"default": "Stained Glass Pane",
+		"white": "White Stained Glass Pane",
+		"gray:": "Gray Stained Glass Pane",
+		"silver": "Light Gray Stained Glass Pane",
+		"black:": "Black Stained Glass Pane",
+		"brown:": "Brown Stained Glass Pane",
+		"Red:": "Red Stained Glass Pane",
+		"orange:": "Orange Stained Glass Pane",
+		"yellow:": "Yellow Stained Glass Pane",
+		"lime:": "Lime Stained Glass Pane",
+		"green:": "Green Stained Glass Pane",
+		"cyan:": "Cyan Stained Glass Pane",
+		"light_blue:": "Light Blue Stained Glass Pane",
+		"blue:": "Blue Stained Glass Pane",
+		"purple:": "Purple Stained Glass Pane",
+		"magenta:": "Magenta Stained Glass Pane",
+		"pink:": "Pink Stained Glass Pane"
 	},
 	"minecraft:white_stained_glass_pane": {
-		"default": "白色染色玻璃板"
+		"default": "White Stained Glass Pane"
 	},
 	"minecraft:light_gray_stained_glass_pane": {
-		"default": "淡灰色染色玻璃板"
+		"default": "Light Gray Stained Glass Pane"
 	},
 	"minecraft:gray_stained_glass_pane": {
-		"default": "灰色染色玻璃板"
+		"default": "Gray Stained Glass Pane"
 	},
 	"minecraft:black_stained_glass_pane": {
-		"default": "黑色染色玻璃板"
+		"default": "Black Stained Glass Pane"
 	},
 	"minecraft:brown_stained_glass_pane": {
-		"default": "棕色染色玻璃板"
+		"default": "Brown Stained Glass Pane"
 	},
 	"minecraft:red_stained_glass_pane": {
-		"default": "红色染色玻璃板"
+		"default": "Red Stained Glass Pane"
 	},
 	"minecraft:orange_stained_glass_pane": {
-		"default": "橙色染色玻璃板"
+		"default": "Orange Stained Glass Pane"
 	},
 	"minecraft:yellow_stained_glass_pane": {
-		"default": "黄色染色玻璃板"
+		"default": "Yellow Stained Glass Pane"
 	},
 	"minecraft:lime_stained_glass_pane": {
-		"default": "黄绿色染色玻璃板"
+		"default": "Lime Stained Glass Pane"
 	},
 	"minecraft:green_stained_glass_pane": {
-		"default": "绿色染色玻璃板"
+		"default": "Green Stained Glass Pane"
 	},
 	"minecraft:cyan_stained_glass_pane": {
-		"default": "青色染色玻璃板"
+		"default": "Cyan Stained Glass Pane"
 	},
 	"minecraft:light_blue_stained_glass_pane": {
-		"default": "淡蓝色染色玻璃板"
+		"default": "Light Blue Stained Glass Pane"
 	},
 	"minecraft:blue_stained_glass_pane": {
-		"default": "蓝色染色玻璃板"
+		"default": "Blue Stained Glass Pane"
 	},
 	"minecraft:purple_stained_glass_pane": {
-		"default": "紫色染色玻璃板"
+		"default": "Purple Stained Glass Pane"
 	},
 	"minecraft:magenta_stained_glass_pane": {
-		"default": "品红色染色玻璃板"
+		"default": "Magenta Stained Glass Pane"
 	},
 	"minecraft:pink_stained_glass_pane": {
-		"default": "粉红色染色玻璃板"
+		"default": "Pink Stained Glass Pane"
 	},
 	"minecraft:redstone_wire": {
-		"default": "红石粉"
+		"default": "Redstone Dust"
 	},
 	"minecraft:twisting_vines": {
-		"default": "缠怨藤"
+		"default": "Twisting Vines"
 	},
 	"minecraft:cave_vines": {
-		"default": "发光浆果"
+		"default": "Glow Berries"
 	},
 	"minecraft:cave_vines_head_with_berries": {
-		"default": "发光浆果"
+		"default": "Glow Berries"
 	},
 	"minecraft:small_dripleaf_block": {
-		"default": "小型垂滴叶"
+		"default": "Small Dripleaf"
 	},
 	"minecraft:deadbush": {
-		"default": "枯萎的灌木"
+		"default": "Dead Bush"
 	},
 	"minecraft:dirt_with_roots": {
-		"default": "缠根泥土"
+		"default": "Rooted Dirt"
 	},
 	"minecraft:polished_blackstone_brick_slab": {
-		"default": "磨制黑石砖台阶"
+		"default": "Polished Blackstone Brick Slab"
 	},
 	"minecraft:polished_blackstone_brick_double_slab": {
-		"default": "磨制黑石砖"
+		"default": "Polished Blackstone Brick"
 	},
 	"minecraft:polished_basalt": {
-		"default": "磨制玄武岩"
+		"default": "Polished Basalt"
 	},
 	"minecraft:basalt": {
-		"default": "玄武岩"
+		"default": "Basalt"
 	},
 	"minecraft:chiseled_deepslate": {
-		"default": "雕纹深板岩"
+		"default": "Chiseled Deepslate"
 	},
 	"minecraft:smooth_basalt": {
-		"default": "平滑玄武岩"
+		"default": "Smooth Basalt"
 	},
 	"minecraft:sniffer_egg": {
-		"default": "嗅探兽蛋"
+		"default": "Sniffer Egg"
 	},
 	"minecraft:waterlily": {
-		"default": "睡莲"
+		"default": "Waterlily"
 	},
 	"minecraft:pitcher_crop": {
-		"default": "瓶子草植株"
+		"default": "Pincher Plant"
 	},
 	"minecraft:torchflower": {
-		"default": "火把花"
+		"default": "Torchflower"
 	},
 	"minecraft:scaffolding":{
-		"default": "脚手架"
+		"default": "Scaffolding"
 	},
 	"minecraft:standing_banner":{
-		"default": "旗帜"
+		"default": "Banner"
 	},
 	"minecraft:bamboo_fence":{
-		"default": "竹栅栏"
+		"default": "Bamboo Fence"
 	},
 	"minecraft:cherry_fence":{
-		"default": "樱花木栅栏"
+		"default": "Cherry Fence"
 	},
 	"minecraft:cherry_trapdoor":{
-		"default": "樱花木活板门"
+		"default": "Cherry Trapdoor"
 	},
 	"minecraft:bamboo_trapdoor":{
-		"default": "竹活板门"
+		"default": "Bamboo Trapdoor"
 	},
 	"minecraft:bamboo_standing_sign":{
-		"default": "竹告示牌"
+		"default": "Bamboo Sign"
 	},
 	"minecraft:cherry_standing_sign":{
-		"default": "樱花木告示牌"
+		"default": "Cherry Sign"
 	},
 	"minecraft:cherry_button":{
-		"default": "樱花木按钮"
+		"default": "Cherry Button"
 	},
 	"minecraft:bamboo_button":{
-		"default": "竹按钮"
+		"default": "Bamboo Button"
 	},
 	"minecraft:bamboo_block":{
-		"default": "竹块"
+		"default": "Bamboo Block"
 	},
 	"minecraft:bamboo_mosaic_stairs":{
-		"default": "竹马赛克楼梯"
+		"default": "Bamboo Mosaic Stairs"
 	},
 	"minecraft:cherry_stairs":{
-		"default": "樱花木楼梯"
+		"default": "Cherry Stairs"
 	},
 	"minecraft:calibrated_sculk_sensor":{
-		"default": "校频幽匿感测体"
+		"default": "Calibrated Sculk Sensor"
 	},
 	"minecraft:stripped_bamboo_block":{
-		"default": "去皮竹块"
+		"default": "Stripped Bamboo Block"
 	},
 	"minecraft:stripped_cherry_log":{
-		"default": "去皮樱花原木"
+		"default": "Stripped Cherry Log"
 	},
 	"minecraft:cherry_fence_gate":{
-		"default": "樱花木栅栏门"
+		"default": "Cherry Fence Gates"
 	},
 	"minecraft:bamboo_stairs":{
-		"default": "竹楼梯"
+		"default": "Bamboo Stairs"
 	},
 	"minecraft:light_gray_shulker_box":{
-		"default": "淡灰色潜影盒"
+		"default": "Light Gray Shulker Box"
 	},
 	"minecraft:pink_petals":{
-		"default": "粉红色花簇"
+		"default": "Pink Petals"
 	},
 	"minecraft:cherry_pressure_plate":{
-		"default": "樱花木压力板"
+		"default": "Cherry Pressure Plate"
 	},
 	"minecraft:fire_coral":{
-		"default": "火珊瑚"
+		"default": "Fire Coral"
 	},
 	"minecraft:blue_carpet":{
-		"default": "蓝色地毯"
+		"default": "Blue Carpet"
 	},
 	"minecraft:horn_coral":{
-		"default": "鹿角珊瑚"
+		"default": "Horn Coral"
 	},
 	"minecraft:bamboo_pressure_plate":{
-		"default": "竹压力板"
+		"default": "Bamboo Pressure Plate"
 	},
 	"minecraft:dead_tube_coral":{
-		"default": "失活的管珊瑚"
+		"default": "Dead Tube Coral"
 	},
 	"minecraft:dried_kelp_block":{
-		"default": "干海带块"
+		"default": "Dried Kelp Block"
 	},
 	"minecraft:red_carpet":{
-		"default": "红色地毯"
+		"default": "Red Carpet"
 	},
 	"minecraft:glass":{
-		"default": "玻璃"
+		"default": "Glass"
 	},
 	"minecraft:cyan_carpet":{
-		"default": "青色地毯"
+		"default": "Cyan Carpet"
 	},
 	"minecraft:purple_carpet":{
-		"default": "紫色地毯"
+		"default": "Purple Carpet"
 	},
 	"minecraft:jungle_planks":{
-		"default": "丛林木板"
+		"default": "Jungle Planks"
 	},
 	"minecraft:light_gray_concrete":{
-		"default": "淡灰色混凝土"
+		"default": "Light Gray Concrete"
 	},
 	"minecraft:yellow_carpet":{
-		"default": "黄色地毯"
+		"default": "Yellow Carpet"
 	},
 	"minecraft:azalea_leaves":{
-		"default": "杜鹃树叶"
+		"default": "Azalea Leaves"
 	},
 	"minecraft:spruce_planks":{
-		"default": "云杉木板"
+		"default": "Spruce Planks"
 	},
 	"minecraft:birch_planks":{
-		"default": "白桦木板"
+		"default": "Birch Planks"
 	},
 	"minecraft:acacia_planks":{
-		"default": "金合欢木板"
+		"default": "Acacia Planks"
 	},
 	"minecraft:orange_carpet":{
-		"default": "橙色地毯"
+		"default": "Orange Carpet"
 	},
 	"minecraft:brain_coral":{
-		"default": "脑纹珊瑚"
+		"default": "Brain Coral"
 	},
 	"minecraft:cherry_leaves":{
-		"default": "樱花树叶"
+		"default": "Cherry Leaves"
 	},
 	"minecraft:dead_horn_coral":{
-		"default": "失活的鹿角珊瑚"
+		"default": "Dead Horn Coral"
 	},
 	"minecraft:bamboo_double_slab":{
-		"default": "双竹台阶"
+		"default": "Bamboo Double Slab"
 	},
 	"minecraft:cherry_double_slab":{
-		"default": "双樱花木台阶"
+		"default": "Cherry Double Slab"
 	},
 	"minecraft:dark_oak_planks":{
-		"default": "深色橡木木板"
+		"default": "Dark Oak Planks"
 	},
 	"minecraft:pitcher_plant":{
-		"default": "瓶子草植株"
+		"default": "Pincher Plant"
 	},
 	"minecraft:crimson_door":{
-		"default": "绯红木门"
+		"default": "Crimson Door"
 	},
 	"minecraft:jungle_door":{
-		"default": "丛林木门"
+		"default": "Jungle Door"
 	},
 	"minecraft:spruce_door":{
-		"default": "云杉木门"
+		"default": "Spruce Door"
 	},
 	"minecraft:mangrove_door":{
-		"default": "红树木门"
+		"default": "Mangrove Door"
 	},
 	"minecraft:double_plant":{
-		"default": "大型植物"
+		"default": "Double Plant"
 	},
 	"minecraft:moving_block":{
-		"default": "忽略"
+		"default": "Ignore"
 	},
 	"minecraft:stickyPistonArmCollision":{
-		"default": "忽略"
+		"default": "Ignore"
 	},
 	"minecraft:warped_door":{
-		"default": "诡异木门"
+		"default": "Warped Door"
 	},
 	"minecraft:birch_door":{
-		"default": "白桦木门"
+		"default": "Birch Door"
 	},
 	"minecraft:cherry_door":{
-		"default": "樱花木门"
+		"default": "Cherry Door"
 	},
 	"minecraft:iron_door":{
-		"default": "铁门"
+		"default": "Iron Door"
 	},
 	"minecraft:acacia_door":{
-		"default": "金合欢木门"
+		"default": "Acacia Door"
 	},
 	"minecraft:dark_oak_door":{
-		"default": "深色橡木门"
+		"default": "Dark Oak Door"
 	},
 	"minecraft:wooden_door":{
-		"default": "橡木门"
+		"default": "Oak Door"
 	},
 	"minecraft:bamboo_door":{
-		"default": "竹门"
+		"default": "Bamboo Door"
 	},
 	"minecraft:cherry_sapling":{
-		"default": "樱花树苗"
+		"default": "Cherry Sapling"
 	},
 	"minecraft:dead_fire_coral":{
-		"default": "失活的火珊瑚"
+		"default": "Dead Fire Coral"
 	},
 	"minecraft:light_gray_terracotta":{
-		"default": "淡灰色陶瓦"
+		"default": "Light Gray Terracotta"
 	},
 	"minecraft:bamboo_mosaic":{
-		"default": "竹马赛克"
+		"default": "Bamboo Mosaic"
 	},
 	"minecraft:tinted_glass":{
-		"default": "遮光玻璃"
+		"default": "Tinted Glass"
 	},
 	"minecraft:azalea_leaves_flowered":{
-		"default": "盛开的杜鹃树叶"
+		"default": "Flowering Azalea Leaves"
 	},
 	"minecraft:cherry_planks":{
-		"default": "樱花木板"
+		"default": "Cherry Planks"
 	},
 	"minecraft:glass_pane":{
-		"default": "玻璃板"
+		"default": "Glass Pane"
 	},
 	"minecraft:brown_carpet":{
-		"default": "棕色地毯"
+		"default": "Brown Carpet"
 	},
 	"minecraft:green_carpet":{
-		"default": "绿色地毯"
+		"default": "Green Carpet"
 	},
 	"minecraft:light_gray_carpet":{
-		"default": "淡灰色地毯"
+		"default": "Light Gray Carpet"
 	},
 	"minecraft:bamboo_planks":{
-		"default": "竹板"
+		"default": "Bamboo Planks"
 	},
 	"minecraft:decorated_pot":{
-		"default": "饰纹陶罐"
+		"default": "Decorated Pot"
 	},
 	"minecraft:light_blue_carpet":{
-		"default": "淡蓝色地毯"
+		"default": "Light Blue Carpet"
 	},
 	"minecraft:soul_fire":{
-		"default": "火"
+		"default": "Fire"
 	},
 	"minecraft:tube_coral":{
-		"default": "管珊瑚"
+		"default": "Tube Coral"
 	},
 	"minecraft:lime_carpet":{
-		"default": "黄绿色地毯"
+		"default": "Lime Carpet"
 	},
 	"minecraft:light_gray_concrete_powder":{
-		"default": "淡灰色混凝土粉末"
+		"default": "Light Gray Concrete Powder"
 	},
 	"minecraft:magenta_carpet":{
-		"default": "品红色地毯"
+		"default": "Magenta Carpet"
 	},
 	"minecraft:white_carpet":{
-		"default": "白色地毯"
+		"default": "White Carpet"
 	},
 	"minecraft:bubble_coral":{
-		"default": "气泡珊瑚"
+		"default": "Bubble Coral"
 	},
 	"minecraft:dead_bubble_coral":{
-		"default": "失活的气泡珊瑚"
+		"default": "Dead Bubble Coral"
 	},
 	"minecraft:oak_planks":{
-		"default": "橡木木板"
+		"default": "Oak Planks"
 	},
 	"minecraft:black_carpet":{
-		"default": "黑色地毯"
+		"default": "Black Carpet"
 	},
 	"minecraft:allow":{
-		"default": "允许方块"
+		"default": "Allow"
 	},
 	"minecraft:dead_brain_coral":{
-		"default": "失活的脑纹珊瑚"
+		"default": "Dead Brain Coral"
 	},
 	"minecraft:fire":{
-		"default": "火"
+		"default": "Fire"
 	},
 	"minecraft:stripped_warped_hyphae":{
-		"default": "去皮诡异菌核"
+		"default": "Stripped Warped Hyphae"
 	},
 	"minecraft:cherry_wood":{
-		"default": "樱花木"
+		"default": "Cherry Wood"
 	},
 	"minecraft:pink_carpet":{
-		"default": "粉红色地毯"
+		"default": "Pink Carpet"
 	},
 	"minecraft:bamboo_slab":{
-		"default": "竹台阶"
+		"default": "Bamboo Slab"
 	},
 	"minecraft:cherry_slab":{
-		"default": "樱花木台阶"
+		"default": "Cherry Slab"
 	},
 	"minecraft:stripped_crimson_hyphae":{
-		"default": "去皮绯红菌核"
+		"default": "Stripped Crimson Hyphae"
 	},
 	"minecraft:chiseled_bookshelf":{
-		"default": "雕纹书架"
+		"default": "Chiseled Bookshelf"
 	},
 	"minecraft:bamboo_wall_sign":{
-		"default": "悬挂式竹告示牌"
+		"default": "Bamboo Hanging Sign"
 	},
 	"minecraft:cherry_wall_sign":{
-		"default": "悬挂式樱花木告示牌"
+		"default": "Cherry Hanging Sign"
 	},
 	"minecraft:brewing_stand":{
-		"default": "酿造台"
+		"default": "Brewing Stand"
 	},
 	"minecraft:cherry_hanging_sign":{
-		"default": "悬挂式樱花木告示牌"
+		"default": "Cherry Hanging Sign"
 	},
 	"minecraft:warped_hanging_sign":{
-		"default": "悬挂式诡异木告示牌"
+		"default": "Warped Hanging Sign"
 	},
 	"minecraft:mangrove_hanging_sign":{
-		"default": "悬挂式红树木告示牌"
+		"default": "Mangrove Hanging Sign"
 	},
 	"minecraft:jungle_hanging_sign":{
-		"default": "悬挂式丛林木告示牌"
+		"default": "Jungle Hanging Sign"
 	},
 	"minecraft:spruce_hanging_sign":{
-		"default": "悬挂式云杉木告示牌"
+		"default": "Spruce Hanging Sign"
 	},
 	"minecraft:crimson_hanging_sign":{
-		"default": "悬挂式绯红木告示牌"
+		"default": "Crimson Hanging Sign"
 	},
 	"minecraft:oak_hanging_sign":{
-		"default": "悬挂式橡木告示牌"
+		"default": "Oak Hanging Sign"
 	},
 	"minecraft:jigsaw":{
-		"default": "拼图方块"
+		"default": "Jigsaw Block"
 	},
 	"minecraft:repeating_command_block":{
-		"default": "循环型命令方块"
+		"default": "Repeating Command Block"
 	},
 	"minecraft:chain_command_block":{
-		"default": "连锁型命令方块"
+		"default": "Chain Command Block"
 	},
 	"minecraft:command_block":{
-		"default": "命令方块"
+		"default": "Command Block"
 	},
 	"minecraft:birch_hanging_sign":{
-		"default": "悬挂式白桦木告示牌"
+		"default": "Birch Hanging Sign"
 	},
 	"minecraft:cherry_log":{
-		"default": "樱花原木"
+		"default": "Cherry Log"
 	},
 	"minecraft:dark_oak_hanging_sign":{
-		"default": "悬挂式深色橡木告示牌"
+		"default": "Dark Oak Hanging Sign"
 	},
 	"minecraft:acacia_hanging_sign":{
-		"default": "悬挂式金合欢木告示牌"
+		"default": "Acacia Hanging Sign"
 	},
 	"minecraft:torchflower_crop": {
-		"default": "火把花"
+		"default": "Torchflower"
 	},
 	"minecraft:smooth_stone": {
-		"default": "平滑石头"
+		"default": "Smooth Stone"
 	},
 	"minecraft:powder_snow": {
-		"default": "细雪"
+		"default": "Powdered Snow"
 	},
 	"minecraft:polished_granite": {
-		"default": "磨制花岗岩"
+		"default": "Polished Granite"
 	},
 	"minecraft:polished_diorite": {
-		"default": "磨制闪长岩"
+		"default": "Polished Diorite"
 	},
 	"minecraft:polished_andesite": {
-		"default": "磨制安山岩"
+		"default": "Polished Andesite"
 	},
 	"minecraft:suspicious_gravel": {
-		"default": "可疑的沙砾"
+		"default": "Suspicious Gravel"
 	},
 	"minecraft:granite": {
-		"default": "花岗岩"
+		"default": "Granite"
 	},
 	"minecraft:diorite": {
-		"default": "闪长岩"
+		"default": "Diorite"
 	},
 	"minecraft:andesite": {
-		"default": "安山岩"
+		"default": "Andesite"
 	},
 	"minecraft:suspicious_sand": {
-		"default": "可疑的沙子"
+		"default": "Suspicious Sand"
 	}
 }

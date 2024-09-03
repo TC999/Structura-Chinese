@@ -1,64 +1,69 @@
-# Structura-Chinese
+# Structura
+[![Github All Releases](https://img.shields.io/github/downloads/RavinMaddHatter/Structura/total.svg)]()
 
-![GitHub all releases](https://img.shields.io/github/downloads/TC999/Structura-Chinese/total?label=%E4%B8%8B%E8%BD%BD%E6%95%B0)
-![GitHub issues](https://img.shields.io/github/issues-raw/TC999/Structura-Chinese?label=%E8%AE%AE%E9%A2%98)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/TC999/Structura-Chinese?label=%E6%8B%89%E5%8F%96%E8%AF%B7%E6%B1%82)
-![GitHub Repo stars](https://img.shields.io/github/stars/TC999/Structura-Chinese?label=%E6%A0%87%E6%98%9F%E6%95%B0)
+English丨[**简体中文**](https://github.com//Wulian233/Structura/blob/main/README-zh-cn.md)
+
+This tool is inspired by Litematica. It is a tool that generates Resource packs from .mcstructure files. In this resource pack the armor stands were modified to render when off screen, and have all the blocks from your structure file as bones in their model. then "ghost blocks" are used to show the user where to place the real blocks. 
+
+[![Intro to Structura video](https://img.youtube.com/vi/IdKT925LKMM/0.jpg)](https://www.youtube.com/watch?v=IdKT925LKMM)
+
+## Generating an .mcstructure file
+
+First you must get a structure block, as this is typically done from a creative copy with cheats enabled, simply execute `/give @s structure_block` to get a structure block 
+![alt text](https://github.com/RavinMaddHatter/Structura/blob/main/docs/give_structure.png?raw=true)
+Next configure the structure using the GUI, selecte every block you wish to have in your armor stand. Note the largest size suported by a single structure block is 64x64x64 (without editing your worlds NBT data)
+![alt text](https://github.com/RavinMaddHatter/Structura/blob/main/docs/select_structure.PNG?raw=true)
+Next click the export button at the bottom to produce a save prompt, this will allow you to save the structure to a file. Name it whatever you want and not the location, you will need it later.
+![alt text](https://github.com/RavinMaddHatter/Structura/blob/main/docs/export_structure.PNG?raw=true)
+
+## Converting a structure into a .mcpack file
+First you will need to download the current release of Structura. Extract the zip file, and launch executable. once it is launched you should see something like the image below.
+![alt text](https://github.com/RavinMaddHatter/Structura/blob/main/docs/launch_structura.PNG?raw=true)
+Next open your exported structure from earlier using browse button, or type the path in manually.
+![alt text](https://github.com/RavinMaddHatter/Structura/blob/main/docs/browse_file.PNG?raw=true)
+Enter a name for you structura pack.
+![alt text](https://github.com/RavinMaddHatter/Structura/blob/main/docs/name.PNG?raw=true)
+** if you mistakenly name two files the same it will show you the prompt below to rename it
+![alt text](https://github.com/RavinMaddHatter/Structura/blob/main/docs/already_exists.PNG?raw=true)
+If everything worked you should now have an mcpack file 
+![alt text](https://github.com/RavinMaddHatter/Structura/blob/main/docs/pack_made.PNG?raw=true)
+
+## Using the pack
+This pack is like any texture pack. To use it you must make sure it is active, enabling it in your global resources works well.
+![alt text](https://github.com/RavinMaddHatter/Structura/blob/main/docs/make_pack_active.PNG?raw=true)
+The structure will appear around every armor stand in the worlds you load. It is how we are able to make it work on any world. So get out an armor stand and place it down to see your structure.
+![alt text](https://github.com/RavinMaddHatter/Structura/blob/main/docs/example_full.png?raw=true)
+You can go through a structure layer by layer if you like by shift right clicking on the stand. This will minimize all layers except the "active" ones. I cannot add poses without adding a behavior pack so for large structures there will be mutiple layers displayed at a time (12 blocks apart)
+![alt text](https://github.com/RavinMaddHatter/Structura/blob/main/docs/example_layer.png?raw=true)
+
+
+## Linux
+
+To start, you definitely need to install the python3-tk package.
+
+Choose the method that suits you:
+
+Debian/Ubuntu:
+```bash
+sudo apt-get install python3.7-tk
+```
+Fedora:
+```bash
+sudo dnf install python3-tkinter
+```
+Arch:
+```bash
+yay -S python37 # yay or any other AUR component
+```
+To run Structure, allow start.sh run and run:
+```bash
+chmod +x start.sh && sh start.sh
+```
+
+## Updating blocks
+As of structura 1.3 you can update the blocks manuall and contribut back to the project.
+[Here is a write up on how this works](docs/Editing%20Blocks.md)
 
 
 
-Structura汉化版，直接修改源码显示文字，[原版地址](https://github.com/RavinMaddHatter/Structura)，[汉化最新版下载地址](https://github.com/TC999/Structura-Chinese/releases/latest)
 
-该软件Wiki(简体中文，非官方)
-
-## 效果展示
-
-普通
-
-![s1](s1.png)
-
-高级选项勾选
-
-![s2](s2.png)
-
-大型建筑模式（1.6.3新增）
-
-![s3](s3.png)
-
-## 翻译文本(Translation)：
-
-|原文|简体中文|繁體中文（香港）|繁體中文（台灣）|
-|----|----|----|----|
-|Update|更新|更新|更新|
-|Structure File|结构文件|||
-|Icon File|图标文件|||
-|Pack Name|包名|||
-|Browse|选择|||
-|advanced|高级|||
-|make lists|生成材料列表|||
-|Make Pack|制作投影包|||
-|Offset|偏移量|||
-|Transparency|透明度|||
-|Add Model|添加模型|||
-|Remove Model|删除模型|||
-|Big Build Mode|大型建筑模式|||
-|Get Global Cords|获取全局坐标|||
-## 待办(TODO)
-
-- [x] 材料列表翻译（大部分）
-
-- [ ] 多国语言界面（繁体中文）
-
-- [ ] 向原版提交翻译
-
-## 协助开发
-
- 1. 复刻(Fork)此项目
- 2. 在复刻项目中修改 `Structura.py` `\lookups\material_list_names.json` 源码
- 3. 提交拉取请求(Pull Request)
-
-## 构建方法（仅Windows，推荐使用[PyCharm社区版](https://www.jetbrains.com/pycharm/download/?section=windows)）
- 1. 下载整个项目的代码，并在PyCharm中打开
- 2. 配置虚拟环境:`pip install -r requirements.txt` `pip install pyinstaller`
- 3. 打包指令`pyinstaller -F -w -i icon.icon structura.py`
- 4. 将`lookups`、`Vanilla_Resource_Pack`全部复制到`dist`文件夹中，双击`structura.exe`即可
